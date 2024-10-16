@@ -1,0 +1,145 @@
+8
+9 739
+uua 13 16
+akc akn axf axy axv aku axk akt axj axd axx akm akq akb axe akr
+uub 1 4
+waf wpr wpu waj
+uur 9 9
+njm njr nef nju nee nej njb njt ned
+uun 13 16
+twh twa twl twc twv tww twy two twp twz twi tws twk twx twg twq
+uuq 1 4
+atp ata ato ats
+uug 6 9
+msa msg msp msz msh mss msc msq mso
+uum 7 9
+kyx kyk kyy kys kyz kyi kyo kyw kyl
+uut 16 16
+nry nmc nmu nrk nrf nrx nmq nmb nmm nre nmt nrj nrd nmr nrv nmn
+uuc 1 1
+ygd
+7 772
+uua 0 1
+axy
+uuh 8 9
+gsq gsc gsn gsb gsm gsa gsh gst gsg
+uub 0 1
+qbo
+uun 6 9
+fkh fkc fkn fkb fka fkq fkg fkp fko
+uuq 1 4
+ato ats ata atp
+uuc 8 9
+xun xuh xup xuc xug xuq xub xua xuo
+uum 3 4
+hdd hdk hde hdv
+10 718
+uut 16 16
+gss gso gsq gsc gsz gsp gsl gsa gsn gsi gsg gsm gsh gsb gst gsw
+uug 8 9
+zzj zzv zze zzk zwu zzf zzd zwr zwm
+uuh 0 1
+qbo
+uuq 15 16
+kxu kyj kyl kys kye kyv kyk kyx kyw kyi kyd kyz kyf kxr kyy kyo
+uub 0 1
+qbo
+uun 3 4
+fkn fkc fkb fkq
+uuc 4 4
+uia uih uig uip
+uua 8 9
+ttk ttw tty ttx ttl ttz ttd ttv tti
+uum 1 1
+hdk
+uur 8 9
+zkx zkd zkv zkj zke zkl zky zki zkk
+8 627
+uun 1 4
+zki zky zkl zkx
+uua 9 9
+yar yab yam ygd ygj yat yge yau ygf
+uuq 7 9
+kol koy kov kok kox koi kod koj koe
+uum 3 4
+lxw lxi lxz lxl
+uug 14 16
+msh msa msi msg msz mss msq msp msk msc msx msv mso msl msw msy
+uuc 15 16
+lxf lxy lkm lxx lxi lxe lxw lxd lxj lxk lku lkt lkr lxl lxz lxv
+uub 4 4
+twq twc twg twh
+uut 0 1
+shb
+7 667
+uuc 8 9
+xuo xuh xup xuq xuc xua xun xug xub
+uua 4 4
+axk axy axx axv
+uug 0 1
+wnm
+uum 9 9
+njb nej nee njm njt njr nju nef ned
+uun 9 9
+zzk zzj zwu zzf zwr zze zwm zzd zzv
+uur 0 1
+bpa
+uub 0 1
+qbo
+10 756
+uut 0 1
+uih
+uug 6 9
+ttd tty ttx ttv ttz tti ttk ttw ttl
+uun 2 4
+fkn fkb fkq fkc
+uuc 16 16
+xug xui xuq xuw xus xul xux xup xun xuz xuc xuy xub xua xuh xuo
+uuh 1 1
+gsm
+uum 1 1
+lxz
+uur 1 1
+bpa
+uub 9 9
+vhj vhe vhd vgm vhf vgu vhk vgr vhv
+uuq 2 4
+fzg fzh fzp fza
+uua 6 9
+yge ygd ygj yau yam yat yab ygf yar
+8 746
+uum 8 9
+hdd heu hem hdj hde hdk hdv hdf her
+uuc 2 4
+rcl rcy rcx rci
+uub 8 9
+ell els ela elo elp eli elz elw ely
+uuh 9 9
+vhf vhv vhk vhe vhd vhj vgm vgr vgu
+uur 0 1
+zki
+uuq 4 4
+kox koi kol koy
+uug 6 9
+uio uia uih uip uiz uiw uig uis uii
+uun 0 1
+ygd
+9 679
+uur 8 9
+nju njt nej nef njb njm ned nee njr
+uum 1 1
+ned
+uun 1 4
+zzv zzd zze zzk
+uug 1 1
+rci
+uuc 1 1
+ata
+uuh 2 4
+qbw qbz qbs qbo
+uuq 6 9
+fka fkn fko fkb fkc fkg fkh fkp fkq
+uub 14 16
+rck rcj rcy rqt rcf rqm rcx rcv rce rqu rqb rcl rqr rqn rcd rci
+uua 16 16
+zgc zgu zgm zgq zgs zga zgg zgr zgb zgh zgp zgo zhj zhf zgt zgn

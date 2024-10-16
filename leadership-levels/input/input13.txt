@@ -1,0 +1,76 @@
+5
+8 796
+wwb 16 16
+dpp dpl yww dph dpx dpn ywj dpv dpq dpo yws dpu dpz dpa dpr ywe
+wwk 0 1
+jfz
+wwf 3 4
+jlp jlh joj jow
+wwe 8 9
+bju bjx bjo bjl bjp bjq bjr bjh bsw
+wwj 3 4
+dtg dtc dtf dtt
+wws 9 9
+yur yux yuu yuh yuo yuq ylw yup yul
+wwg 14 16
+tms tmd tma tmt tmf tmn tmy tmk tme tmi tmz tmg tmv tmb tmc tmm
+wwc 7 9
+bjx bjp bsw bjo bjr bjl bjq bju bjh
+6 622
+wwf 13 16
+vqe vxr vxn vxv vqj vxl vxq vxh vxx vxp vxa vxo vxu vqs vxz vqw
+wwk 7 9
+yux yuh ylw yul yuu yuo yuq yur yup
+wwd 8 9
+eay eai eac ean ead eaf eam eat eag
+wwj 1 1
+yur
+wwe 1 1
+vxn
+wwg 2 4
+ovm ovi ovd ovy
+7 681
+wwg 2 4
+tmk tms tme tmb
+wwd 9 9
+dxl dxu dxh dxq dxr dqw dxx dxp dxo
+wwe 8 9
+tms tmb tmg tmf tmk tmd tme tmt tmc
+wwb 13 16
+ckz ckn cbj ckv cka ckl cbw cko ckh ckp ckq cku ckx ckr cki ckm
+wwc 6 9
+pna pnt pnn pnd pnm pnz pny pni png
+wwk 13 16
+eaz ean eat eau eaf eam ear eav eaq ead eag eaa eac eax eai eay
+wwt 6 9
+jok joj jow jof jos jlp joe jlh job
+6 684
+wwb 1 1
+nqz
+wwt 13 16
+naw nat naj nnq nae nnh nno nak nnp nag nab nnu nas nac nnl naf
+wwg 15 16
+ugp ugu utk utg utc utb utt ugq utf utj ugl ute utw ugh ugo uts
+wwk 7 9
+utw ugo utj ugq uts ugp ugu ugh ugl
+wwj 9 9
+kyv kya kyy kym kyi kyr kyn kyz kyd
+wws 14 16
+wzu wzr wzn wzi wzz wzy wzl wzd wzo wzg wzx wza wzt wzq wzm wzv
+8 724
+wwf 16 16
+wzz wzu wzi wzn wzy wzt wzl wza wzq wzm wzv wzg wzx wzo wzd wzr
+wwc 15 16
+klj klf klg klc kuo kly kuh kup klt klb kle klw kld kls kul klk
+wwg 2 4
+kuh kup kuo kul
+wwd 13 16
+nty ntw nti ngp ntt ntc ngh ntm ntk ntb ntg nte ntf ntd nts ntj
+wwe 0 1
+lkh
+wws 14 16
+nue nqo nqh nqu nql nqx nuk nub nqv nqz nqq nqr nuj nqp nuw nus
+wwj 0 1
+bol
+wwk 1 4
+ovm ovy ovd ovi

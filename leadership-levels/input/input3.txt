@@ -1,0 +1,97 @@
+14
+5 19
+mmt 0 1
+uqn
+mmq 3 3
+ogw ogn ogc
+mmv 4 4
+ked kee kei kea
+mmf 4 4
+ayv ayr ayf ayt
+mmu 1 1
+bpk
+3 20
+mmr 6 8
+efr eff efv eft ety etz efu efm
+mmv 7 9
+kdm kee key kez ked kdv kea kei kdu
+mmu 1 4
+kee ked kei kea
+3 24
+mmv 13 16
+wau wiz wii wav wie wij wid waf wia wig win wiy wat war wio wam
+mmu 16 16
+wiz wiy waf wij wie win wam wia wii wat wio wav wau wid war wig
+mmr 5 5
+kee kez kea kei ked
+2 19
+mmt 4 4
+csu cpz csm cpy
+mmv 6 9
+wig wia wii wio wij wiz wie wid win
+3 25
+mmr 14 16
+hxv hxw hxs hxx hxb hxo hxk hxq hxl hxc hxr hxp hxn hxt hxf hxh
+mmu 1 1
+win
+mmt 4 4
+csu csm cpy cpz
+4 25
+mmv 1 1
+ogw
+mmr 16 16
+hxn hxh hxl hxr hxx hxs hxt hxk hxv hxf hxc hxq hxo hxp hxw hxb
+mmu 0 1
+kei
+mmf 1 2
+wio win
+3 25
+mmr 15 16
+xzy xzx xzo xzg xzd xym xzl xzz xzj xzn xze xzi xzw xza xyu xzc
+mmt 3 4
+btx btw btc btl
+mmu 0 1
+fde
+5 30
+mmr 0 1
+ogw
+mmh 6 6
+mnk mnl mnx mns mnp mnh
+mmu 1 4
+tsp tss tsx tsl
+mmb 0 1
+iln
+mmt 7 9
+don dop dol dox dow doc doj dos doo
+1 15
+mmu 14 14
+wam win wie wav wio wid wia war wij wiz wii wau wig wiy
+2 11
+mmv 2 5
+sai sag saa sae saj
+mmu 1 4
+bpp bph bpk bps
+2 11
+mmu 1 1
+bpk
+mmv 6 8
+dol dox doo dop dow doc dos don
+3 18
+mmu 0 1
+tsp
+mmr 11 13
+ogo ogd ogc ogn oim ogj ogi oga ogw ogz ogg oge ogy
+mmv 1 1
+win
+3 27
+mmr 7 7
+xzj xzw xzl xzc xzx xzo xzn
+mmu 1 1
+fde
+mmv 16 16
+kdk kdb kdm kdt ked kdr kee kei kdu kez key kdv kdh kdq kdf kea
+2 13
+mmu 4 4
+vzz vym vzy vyu
+mmv 4 7
+kdm key ked kez kee kea kei

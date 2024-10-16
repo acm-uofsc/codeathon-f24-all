@@ -1,0 +1,89 @@
+14
+8 97000
+mmi 2 4
+hng hnf hnb hnp
+mmq 9 9
+jbm jiz jbl jiu jbv jis jix jbd jbc
+mmv 16 16
+prp prc prr prh pri prq prj prf prg prk pry prw pro pra prb pre
+mmb 1 4
+oxq oxy oxk oxc
+mmd 4 4
+rzn rzt rzz rzu
+mmy 1 1
+stc
+mml 1 4
+rzn rzz rzu rzt
+mmc 15 16
+ows otv oww owt owh owz owe otl otd owo owj owx otm own owu owa
+3 18
+mmv 1 4
+prc pry prk prq
+mmc 4 6
+hgl hgv hbx hgm hgd hbs
+mml 2 4
+qvn qvt qvw qvj
+4 20
+mmv 0 1
+cgb
+mml 4 4
+jis jix jiu jiz
+mmd 7 9
+gnz gnw gnn gnx gnu gnt gns gzm gnj
+mmq 0 1
+stc
+1 9
+mmv 6 8
+rzt ruv rzn rzs rzu rum rzx rzz
+1 3
+mmv 0 1
+quz
+3 21
+mmv 8 9
+dsd dsq dxs dsv dsm dxx dsc dsl dsk
+mmd 4 4
+rzu rzz rzn rzt
+mmc 3 4
+vkj vkw vko vke
+1 10
+mmv 6 9
+ate atw atz atn atx att ato atu atj
+1 5
+mmd 1 3
+quz quu qux
+3 23
+mml 0 1
+ipd
+mmd 7 9
+meh mer mea mee meg mei meb mep mef
+mmc 8 9
+ycp ycf ycw yct yce ycj yco ych yca
+1 5
+mmv 3 4
+bir biy bii bik
+3 26
+mmd 6 9
+tjw tjp tjj tjh tja tje tjt tjf tjo
+mmv 6 9
+bif bib bik big bii bip biy bia bir
+mml 2 4
+jix jiu jiz jis
+1 5
+mmd 2 3
+meb mei mer
+3 20
+mmv 1 1
+bik
+mmd 1 1
+quz
+mml 12 15
+ipe ipf ipp ipq ipl ipr ipi ipa ipg ipc ipd iph ipk ipb ipy
+4 27
+mmc 2 4
+uop uog uof uob
+mmv 6 9
+cgh cgf cgb cga cgo cge cgp cgj cgg
+mmd 7 9
+gnj gnu gnz gzm gnw gns gnx gnn gnt
+mml 1 1
+rzt

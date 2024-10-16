@@ -1,0 +1,11 @@
+taugi
+t *
+a +
+u +
+g -
+i *
+4
+9 t 20 g ( 20 g 5 u ( 1 g 3 u 17 i 12 ) u ( 19 a 20 a 13 a 11 i 1 u 0 g 16 a 14 ) ) a 16 g 11 u 14 g 13
+18 u ( 17 u 6 t 20 g ( 13 g ( 19 t 6 u ( 17 ) g 17 g 9 i 6 a 2 ) t 3 a 6 ) u 19 g 0 g 3 t 16 ) a 11 a 12
+10 g 1 g 8 i ( 3 t 14 g ( 7 t 18 a 14 t ( 3 ) i 17 g 18 ) i 7 a 11 ) i 3 t 7 a 12 t 4 g 13 i 17 u 3
+0 t ( 16 i 7 ) i 10 a ( 6 g ( 16 ) t 10 u 9 ) a ( 1 g 15 u 3 g 12 a 0 i 2 ) a 13 i 5 u 12 a 14 u 7 u 11

@@ -1,0 +1,182 @@
+11
+7 639
+wwf 8 9
+psr psm psz psp psh pse psg psk pss
+wwi 2 4
+vjj vxi vxw vjx
+wwn 4 4
+hte htj htd htx
+wwu 6 9
+kum kud kue kux ktw kuk kuj kti ktv
+wwa 4 4
+xru xrt xro xrc
+wwl 6 9
+fgb fgq fgr fgo fgu fga fgt fgc fgn
+wwv 14 16
+rms rme rkl rki rmj rmm rmx rmh rkw rmp rmk rmd rky rkv rmz rkf
+7 632
+wwl 13 16
+tbo tbr tbl tbu tbv tbf tbn tba tbp tbc tbg tbt tbq tbb tbz tby
+wwi 3 4
+ctu ctn ctt cta
+wwy 6 9
+rgv rrm rre rgw rrd rrk rrx rrj rgi
+wwn 3 4
+cfq cfc cfb cfo
+wwu 0 1
+zpr
+wwf 1 4
+bjb bjg bjr bjq
+wwv 4 4
+uem ued uek uee
+9 723
+wwf 0 1
+yih
+wwt 16 16
+idc idf idl iex idb ido idi ida idq idu idt idw idv idn idy iej
+wwc 7 9
+ffp ffr ffk ffm ffs ffe ffg ffz ffh
+wwu 13 16
+vbm vbz vbh vbk vbs vbo vbc vbu vbq vbg vba vbn vbt vbp vbb vbr
+wwl 7 9
+alz alm alg als alp alh alb alq alr
+wwn 1 1
+psr
+wwy 4 4
+xma xml xmn xmy
+wwv 1 4
+fgu fgn fga fgt
+wwa 7 9
+gcj gow gof goy gcx goi gon gov gol
+7 603
+wwl 7 9
+kux kuk kti kuj kue kum kud ktv ktw
+wwa 7 9
+mhp mhq mhb mhr mhg mhs mhm mhh mhz
+wwv 14 16
+rmh rmx rmz rmk rme rmj rki rms rmm rkl rmp rkf rkv rmd rky rkw
+wwf 4 4
+htd htj hte htx
+wwt 0 1
+gkc
+wwu 14 16
+swb swg swu swz swn swh sws swl swo swt swr swq swp swa swy swc
+wwy 4 4
+rrm rrk rrd rre
+7 688
+wwy 1 4
+elj eyi eyw elx
+wwf 9 9
+psm psr psg psz psp pss pse psh psk
+wwl 9 9
+okd okx oks okh okm okk oew okj oke
+wwv 16 16
+dpk dpq dpj dpx dph dpg dpe dpo dps dpr dpc dpd dpz dpp dpb dpm
+wwn 4 4
+wzo wzc wzu wzt
+wwu 0 1
+alq
+wwc 1 4
+csk css csm csh
+8 674
+wwa 0 1
+lke
+wwv 1 4
+rmz rmp rmh rms
+wwl 7 9
+psk psg psh pse psm psp psz psr pss
+wwi 0 1
+vjj
+wwy 6 9
+cxk cxr cxp cxh cxm cxs cxe cxz cxg
+wwn 1 1
+swl
+wwu 0 1
+ruj
+wwc 8 9
+fga fgu fgn fgo fgc fgr fgt fgq fgb
+6 700
+wwu 7 9
+swl swy swc swn swt swq swa swo swu
+wwv 1 4
+wzu wzc wzo wzt
+wwc 7 9
+fgb fgr fgu fgc fgo fga fgq fgn fgt
+wwt 1 4
+gyv gyf gyy gyl
+wwy 3 4
+xmn xml xma xmy
+wwf 0 1
+uem
+10 610
+wwy 1 1
+hte
+wwv 4 4
+fgu fgt fgn fga
+wwt 15 16
+gke gkd gkq gkh gks gkz gkp gkc gkx gkj gkg gkk gko gkm gkb gkr
+wwf 1 1
+elj
+wwa 0 1
+mhq
+wwl 0 1
+tbv
+wwn 7 9
+ink inm ind inp inh inj ine inz ins
+wwc 16 16
+csm cmw cmy cmf csj css cse cmi csx cma csk cml csd cmv cmn csh
+wwu 14 16
+dpc dph dpm dpd dpz dpj dpx dpe dpo dpq dps dpk dpg dpr dpb dpp
+wwi 7 9
+buc buq buo bul buy bua but buu bun
+8 660
+wwu 1 1
+lke
+wwy 9 9
+cxe cxp cxr cxh cxz cxm cxs cxg cxk
+wwa 0 1
+gyv
+wwt 15 16
+ffm ffs ffh ffg ffd fli flv flw ffx ffj flf ffz ffr ffp ffk ffe
+wwv 14 16
+psm psz pmf pmi pse psx pss psg psd psp psk psh pmw psj pmv psr
+wwn 13 16
+wzc wzs wzu wzz wzb wzk wzr wzg wzd wzt wzp wzh wzo wzq wze wzm
+wwl 0 1
+okh
+wwc 2 4
+fgn fgt fga fgu
+8 726
+wwl 13 16
+pmf pmi psh psm psk psz pss psj pmw pse psg psp psr psx psd pmv
+wwy 4 4
+rrm rrd rre rrk
+wwt 1 1
+bjq
+wwv 2 4
+yde ydj ydd ydx
+wwf 14 16
+tbv tbu tbp tbf tbr tba tbt tbg tbl tbo tbz tby tbc tbq tbb tbn
+wwu 4 4
+kuk kud kum kue
+wwa 14 16
+gyt gyb gyf gyv gyr gyy gya gyp gyl gyn gyc gyg gyz gyo gyq gyu
+wwi 14 16
+udy uex udi udn uda udv udw ued udu udl udf uee uek uej uem udt
+8 717
+wwl 15 16
+tba tbr tbp tbu tbn tby tbg tbv tbq tbz tbt tbf tbb tbc tbo tbl
+wwc 1 1
+ruj
+wwy 0 1
+fgn
+wwa 0 1
+gyv
+wwv 1 1
+fgn
+wwn 3 4
+tby tbf tbl tbv
+wwu 8 9
+zpk zps zpg zpz zpp zpe zpm zph zpr
+wwi 1 1
+okh

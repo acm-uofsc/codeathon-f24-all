@@ -1,0 +1,94 @@
+15
+2 19
+ssi 1 1
+rgm
+ssh 16 16
+vzr vzu vza vzy vzt vzd vzq vzj vzv vzx vzm vzg vzk vzp vzz vzo
+1 17
+ssh 14 16
+cns cnv cfe cnj cff cnq cnc cnw cna cfn cfb cnl cnz cny cni cnh
+6 26
+ssi 0 1
+gpx
+ssj 1 4
+ega egj egl egc
+ssv 4 4
+jlo jlk jlx jlr
+ssl 3 4
+woz woj woa woy
+ssy 2 4
+jlx jlk jlr jlo
+ssh 0 1
+rgm
+2 10
+ssl 1 4
+qtp qtt qtd qtg
+ssi 1 1
+udr
+1 15
+ssi 12 13
+qtg qbh qbl qtf qtd qtt qtb qbi qtp qbw qbs qte qtn
+2 10
+ssh 1 1
+lqv
+ssi 4 7
+fuk fuo fuq fuv fum fur fux
+3 17
+ssi 6 9
+rgp rgd rgf rgn rgm rgt rgg rgu rgb
+ssh 1 1
+inn
+ssc 0 2
+pzf pzb
+5 25
+ssi 6 9
+rgg rgm rgd rgt rgu rgn rgp rgf rgb
+ssh 1 4
+rgp rgm rgu rgd
+ssw 7 9
+zka zkj zkw zkz zkv zkc zky zkl zki
+ssl 1 1
+tyg
+ssc 0 1
+tei
+3 23
+ssw 8 10
+pvc pvh pvi pvw pze pzb pvs pzf pzn pvl
+ssi 6 9
+wox woj woy wok wov woq wor woz woa
+ssh 0 1
+qtp
+3 16
+ssl 1 2
+woa woj
+ssw 8 9
+bcw bcs bci ble bcc bca bcl bln bch
+ssh 0 1
+ybg
+3 25
+ssw 1 2
+pzb pzf
+ssh 1 4
+rgm rgd rgp rgu
+ssi 14 16
+yfa yfi ybf yfy ybn yfj ybg yfz yfc yfs ybb yfw yfh yfl ybt ybe
+4 28
+ssh 1 1
+inn
+ssw 8 9
+kno kng knk knp knm knu knr knd knx
+ssi 4 4
+qtg qtp qtd qtt
+ssl 9 9
+hag had haf hat hab han hap ham hau
+2 5
+ssi 1 2
+woj woa
+ssh 1 1
+ybg
+1 13
+ssh 10 12
+qte qtt qbs qtn qtf qtp qbi qtb qbh qtg qtd qbw
+1 7
+ssi 4 4
+woj woy woa woz

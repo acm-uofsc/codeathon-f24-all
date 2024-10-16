@@ -1,0 +1,13 @@
+nyxdcl
+n -
+y +
+x +
+d *
+c -
+l -
+5
+12 x 6 l ( 14 ) n 13 y ( 6 ) d 20 y ( 16 x 8 n ( 19 n 1 l 10 c 9 l 5 c 7 x 15 c 19 n 18 y 20 ) d 10 y 3 )
+14 d 19 x ( 1 d 12 l 0 ) d ( 9 d ( 0 ) ) x 7 y ( 18 y 18 d 17 ) c 14 l 15 n 4 c 7 l 5 x 15 c 16 x 9 y 11
+0 d ( 12 l 19 ) n 4 n ( 6 x ( 20 d ( 19 c 2 x ( 0 x 9 c 19 y 8 c 13 x 19 n 4 n 12 n 5 y 3 c 20 x 12 ) ) ) )
+5 x ( 20 n 17 n ( 2 l 0 d 17 d ( 20 y 15 c ( 1 ) d 18 ) n 14 x 18 ) ) y 13 y 14 c 18 y 8 c 3 x 3 c 7 y 16
+8 d ( 13 c 16 ) x 1 n ( 16 n 1 ) c ( 20 n 7 d 20 x 18 d 3 ) y 13 d 11 n 5 y 19 d 19 x 7 d 20 y 20 n 16

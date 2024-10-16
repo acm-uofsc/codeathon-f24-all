@@ -1,0 +1,42 @@
+5
+7 96990
+iib 1 1
+ewo
+iir 6 9
+gtj gtz gts gte gtc gtg gtq gtn gtt
+iiv 4 4
+gtc gtg gtn gte
+iil 2 4
+zly zls zlz zlq
+iid 8 9
+jwm juo jwi juh jwk jwr jus juy jwv
+iiw 4 4
+juh jus juy juo
+iik 7 9
+mhi moh mhd mhk moo mhm mhv mhf mhr
+3 20
+iim 0 1
+cqn
+iik 7 9
+lss lyk lyi lsy lym lso lsq lsh lsz
+iir 6 7
+inw inp inu ina inl inc inx
+5 23
+iik 7 9
+vaa vac vaj vag van vap vaw vax vae
+iiv 0 1
+kdn
+iim 0 1
+gtc
+iib 2 4
+hcu hcl hcw hca
+iir 1 1
+svo
+3 24
+iim 4 4
+ygw ygx yga ygp
+iik 0 1
+wud
+iir 15 16
+gtg gth gtc gtq gte gtj gqk gto gtz gty gts gtn gqm gqr gqi gtt
+0 2

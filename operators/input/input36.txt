@@ -1,0 +1,14 @@
+bazjc
+b *
+a -
+z -
+j *
+c *
+7
+15 b ( 9 b 11 j ( 11 a 12 a ( 17 ) z ( 20 a ( 7 ) a ( 16 a 18 c 8 b 2 ) j 10 z 16 z 11 ) z 3 b 14 c 6 z 18 c 3 ) )
+19 c 1 c ( 0 ) z 15 b ( 7 a ( 2 b ( 8 ) j ( 3 b ( 6 j 18 c 4 ) c 5 c 9 b 13 b 3 c 2 ) j 9 b 6 j 11 ) ) j 0
+11 a 13 a ( 8 z 12 z ( 4 z 20 ) j 13 z 14 ) c ( 15 b 0 ) z 3 j 7 j 9 j 8 a 10 j 13 b 15 j 14 c 8 c 17
+15 c ( 15 j 6 j ( 3 ) z ( 9 z ( 15 ) b 4 ) ) c 18 z 20 z 7 z 3 z 11 a 3 b 18 j 12 b 8 j 17 a 16 a 15 b 2
+8 j 9 j 9 c ( 19 ) c ( 2 z ( 13 z ( 10 ) z 13 ) z 6 b 15 ) z 17 a 0 b 7 c 0 c 12 a 15 b 8 b 20 a 16 z 13
+0 z ( 0 c ( 13 j ( 4 z ( 17 c ( 2 ) c ( 13 a ( 10 ) a 18 ) z 14 j 4 b 0 b 11 j 1 a 20 c 7 b 18 ) a 15 c 5 b 14 ) ) )
+19 c ( 15 j 7 a ( 17 ) c 8 a ( 15 z ( 4 z 18 c ( 9 c 0 ) a 5 b 8 z 4 ) a 13 c 4 a 10 ) ) b 16 a 11 b 5 c 14

@@ -1,0 +1,38 @@
+5
+10 96999
+ttz 4 4
+aiv aip aie aix
+tta 3 4
+gbv gbp gbe gbx
+ttr 3 4
+dto dti dtz dta
+tts 1 1
+prk
+ttu 0 1
+ynb
+tto 4 4
+uod uof uoq uob
+ttc 6 9
+tff tfv tfp tfx tfj tfr tfe tfs tfy
+tti 4 4
+yng ynd ynn ynb
+ttm 15 16
+rhm rho rln rll rlk rhu rhi rht rlh rlw rhr rhz rlg rhc rha rhj
+ttj 1 1
+vzm
+1 8
+ttm 4 4
+ynn ynb ynd yng
+0 1
+1 11
+ttu 9 10
+ynl ynh yng ynd ylu ynw ynk ynn ynb ylt
+4 26
+ttc 3 4
+jxi jxc jxm jxz
+tti 1 1
+ynb
+ttu 14 16
+pnc pnu pgk pgb pgq pnm pni pnz pgg pgw pgn pgh pgf pnt pgl pgd
+ttm 1 1
+cvo

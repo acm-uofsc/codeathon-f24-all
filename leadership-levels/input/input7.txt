@@ -1,0 +1,44 @@
+7
+1 9
+kky 6 8
+vca vcq vcg vcm vcs vcc vcd vch
+2 18
+kky 7 9
+sni snr snz snt snn snq sna sno snu
+kkp 4 7
+aiq aih aia air aii ain ais
+2 5
+kkp 2 2
+bzu bzz
+kky 1 1
+wgf
+2 16
+kkp 10 10
+fuo fzp fzk fux fut fzj fun fuz fuu fzy
+kky 1 4
+bzo bzx bzz bzu
+4 21
+kkb 0 1
+txp
+kkp 9 9
+bov bzu bop boy bzo bok bzx bzz boj
+kky 0 1
+fun
+kkl 4 4
+kqg kqc kqf kqe
+4 29
+kkw 0 1
+byr
+kkp 3 4
+zac zag zam zad
+kkb 15 16
+wvq wbk wvt wvx wvz wby wvu wvn wva wvo wvr wvd wvm wvi wvs wvh
+kky 1 1
+bzu
+3 19
+kky 6 9
+snu snn snz sna snr snq sno snt sni
+kkp 0 1
+ais
+kkj 6 6
+fuu fuo fut fux fuz fun

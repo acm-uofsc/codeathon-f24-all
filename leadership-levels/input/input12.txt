@@ -1,0 +1,84 @@
+5
+7 798
+ggt 6 9
+raa ret reg rae rer rek rew rep rei
+ggd 8 9
+hwz hwo hwn hws hwm hwy hwj hwl hwb
+ggr 1 1
+mlo
+ggp 1 1
+tva
+ggk 2 4
+mlo mlb mlz mlm
+ggu 9 9
+qjr qjd qjh qjk qji qjq qjw qju qjp
+ggq 1 4
+tpm tps tpz tpl
+10 661
+ggp 4 4
+gzq gzf gzd gzu
+ggt 1 1
+hdu
+ggu 0 1
+zmo
+ggr 9 9
+ysl ysm ysj ysb ysz ysn yss yso ysy
+ggw 0 1
+cmd
+ggq 13 16
+bxo bxv bxz bxn bxc bxa bxm bxs bxe bxy bxb bxx bxf bxj bxl bxd
+ggd 1 1
+maw
+ggk 0 1
+juw
+ggi 2 4
+deo dez dem deb
+ggh 6 9
+itl itx itv ita itc irg ity ite its
+7 684
+ggu 8 9
+lgh lgi lgp lgu lgn lgq lgf lgw lgd
+ggh 14 16
+bim bip bio bid bii biu bir bif biq bij biw biz bih bib bik bin
+ggt 1 1
+wfd
+ggr 0 1
+ysn
+ggk 2 4
+vit vig vwe vwa
+ggi 0 1
+ooy
+ggw 0 1
+fxs
+8 761
+ggq 0 1
+bir
+ggh 0 1
+bir
+ggw 6 9
+kbp kbn kbh kbf kbu kbj kbo kbq kbd
+ggk 7 9
+juq jud juh jup jui juf juw jun juu
+ggt 1 1
+raa
+ggd 16 16
+sdw sdi sqc sqa sdt sdq sdp sdf sdr sdk sdd sdh sdg sdu sqe sqv
+ggr 14 16
+oyz oxw oyc oxt oxg oyx oxk oye oys oya oyl oyv oxr oyy oym oxi
+ggp 1 1
+qjr
+7 776
+ggi 3 4
+oys oyl oyz oym
+ggd 0 1
+maw
+ggh 4 4
+bii bik biw bir
+ggr 0 1
+ysn
+ggk 9 9
+gzo gzf gzu gzq gzd gzz gzn gzb gzj
+ggp 3 4
+tcg tva tct tve
+ggu 9 9
+lgu lgn lgw lgd lgi lgp lgh lgq lgf

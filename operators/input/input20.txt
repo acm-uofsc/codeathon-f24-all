@@ -1,0 +1,15 @@
+ivud
+i +
+v -
+u *
+d *
+9
+8 v ( 1 v ( 2 ) i 9 v 12 ) i 8 i 4
+3 i 14 i 5 u 14 u 3 v 2 u 0
+12 i 9 v 3 d ( 13 v 11 v 9 ) i 3
+2 d 18 u 0 i 13 i 6 i 15 i 20
+6 v 13 u 20 v 16 d 13 u 16 i 4
+8 d 4 i ( 4 u 4 v 6 u 11 u 18 )
+3 d ( 15 ) v 0 i 1 i 8 u 15 i 5
+3 v ( 6 ) d ( 17 d 2 d 20 ) u 0 i 15
+16 u ( 19 v 1 ) i 18 u 6 i 16 i 6

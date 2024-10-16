@@ -1,0 +1,231 @@
+14
+9 632
+ooa 7 9
+smf smo smy snq snp snz smr smw snl
+oon 0 1
+fui
+oor 16 16
+azy alp azx all alq aza azn azh azk azo azf azm alz azw azu azr
+oom 13 16
+ygj ygc ygm ygx ygb ygt ygi ygd ygs ygk ygh yge ygn ygg ygv ygu
+oow 15 16
+gko gkn gkx gku gkj gkm gkk gka gmp gkt gkh gkw gmz gky gkf gkr
+ooy 16 16
+snz smo smw smn smk smm snp smr smh snl smy smf smu sma smx snq
+oox 0 1
+eti
+oof 2 4
+bed bes bev bei
+ooh 1 1
+njr
+9 773
+oox 0 1
+est
+oor 1 1
+est
+ooa 1 1
+mpb
+oon 13 16
+fqp flh fln fla flw flf flr fqz flu flm flt fly flk flj flo flx
+oou 1 4
+oih oik oim oin
+oof 3 4
+kce kcs kcc kcv
+ooh 6 9
+von voa vox vot vou vok vow vom voh
+ooy 1 1
+snq
+oow 8 9
+che cnr cnf chp cno chl chq chc chz
+5 741
+oom 0 1
+cpr
+oor 1 1
+oih
+ooy 1 1
+njr
+ooh 1 4
+bhp bno bhz bnf
+oow 6 9
+xwd xwe xwi xwt xwv xwj xws xwb xwg
+8 603
+oow 14 16
+cnf cnx che cnu chp chc cna chq cnn cnr cno cnw chz cny chl cnh
+ooa 1 1
+qwz
+oor 7 9
+hql hqe hqp hlf hqq hqz hqc hlr hlo
+ooy 1 1
+njr
+oom 9 9
+dzx dzw dzh dzm dzk dza dzu dzn dzt
+ooh 2 4
+wcz wcp wcq wcl
+oou 1 4
+oih oin oik oim
+oof 16 16
+azh azu azn azx azr aza azf all alq azy alp azo azm azw azk alz
+6 753
+ooa 0 1
+xwt
+oon 4 4
+oin oim oik oih
+oou 3 4
+mym myk myt myj
+oof 3 4
+bev bes bed bei
+oow 0 1
+gmz
+ooy 0 1
+dvb
+8 740
+oor 0 1
+ygu
+oou 1 4
+fuv fud fus fui
+oow 7 9
+xwt xwv xwd xwg xwb xwe xws xwi xwj
+oox 4 4
+gko gmz gmp gkf
+oom 0 1
+ygu
+ooa 7 9
+cpx cpy cpn cpr cpm cpa cpu cpw cph
+oof 1 4
+all alq alz alp
+oon 3 4
+gaw gar gaa gay
+9 771
+oof 16 16
+bes bel bcf bcr beq bed bei bco bcy bec bep bev bee bcw bca bez
+oom 13 16
+mve meu mex meo mer mvz mea mvp mvc mvv mvs mvl mvq mey mef mew
+oou 14 16
+ful fxo fue fxr fxa fxy fuq fui fxf fup fud fuz fuv fus fxw fuc
+ooh 0 1
+njr
+oow 1 4
+xwt xwj xwb xwg
+ooy 1 4
+afs afe afc afv
+oor 1 4
+all alp alz alq
+oon 14 16
+jpo jzq jzp jzj jze jzg jzd jzs jzl jzv jzb jpf jzz jzi jzc jzt
+oox 0 1
+est
+7 772
+ooa 13 16
+qah qau qwp qam qay qak qaa qax qaj qaf qar qao qwz qat qan qaw
+oom 7 9
+bnf bnr bny bna bnu bno bhp bhz bnw
+oor 0 1
+kcs
+ooy 15 16
+jpf jzj jzt jze jzz jzv jzi jpo jzs jzg jzq jzp jzb jzl jzd jzc
+oou 7 9
+fuz fuq fud ful fue fus fui fuc fuv
+ooh 15 16
+chp cnn cna cnw chz chl cnf cny chc cnh che cno cnu cnx chq cnr
+oof 15 16
+azr azw azn all azm azx azu azf azo azk alp azy alq aza azh alz
+7 685
+oou 14 16
+smf smh sma smn smw smm snq snl smo smu snp smr smy smk smx snz
+oow 14 16
+xwt xwp xwq xwz xwg xao xws xaf xwj xwl xwb xwd xwe xwi xwv xwc
+oon 1 1
+oih
+oof 13 16
+azw azu aza azo azm alq alz all azk azr alp azh azf azn azy azx
+ooh 1 1
+vow
+ooy 15 16
+smr smo smh smm smy snz smw smn smu smx smk sma snl snq smf snp
+oox 7 9
+etv ete etz etd eti etl etc etq ets
+7 671
+oow 3 4
+gmp gmz gkf gko
+ooa 0 1
+pew
+ooy 0 1
+dvb
+oof 15 16
+alp azy azf all azr azh azk azw alz alq azo azn aza azm azu azx
+oox 8 9
+esj esi esd esv esb est esg ese ess
+oou 1 1
+mym
+oor 7 9
+esi esb esd esg ess ese esv est esj
+8 751
+oof 7 9
+xmn xmt xmk xmj xmg xmm xmh xmb xmi
+oow 7 9
+kcv kqo kcz kce kcl kcc kcs kcq kcp
+oor 1 1
+kcs
+ooa 7 9
+beq bev bec bei bez bed bel bes bee
+oom 16 16
+pbn pbm pbk pbs pbg pbe pbl pbh pbv pbj pbt pbd pbq pbb pbc pbi
+oox 13 16
+gau gaj gaa gad gai gab gan gah gam gag gat gay gak gar gaw gax
+ooh 8 9
+vom von vou vot voh vow vok voa vox
+oou 1 4
+fqz fqp flo flf
+9 688
+ooa 1 1
+cpr
+oon 0 1
+gar
+oom 14 16
+yyl ywf yyc yyv ywo yyb yyg ywr yys yyq yyi ywy yyp yye yyd yyz
+oox 9 9
+esv esb esj esi esd ese est esg ess
+oou 2 4
+fud fuv fui fus
+ooh 0 1
+wcq
+oor 6 9
+est esv ess esi esg ese esj esd esb
+oof 7 9
+kcv kcp kce kcs kcl kcc kqo kcz kcq
+ooy 6 9
+oit oig oim oib oin oij oik oih oii
+8 622
+oox 1 1
+pew
+ooh 9 9
+idq ide idv idd idg ids idi idc idb
+oof 3 4
+hql hqq hqc hqe
+oow 8 9
+xwj xwt xwv xwg xwd xwb xws xwi xwe
+ooa 1 4
+ygh ygu ygn ygx
+ooy 15 16
+qan qwz qax qam qat qau qaa qah qwp qaw qaf qay qaj qar qak qao
+oou 13 16
+dvp dvs dvq dvl der def dve dvd dvc dvv dvi deo dey dvz dvb dvg
+oom 9 9
+bhz bna bnf bnr bnw bno bnu bny bhp
+8 625
+oow 2 4
+xwg xwb xwt xwj
+oou 4 4
+vow voa vox vou
+oox 0 1
+eti
+oof 14 16
+bcw bez bes bec bcy bep bev bee bcr bco bcf bel beq bed bei bca
+oor 0 1
+hqe
+ooh 14 16
+ldz ldi ldb ldj ldm ldq ldp lde ldk ldg ldd ldv lds ldc ldt ldl
+ooa 1 1
+snq
+ooy 2 4
+oik oin oih oim

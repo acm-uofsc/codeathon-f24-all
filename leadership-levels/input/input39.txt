@@ -1,0 +1,47 @@
+6
+9 96995
+xxi 16 16
+kkg kkn kem kkl kex kec kkv kek kks kkw kkd kko kkp kkj kka kkq
+xxb 1 1
+nbw
+xxk 16 16
+hme hcw hmk hcd hmc hcv hcn hcq hcj hmx hmh hmu hmz hca hcp hmm
+xxm 8 9
+xll xli xlb xlg xlf xly xls xlr xlt
+xxf 0 1
+gbd
+xxe 6 9
+tnv tnd tnp tna tnn tnj tnq tqx tnw
+xxh 15 16
+qhk qhe qhh qhc qhr qhb qhy qhm qhu qea qhx qed qhf qhi qhz qht
+xxc 14 16
+mah mac maz max mai mam mab may mda mau mae mat mdd mak maf mar
+xxz 7 9
+czv czo czn czw czp czj czl czd czq
+3 6
+xxc 0 1
+tnp
+xxm 1 1
+ovg
+xxk 1 2
+ovs ovg
+1 14
+xxc 13 13
+hjd hja hdh hdz hdm hdx hdu hdk hjq hde hdb hdc hjj
+2 12
+xxm 1 1
+jof
+xxc 6 9
+ett etr ety etp eto ets etg etf etl
+1 3
+xxc 0 2
+gwl gwo
+4 20
+xxc 2 4
+tnv tnw tnp tnn
+xxk 9 9
+bjc bqj bjm bqn bjx bqw bqd bqa bqq
+xxm 4 4
+bqn bqw bqj bqq
+xxe 1 1
+ksz

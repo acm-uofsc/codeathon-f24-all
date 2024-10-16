@@ -1,0 +1,13 @@
+emubc
+e -
+m *
+u +
+b -
+c *
+6
+0 b 9 e 1 c 1
+2 c 4 c 13 b 19
+1 b 4 m 11 c 2
+2 c 6 c 17 m 3
+7 m 11 b 1 c 1
+8 u 6 m 12 m 9

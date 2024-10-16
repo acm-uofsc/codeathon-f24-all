@@ -1,0 +1,107 @@
+14
+8 96997
+bbo 3 4
+cdy cdd cdi cdz
+bbx 16 16
+dtv dtd dti dtu dtn dte dtj dtl dtm dtz dty dtq dth dtt dtp dtr
+bbw 1 1
+dtj
+bbk 1 1
+wvz
+bbs 16 16
+odh odq oda odx odp odc odo odw ozy odf ods odg odj ozi odb odk
+bbf 1 1
+nbw
+bbc 0 1
+eaz
+bbg 13 16
+tni tnm tne tnd tnt tnn tmg tnv tmb tny tmx tnu tmo tnl tnr tnz
+4 17
+bbw 4 7
+kwp kwr kwh kwe kwt kwl kwu
+bbx 1 1
+cdz
+bbo 1 1
+wqj
+bbg 2 4
+eaz ead eai eay
+2 27
+bbo 9 9
+cyb cdi cyg cyo cyw cdd cyx cdz cdy
+bbx 15 16
+umi uml uvo umv umn uvc umd umy ume uvg uvx umz uvw uvb umm umt
+6 23
+bbc 1 1
+grs
+bbg 1 1
+fzm
+bbw 8 9
+dtp dth dtt dtl dtr dtj dtq dte dtu
+bbs 4 4
+ozy ozi odb odo
+bbx 1 1
+blf
+bbo 1 1
+wqj
+3 30
+bbw 8 9
+rjy rqw rqs rji rqx rqo rqb rqg rqc
+bbo 14 16
+kje kjp kja kjd kjm kjj kjz kjq kjn kjr kjt kjl kjv kju kjh kjf
+bbx 1 1
+uml
+2 25
+bbx 6 7
+qvd qve qvy qvn qvm qvv qvz
+bbo 16 16
+wqh wqn wql wqt wqj wqr wqv wqi wqe wqy wqp wqq wqu wqz wqm wqd
+0 1
+1 18
+bbo 16 16
+fzi fdw fdo fda fzv fdf fdg fzm fdc fzy fzz fdb fds fzd fdx fdk
+1 6
+bbx 1 4
+blj blf blq bla
+4 18
+bbc 1 4
+jil jir jit jiu
+bbw 1 4
+grk grs gra grf
+bbx 1 1
+qve
+bbg 1 4
+hfk hfw hfc hfs
+5 15
+bbg 0 1
+eaz
+bbw 0 1
+osl
+bbs 0 1
+jgj
+bbx 1 1
+uml
+bbo 4 4
+hfs hfc hfw hfk
+5 23
+bbk 4 4
+imk imw imc ims
+bbg 3 4
+tnr tnl tnt tnu
+bbf 3 3
+vfm vfz vfv
+bbc 2 4
+grs grf gra grk
+bbw 4 4
+tnr tnl tnu tnt
+4 23
+bbc 2 4
+jiu jir jil jit
+bbs 3 4
+ozy odb ozi odo
+bbo 1 1
+cdz
+bbx 9 9
+cyg cdz cyw cyb cdy cdd cyo cdi cyx
+1 7
+bbo 6 6
+hfa hfc hfs hff hfw hfk

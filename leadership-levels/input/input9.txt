@@ -1,0 +1,63 @@
+12
+5 23
+nno 1 1
+rev
+nnf 1 1
+che
+nnw 7 8
+oih oib oip oit oic oij oiu oix
+nnz 4 4
+wsv wsm wsr wss
+nne 4 4
+iuf itv iun itm
+1 2
+nnf 1 1
+zvv
+2 15
+nnf 1 4
+hrk hrg hrs hrr
+nnz 7 9
+wsr wss wsv wvf wsm wvo wvn wve wvz
+1 3
+nnf 0 2
+xtj xth
+2 11
+nnf 0 1
+lkd
+nnz 5 8
+syy syt syl syu syi syd syc syb
+1 17
+nnf 13 16
+lgn lks lkg lgz lky lgf lge lkq lgw lkk lka lkv lgo lkm lkd lkr
+1 4
+nnf 1 3
+wsv wsr wss
+1 15
+nnf 13 14
+wvw wvo wsm wvp wvh wvx wve wvf wss wvj wvn wvz wsr wsv
+3 30
+nne 2 4
+yai yay yad yal
+nnf 2 4
+ugg ugq ugk uga
+nno 14 16
+rwx rwn rwh rwt rwj rwe rwo rem rwu rwf rwp rev rwz rwc rwb rww
+4 29
+nnw 3 6
+gmw gmx gmz gmo gmp gme
+nnz 0 1
+kqb
+nne 15 16
+iuo iuc iup iun itv itm iuz iux iuw iuj iuh iuf iub iuu iue iut
+nnf 0 1
+hrk
+3 15
+nnz 8 9
+uga ugr ugg ugv ugm ugq ugk urn ugs
+nno 2 2
+wfq wfa
+nnf 1 1
+wsr
+1 6
+nnf 1 4
+hrs hrk hrg hrr

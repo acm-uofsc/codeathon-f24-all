@@ -1,0 +1,14 @@
+uhip
+u -
+h -
+i -
+p *
+8
+20 h 11 u 9 u ( 19 ) i ( 13 u ( 6 u 6 p ( 10 i ( 1 i 12 ) ) h 15 ) ) h 8 p 17 p 19 p 11 i 14 p 2 i 1 p 20 u 5
+0 u ( 7 h ( 15 h ( 7 ) h ( 14 u 5 ) u ( 19 u 13 p ( 15 i 18 u 17 h 18 ) ) p 19 u 15 ) u 10 ) h 14 p 18 u 19 u 5 h 5
+16 u 4 u 2 h 7 i 16 h ( 15 ) i 18 i ( 20 h 15 i ( 17 u 0 p 0 p 18 ) ) p 12 i 6 i 2 h 6 u 7 i 10 h 9
+8 p ( 0 h ( 1 u ( 17 p 3 u ( 19 p ( 8 ) p ( 5 u ( 7 u 17 ) ) p 14 p 2 h 3 i 19 h 12 p 15 i 17 p 10 h 16 ) p 18 ) ) )
+5 p ( 6 u ( 18 i 6 p 17 i 19 ) u 18 i ( 16 p 4 i 9 h 17 p 5 h 12 i 18 ) ) h 19 h 7 p 2 i 0 i 6 i 11
+15 h ( 6 ) h 13 p 0 u 3 p ( 19 h ( 8 u ( 15 p ( 17 p 3 ) ) ) ) u 3 i 10 u 2 p 5 u 20 h 18 h 12 h 9 p 18 i 14
+20 u ( 6 u ( 17 ) ) p 15 p ( 10 i ( 13 i 3 ) ) i ( 11 p 4 i 6 ) h 19 u 16 i 20 p 2 h 2 u 4 u 8 i 9 i 1 u 12
+15 p ( 17 i ( 11 u ( 9 ) u ( 16 p ( 9 h 5 i 16 u 14 i 4 ) h 20 h 12 p 17 i 11 u 9 u 3 ) p 7 i 1 i 15 h 3 ) )

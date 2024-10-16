@@ -1,0 +1,169 @@
+10
+8 757
+cce 13 16
+qnt qij qnp qnf qnm qne qnb qnx qnu qig qny qna qnq qno qnr qnc
+ccy 1 1
+nzb
+ccp 4 4
+yxo yxm yxe yxp
+cca 2 4
+zdz zdw zdv zdk
+ccu 15 16
+cvi cvh cvr cvm cvx cvv cvb cvl cvs cvd cvf cvw cvn cvz cvp cvk
+ccb 9 9
+wpu wpc wpy wmg wpt wpe wpq wpa wmj
+ccm 1 4
+oaf oak oaw oax
+cco 6 9
+tqs tqg tqh tyc tqn tql tqi tqj tqd
+9 631
+cce 6 9
+pxy pxu pxe pxb pxm pxt pxo pxp pxa
+cct 13 16
+uke ukv ukf ukz ukk ukx uks ukw ukb ukr ukh uko ukp ukl ukm ukd
+ccp 1 4
+qez qev qes qed
+cco 16 16
+jlo jlx jle jld jla jlb jlv jlr jlt jlw jls jlm jlz jlk jlf jlp
+ccy 1 1
+uke
+ccu 2 4
+min mih mii mil
+ccb 3 4
+bdl bdh bds bdd
+cca 7 9
+kra kre kbg kbj kru krc krq kry krt
+ccq 1 1
+arb
+9 641
+cco 0 1
+jla
+ccp 15 16
+yxl yxd yxx yxb yxs yxe yxz yxo yxf yxh yxm yxr yxv yxw yxk yxp
+cce 2 4
+bdh bdd bds bdl
+ccq 4 4
+arb arx arr arf
+ccm 9 9
+vzl vzs vzv vzw vzz vzd vzh vzi vzk
+cca 1 1
+kbg
+cct 7 9
+jlb jlr jlm jla jlt jlo jlf jle jlp
+ccy 1 1
+zdw
+ccb 13 16
+blq bdd blt blo bdi bdh bla blu bdj bdn blc ble bly bdg bds bdl
+8 619
+ccq 13 16
+obz obw obl obf obs obv obx obd obh obm obp obn obr obk obi obb
+cce 8 9
+sbu spj spg spi sbq sbc sby sba spn
+ccu 13 16
+sba spn sbq spg sbp sbu spj sby sbm sbr sbo sbc sbb sbt sbe spi
+ccp 7 9
+yxe yxf yxx yxm yxo yxb yxr yxw yxp
+cco 7 9
+aia ahn ahi ahj ahg aic aiu aiy aiq
+ccm 8 9
+dcr dco dcm dct dca dce dcb dcp dcf
+cct 0 1
+oaf
+ccy 0 1
+cvm
+5 773
+ccb 6 9
+uui uul uus uud uuk uuv uuh uuw uuz
+cce 14 16
+qnf qnt qne qnm qnq qno qny qig qnx qna qnr qij qnb qnu qnc qnp
+ccm 1 1
+hml
+cco 1 1
+bub
+cca 1 1
+qev
+7 644
+ccm 15 16
+oas oan oaf oaj oai otq oal oah oak otc oaz oaw oax oag oad oav
+ccu 16 16
+xmx xmz xmb xmr xme xmd xms xmo xmf xmw xmv xmt xmk xmp xmm xma
+ccq 0 1
+arb
+cca 16 16
+kbj krm kra krx krc kbg krf kry kru krb kre krq krt krr kro krp
+cco 14 16
+jls jlt jlz jlr jlb jlf jle jlp jla jld jlo jlx jlk jlv jlm jlw
+ccy 1 4
+nzf nzb nzr nzx
+ccb 1 1
+spi
+8 783
+ccu 13 16
+xmv xmd xme xmz xmw xms xmf xmm xmb xmk xmx xma xmo xmt xmp xmr
+ccq 8 9
+wln wll wls wlg wld wlv wlz wlh wli
+ccp 1 1
+uuw
+cce 1 1
+spi
+ccy 3 4
+wlz wls wld wlv
+ccm 8 9
+nzs nzf nzb nzw nzx nzv nzz nzr nzk
+cco 14 16
+bux bug buk bur bud bub buz buh buw buv bui buj bul buf bus bun
+ccb 9 9
+ukf ukx uke ukm ukb ukw uko ukp ukr
+8 768
+ccm 6 9
+hmh hpc hmg hmn hpq hml hpy hmi hmj
+ccp 2 4
+khx khb khr khf
+cct 6 9
+wwi wkq wwg wwj wwh wwn wky wkc wwl
+cca 7 9
+oak oas oax oaw oad oav oaz oaf oal
+cco 15 16
+ktm ktk kta ktw ktt kto ktb kty ktx ktp ktf ktv ktz kte ktu ktr
+ccb 1 1
+wmg
+ccy 1 1
+mil
+ccq 16 16
+xmf xmm xmw xmp xmb xmt xms xmo xma xmr xmz xmv xmd xmx xmk xme
+9 670
+ccb 3 4
+uuz uuk uuw uuv
+cca 7 9
+pxp pxm pxb pxy pxu pxe pxa pxo pxt
+ccm 1 4
+hmn hml hmh hmi
+cce 1 4
+qnc qij qnq qig
+ccq 1 4
+yjq ygj yjc ygg
+ccu 7 9
+pxb pxe pxy pxa pxu pxp pxm pxt pxo
+cco 1 1
+kbg
+ccp 13 16
+yxl yxe yxh yxs yxp yxo yxb yxv yxw yxk yxz yxm yxd yxx yxf yxr
+ccy 3 4
+nzr nzx nzf nzb
+8 646
+ccp 2 4
+kta ktt kty ktu
+ccb 1 4
+wpq wpc wmj wmg
+cco 7 9
+ktu ktt kty kto kte ktp ktm kta ktb
+ccm 3 4
+wmj wpc wmg wpq
+ccy 3 4
+cvm cvb cvp cvr
+ccu 1 4
+pxy pxa pxt pxu
+cca 9 9
+kbj krc kry kbg kru krt krq kre kra
+ccq 7 9
+bpe bpb bpf bpw bpp bpr bpo bpm bpx

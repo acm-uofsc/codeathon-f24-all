@@ -1,0 +1,131 @@
+8
+8 762
+yyr 3 4
+tmv tmx tmp tmn
+yyv 0 1
+ioz
+yyi 9 9
+nji njd njt njv njx njp njf njr njn
+yyp 1 1
+dtd
+yyd 7 9
+lgk lgq lgi lgv lgn lgx lgd lgp lgf
+yyh 3 4
+rgg rgb rby rbh
+yyf 13 16
+obv obn obt obm obp obq obj obi obl obr obd obf obu obw obx obk
+yyx 8 9
+mfp mfn mfd mfr mfv mfx mff mfi mft
+8 691
+yyf 9 9
+eng enb edy edh enz edi edt ena edr
+yyn 2 4
+ywq ywn ywv ywd
+yyx 6 9
+ioa izt izh izy izi iob iog izr ioz
+yyr 14 16
+vap vax vza vzo vah vay vzc var vzz vav vai vat van vaf vzb vzg
+yyd 13 16
+tiy ttb tir ttg ttl tit tih tts tto tta ttc tte ttz ttw ttu ttm
+yyp 14 16
+ywo ywc ywn ywm ywj yws ywz ywa ywk ywu yww ywv ywe ywq ywl ywd
+yyh 1 1
+qoe
+yyt 2 4
+njr nji njt njf
+8 766
+yyr 16 16
+alz ald all alc ale alb alw als alj alm alu alo ala alk alg alq
+yyt 2 4
+jgk jgj jgu jgm
+yyv 1 1
+njr
+yyp 4 4
+ywd ywq ywv ywn
+yyi 9 9
+mdg mqp mqr mqi mqh mqf mqy mdb mqt
+yyx 1 4
+mff mft mfi mfr
+yyn 7 9
+mft mfn mfr mfd mff mfp mfx mfi mfv
+yyd 4 4
+xim xij xik xiu
+5 750
+yyx 0 1
+ckw
+yyp 0 1
+hzg
+yyv 9 9
+rjq rjp rjk rjn rju rjv rjj rjd rjx
+yyi 7 9
+tmk tmu tmp tmv tmq tmj tmd tmx tmn
+yyd 1 4
+obf obi obr obt
+9 648
+yyi 4 4
+lsm lsl lsu lsw
+yyx 14 16
+mqt mqi mdg mqy mqj mdb mqh mqq mqk mqx mqd mqv mqf mqp mqr mqn
+yyt 2 4
+zig zfh zib zfy
+yyv 1 1
+njr
+yyr 0 1
+ucw
+yyh 6 9
+rbh rbf rbi rbp rby rgg rbr rbt rgb
+yyf 7 9
+obv obr obp obn obi obt obd obx obf
+yyp 1 1
+syi
+yyn 7 9
+moj mou mod mow moe mom mol moq mok
+7 673
+yyx 15 16
+ceb cew ceu cee cec cek cez ceg cel cem ceo cea csy cej csh ces
+yyh 1 1
+xdv
+yyr 3 4
+vzc vza vzz vzo
+yyt 16 16
+zfi zfn zfy zft zff zig zfj zfh zfd zfp zfq zfk zfr zfx zib zfv
+yyp 6 9
+ywj ywv ywd yww ywm ywq ywu ywn ywk
+yyv 1 1
+wlu
+yyn 3 4
+ywv ywn ywq ywd
+8 773
+yyd 9 9
+xiu xim xic xil xis xiw xik xij xie
+yyi 1 1
+xik
+yyf 16 16
+zfv zfp zfi zfq zfn zib zfk zff zfj zfx zig zft zfd zfh zfr zfy
+yyn 8 9
+uua umh umy uuo uuz umr uuc uug uub
+yyv 7 9
+alk alw alm ale ald alj alu all alq
+yyh 1 1
+qoe
+yyp 0 1
+hpw
+yyt 13 16
+enz edh edv ena edy edi edx edq edn eng edd edr enb edf edt edp
+8 731
+yyi 1 1
+ovc
+yyh 3 4
+ucl uce ucw ucs
+yyf 4 4
+tmx tmp tmv tmn
+yyx 1 1
+mdg
+yyn 15 16
+umy umv umx uuz uub uuo umr uua uug umn umh umi uuc umt ump umf
+yyd 8 9
+xim xiw xis xil xie xik xiu xij xic
+yyp 1 1
+hzg
+yyv 9 9
+rjp rjx rju rjv rjk rjq rjj rjn rjd

@@ -1,0 +1,81 @@
+14
+1 3
+jju 2 2
+oti ots
+2 25
+jjz 3 4
+lru ltb lrj ltf
+jjy 15 16
+xlk xlo xlt xlg xlr xli xlv xld xlm xlp xln xlc xlw xlq xls xll
+3 12
+jja 1 4
+cpl cpw cpk cpq
+jju 1 1
+rnp
+jjz 1 1
+nic
+1 8
+jjx 2 5
+sqz sqa sqd sqx sqy
+6 25
+jjy 1 4
+tbv tbl tbw tbg
+jjx 9 9
+qis qik qir qiy qid qio qii qit qiz
+jju 1 1
+qiz
+jjd 0 1
+udg
+jjz 4 4
+ozk ozq ozw ozl
+jja 1 1
+wcg
+1 4
+jja 1 1
+rnp
+2 15
+jja 1 4
+xli xlo xls xld
+jjz 6 7
+evk evw evl evq evt evr evg
+1 11
+jju 7 10
+otl ott otw otv otr otk oti ots otg otq
+3 20
+jjx 6 7
+hyx hzf hyz hya hyj hzb hyu
+jju 8 9
+aba abx abu aby abj aff abz abd afb
+jja 0 1
+vmw
+6 26
+jju 2 4
+rnn rnp rnm rnc
+jja 6 9
+cpw cpc cpm cpg cpl cpk cpp cpq cpv
+jjz 1 4
+rnp rnm rnc rnn
+jjx 0 1
+ihc
+jjd 2 4
+sqz sqa sqy sqx
+jjy 0 1
+tbw
+2 20
+jjx 0 1
+yup
+jja 16 16
+vmh vml vmb vmn vcu vme vmm vca vmf vcj vcx vmw vmg vmv vmc vmp
+1 5
+jju 1 4
+wcm wcp wcv wcg
+1 6
+jju 5 5
+tss tso tst tsi tsd
+3 23
+jju 15 16
+abt aba abu abq aff abi abo abz abk abx abd abr abj afb aby abs
+jja 0 1
+yeh
+jjz 2 2
+ltb ltf

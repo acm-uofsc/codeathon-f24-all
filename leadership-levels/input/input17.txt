@@ -1,0 +1,108 @@
+7
+6 622
+tty 16 16
+zhg zhp zhq zhs zhd zhb zhl zhi zhw zhj zhc zhy zhv zho zhz zhf
+tti 0 1
+cwa
+ttq 16 16
+xox xoh xow xon xok xov xou xgt xol xgr xoe xof xoo xob xoz xog
+tta 1 1
+dko
+ttc 13 16
+vjv vjs vjw vjj vjd vjc vjy vjl vjf vjq vjb vji vjp vjz vjm vja
+ttj 6 9
+bbn bbh bvt bva bbx bbu bbk bbe bvr
+9 612
+tta 13 16
+uzn uzl uzf uzd uzz uzb uzk uzx uzu uzo uzg uzy uzw uze uzh uzv
+tty 3 4
+kem kej kei kea
+ttj 1 4
+kei kej kea kem
+ttc 9 9
+awp awb awl aws awy aww awq awc awd
+ttp 4 4
+tfs tfy tfd tfc
+ttm 9 9
+jrx jre jrk jrh jro jrg jru jat jrn
+tti 2 4
+zgf zgb zgz zgv
+ttq 8 9
+inr ina ikn ikh ike iku ini int inm
+tts 1 1
+uzy
+7 762
+tti 3 4
+uzw uzl uzd uzy
+ttc 14 16
+vjw vjy vjd vja vjq vjs vjm vjp vjl vjb vjf vjv vjc vji vjj vjz
+tts 3 4
+ikh ike ikn iku
+ttr 14 16
+dnm dnj dku dkg dko dkx dnt dke dnq dna dkn dnp dkk dnr dni dkh
+ttj 1 4
+kea kej kei kem
+tty 16 16
+mir mmn mmz mmx mmo mmv mmg mmb mmf mmh mia mit mim mme mmk mmu
+ttm 1 4
+cwm cwj cwi cwa
+7 766
+ttc 1 4
+rpo rpf rpg rpz
+ttm 0 1
+tfs
+tty 6 9
+ygg ygx ygn ygk yxt ygh yge ygo ygu
+tts 6 9
+awy awq awp aww awl awc awb aws awd
+ttr 6 9
+dkk dnt dkn dkx dke dkg dku dko dkh
+tti 14 16
+qjr qib qig qiu qio qih qjt qik qie qif qiv qix qiw qin qil qiz
+ttq 1 4
+ymy ymw yml ymd
+5 622
+ttj 2 4
+yeb yev yez yef
+tti 8 9
+ksh ksu ksn ksk kct kcr ksx kse kca
+ttr 1 4
+idl idw idy idd
+tta 1 1
+jun
+ttc 7 9
+rph rpg rpo rpk rpu rpn rpf rpx rpz
+9 676
+tta 1 4
+zgf zgz zgv zgb
+tti 15 16
+uzy uzo uzb uzl uzk uze uzx uzz uzn uzd uzv uzw uzu uzf uzh uzg
+ttm 8 9
+zgx zgg zgv zgk zgn zgz zgf zgb zgo
+ttp 0 1
+tfs
+ttq 14 16
+vjc vjb vjv vjw vjp vjj vjf vjs vjd vjz vjy vjl vji vja vjq vjm
+tts 1 1
+gti
+tty 3 4
+ygx ygg ygo ygk
+ttc 0 1
+vky
+ttj 16 16
+oce oyc ocu oyd ocn oyi oyp oym oyt oya oys och oyj oyq oyr oyy
+7 635
+tts 8 9
+bcp bcj bct bcr bcm bsh bca bse bci
+ttc 1 4
+vja vjj vji vjm
+ttr 2 4
+snk snn snx snu
+ttq 14 16
+vja vjd vjb vjy vjs vjz vjp vjw vjv vjc vjm vjl vjf vjj vji vjq
+ttj 3 4
+nie njr njt nih
+ttp 16 16
+zgk zxa zge zgz zgh zgx zgu zgf zgg zgn zgb zxm zgo zxt zxr zgv
+tti 9 9
+cwa cwp cwi cws cwq cwc cwj cwm cwy

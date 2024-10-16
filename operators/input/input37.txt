@@ -1,0 +1,13 @@
+tvx
+t -
+v -
+x *
+8
+9 v 16 v 20 x ( 9 ) t 16 t 19 x ( 20 ) t 8 t 3 x 16 x 18 v 1 x 8 t 11 x 19 x 13 v 9 x 12 t 7 v 14
+5 t 4 t 3 v ( 5 v 13 ) v 9 t ( 2 ) t ( 13 t 5 ) v 5 t 9 t 2 t 7 x 2 v 3 x 12 x 13 v 13 v 17 x 6
+5 v 12 x ( 17 t 11 t 16 ) x ( 15 v 17 x 13 ) t ( 19 t 12 ) t 18 t 5 v 20 t 4 t 20 x 17 t 7 v 4 v 13 t 7
+2 x ( 20 x 7 t 0 t ( 15 x ( 6 x 13 ) t 16 x ( 1 v 11 x 19 v 4 x 5 t 14 ) ) ) t 1 v 17 v 16 v 19 x 17 v 12
+10 x ( 18 v 10 v ( 8 v ( 10 ) v 10 t 11 ) x 15 ) x ( 10 x 6 ) t 18 x 7 x 15 t 2 v 8 t 3 v 20 v 18 t 8 v 6
+9 v ( 7 ) t 15 v 17 v 16 t 18 t 5 x 13 t 16 v ( 17 ) x 8 x 18 v 7 v 18 v 14 t 1 t 19 x 16 x 11 x 20
+2 v 8 v 11 t ( 16 ) v 3 t 7 x 2 t 5 v ( 20 v ( 15 ) v 1 v 20 v 7 t 11 v 16 t 4 t 6 x 6 x 12 v 20 )
+16 v ( 0 v ( 6 t ( 8 t ( 15 x 9 x 0 x 17 x 7 v 1 t 18 v 13 t 12 v 4 x 10 t 10 v 7 x 8 v 1 v 20 ) ) ) )

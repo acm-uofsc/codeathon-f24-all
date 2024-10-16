@@ -1,0 +1,61 @@
+8
+9 96992
+ooy 1 4
+epl epz epy epw
+ooc 1 1
+ayx
+oob 3 4
+ayv ayf ayx aym
+ooz 14 16
+qdf qda qpb qdv qdx qdm qdg qpn qpo qdr qdj qps qdq qpe qpk qdt
+oos 13 16
+pwk pwz pwb pwt pwg pwa pwi pwd pwu pwc pwh pwy pwl pwr pww pwp
+ool 1 4
+ypn ype ypk ypb
+oow 8 9
+ypl ypk ype ypn ypy ypc ypw ypz ypb
+oon 9 9
+pfh pfd pfr pfp pft pfa pfq pfu pfg
+ook 0 1
+nul
+0 1
+3 26
+oon 6 6
+pfr pfd pfp pfh pfu pft
+ooe 16 16
+ori orq oru orp orc orw orr ort org orx ord orh orj ory orm ora
+oos 1 1
+pwk
+4 14
+oos 3 4
+pwz pwb pwk pwl
+oon 0 1
+xkf
+oob 1 3
+zkh zkp zkd
+ook 0 1
+ucf
+1 10
+oos 6 9
+bfo bmx bfe bfn bmv bfk bfs bmf bmm
+3 14
+oon 0 1
+pfd
+ooe 8 9
+tgu tgt tgg tgq tgj tgx tga tgh tgr
+oos 1 1
+pwk
+3 24
+oos 8 9
+zcy zcr zcd zci zcw zch zcp zcu zcc
+ook 9 10
+uio uil uik uin uie uib ucv uis uiz ucf
+ooe 1 1
+qad
+3 13
+ooe 1 4
+bmv bmx bmm bmf
+oos 1 4
+pwb pwl pwz pwk
+oon 1 1
+ayx

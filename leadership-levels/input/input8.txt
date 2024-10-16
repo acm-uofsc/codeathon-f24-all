@@ -1,0 +1,67 @@
+12
+2 18
+zzw 8 9
+grd gry grr grk grb grx grj grt grp
+zzm 7 7
+epy epj epi epp eyz epx epr
+2 28
+zzw 13 16
+ofk ofb ofv ofo ofa oft ofh ofx ofq ofg ofs ofd ofu off ofr ofe
+zzm 8 9
+cyj cjz cjm cjn cjl cyy cyp cjw cyi
+3 27
+zze 0 2
+gej gei
+zza 1 1
+ige
+zzn 14 16
+anx anb acw anr acz ank anj ani anh anp any anv ant anu ang and
+3 24
+zzl 3 3
+cwr cwk cwb
+zzm 9 9
+cyp cjl cjm cyj cjn cyy cjw cjz cyi
+zzw 8 9
+epr eyw epy eyz epx epi epp eym epj
+2 9
+zzl 1 1
+hju
+zzm 1 4
+lvq lvf lve lva
+1 5
+zzw 1 4
+hen heq hea hec
+1 10
+zzw 6 9
+nsu nsh nsb nsg nst nss nsd nso nsv
+4 29
+zzn 15 16
+xfl xfc xfa xer xfm xey xep xfe xfw xfz xej xfn xff xfq xex xei
+zzc 1 1
+grt
+zza 0 1
+rbu
+zzq 1 4
+wqt wqb wqd wqk
+3 16
+zzw 1 1
+cyp
+zzm 2 4
+epr epp epy epx
+zzl 5 8
+zth ztv ztf ztu zte zts zto ztg
+4 27
+zzw 7 9
+cyy cyp cyi cjl cyj cjn cjw cjz cjm
+zzc 7 8
+pcn pcm pcc pni pcl pnj pcw pcz
+zzl 4 4
+dkv dkd dkt dkg
+zzn 1 1
+xer
+1 15
+zzw 14 14
+ofq ofa ofh ofs off ofo ofu oft ofb ofk ofd ofv ofe ofg
+1 3
+zzm 1 1
+rbu

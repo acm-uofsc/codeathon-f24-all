@@ -1,0 +1,71 @@
+12
+7 96996
+iip 16 16
+slb sly slm slz slj sld slr slv slc slt sla slo slq sln sll slg
+iix 3 4
+zbi zbp zlu zlf
+iiq 7 9
+zws zwe zwm zwx zww zwk zwl zwq zwh
+iih 2 4
+ezm ezq ezs ezk
+iis 8 9
+whi wpo wpc wpu wpr wpf wpt wpa wpj
+iie 7 9
+idz idn idm idy idd idl idg idq idb
+iik 13 16
+jin jiz jis jiq jij jig jid jiy jiv jil jix jic jim jik jib jiw
+1 6
+iip 5 5
+wau wao wfi waf waa
+3 29
+iix 4 5
+pkt pkd pkc pkj pkv
+iip 2 4
+moo mor mot moa
+iih 16 16
+vju vjf vjg vjj vjd vte vth vti vjv vtp vjc vjt vjr vjz vja vjo
+2 14
+iih 1 4
+ezq ezm ezk ezs
+iix 5 6
+pkc pkd pkv pkt pkj pkr
+3 11
+iih 1 1
+tcn
+iip 1 1
+gtd
+iix 2 5
+brj brc brt brr bro
+1 5
+iip 3 4
+brc brr brj brt
+3 22
+iip 1 4
+xby xbn xbl xbb
+iih 7 9
+mof mot map mai mou mor mah moo moa
+iie 3 6
+ymq ymw yms ymx ymk ymm
+1 13
+iip 9 12
+ymw ymg yms ymx ymb ymz ymm ymy ymn yml ymq ymk
+1 18
+iip 15 16
+slr slq sly slo slc sla slg slm slt slb slj sln sld slv slz sll
+2 30
+iih 13 16
+idg idz idv idb idr idj ida idy idq idc idd idt idl idn idm ido
+iix 10 10
+avd avl avj avz avn avb avy avc avg avv
+3 18
+iih 2 4
+gtd gtc gtj gtv
+iip 1 1
+lqk
+iie 7 10
+vjo vjc vjv vjj vjz vjd vjt vjg vjr vja
+2 23
+iih 16 16
+ezb ezm ezy ezt ezs ezr ezj ezd ezk ezn ezv ezg ezc ezq ezl ezz
+iie 4 4
+wpj wpc wpr wpt

@@ -1,0 +1,84 @@
+15
+1 13
+vvn 11 12
+rqx rqt rqf rqq rqj rqg rqa rqs rqm rqb rql rqh
+1 5
+vvn 3 4
+uyv udy uyn udd
+2 21
+vvu 13 16
+xop xts xtd xtx xty xtf xto xth xon xou xti xte xtz xtt xov xtg
+vvp 1 2
+ajk ajw
+1 2
+vvn 0 1
+qbc
+4 17
+vvu 1 1
+mif
+vvw 2 3
+ggo ggz ggi
+vvk 4 4
+rka rkl rkg rks
+vvn 4 4
+qbj qbr qbb qbc
+4 21
+vvu 4 4
+xts xtx xtg xth
+vvn 0 1
+mif
+vvk 3 4
+exm exa exl exq
+vvw 6 7
+zwk zkd zwv zwu zwn zky zwp
+4 21
+vvw 0 1
+zkd
+vvn 0 1
+mif
+vvc 8 9
+vhs vhh vhm vhl vhb vhg vhq vhj vha
+vvk 4 4
+rka rkg rkl rks
+1 7
+vvn 5 6
+qbq qbr qbc qbm qbj qbb
+2 23
+vvn 1 4
+jzo jzz jze jzi
+vvu 15 16
+psb psj psa pso psh psg psi psl pss psq psm psc psf pst psr psx
+2 5
+vvu 0 2
+ofa ofl
+vvn 1 1
+ajk
+1 12
+vvn 9 11
+qbc qbg qbq qbj qbs qbb qbh qbl qbr qbm qba
+5 25
+vvp 0 1
+fbz
+vvw 3 5
+iyk iyp iyu iyc iyw
+vvu 9 9
+ofh ofa off ofs ofl ofg oft ofo ofx
+vvn 0 1
+goh
+vvk 4 4
+ije ijo iji ijz
+2 9
+vvw 3 3
+yow yok yoc
+vvp 1 1
+adl
+3 25
+vvr 3 4
+qpm qpq qpa qpl
+vvu 3 4
+jzo jzz jzi jze
+vvk 7 9
+smk smu smp sqd smv smn smw smc sqy
+1 7
+vvn 6 6
+wdn wez wed wdv wee wey

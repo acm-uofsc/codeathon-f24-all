@@ -1,0 +1,17 @@
+2
+3 20
+president 3 3
+secretary HR vicePresident
+secretary 1 3
+HR janitor manager
+vicePresident 1 1
+secretary
+4 4
+dead 1 1
+lock
+lock 1 1
+key
+key 1 1
+shovel
+shovel 1 1
+dead

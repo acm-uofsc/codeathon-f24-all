@@ -1,0 +1,69 @@
+10
+8 96996
+ssv 3 4
+hbg hbn hbt hbi
+ssz 14 16
+wkt wkb wkc wkw wkd wkf wkg wko wki wfv wkh wkj wkk wke wkn wfs
+ssa 13 16
+drh drm drt drz dry dra drx drw drr drp drq dri drd drl dre dru
+ssl 8 9
+sih siy sim six siw sid sii siz sie
+ssr 7 9
+hbn hbo hbt hbg hbj hbi hbk hbb hbc
+ssp 0 1
+yqy
+ssq 4 4
+xoc xoj xob xoo
+ssx 3 4
+zwu zwl zwr zwq
+3 7
+ssv 1 1
+xob
+ssl 1 1
+jty
+ssq 2 2
+wxu wxr
+2 23
+ssl 16 16
+sid sio sih sie six siz sit sim sib sic siy sin sii siw sig sij
+ssv 3 4
+hbg hbt hbi hbn
+4 23
+ssv 8 9
+yzm yzp yze yza yzy yzx yzh yzw yzz
+ssr 3 5
+hbg hbt hbn hbi hbb
+ssl 1 1
+qdp
+ssu 2 4
+qdx qda qdz qdp
+1 14
+ssv 12 13
+hcv hcl hbf hbj hbc hbt hbi hbn hcs hbk hbg hbo hbb
+2 17
+ssl 4 4
+bnh bnd bne bnw
+ssq 7 10
+tgi tgj tgb tgc tgg tgn tgo tgd tgt tgh
+2 27
+ssl 15 16
+mcg mcj mcn moa mcb mor mcc moq mop mol mcf mou mco mck mov mos
+ssv 6 9
+umm umw umd umy ume umt umh umi umn
+3 27
+ssq 4 4
+wkh wkd wkw wke
+ssl 15 16
+bnk bno bnd bni bnj bgs bne bgv bnt bng bnh bnf bnb bnw bnn bnc
+ssu 3 3
+vpt vpi vpn
+3 20
+ssl 1 4
+jty jtw jtm jte
+ssq 9 12
+zwm zwx zwr zwe zwq zwy zwa zww zwl zwu zwp zwz
+ssv 0 1
+umy
+1 7
+ssv 1 4
+xoo xoc xoj xob

@@ -1,0 +1,79 @@
+12
+8 96999
+wwq 1 1
+ttf
+wws 15 16
+ihp ihg iky ikz ikr ikq ihb ikx iks ikn ikd ikj iki ikw ikl ihk
+wwi 7 9
+edw edl edy ezg edi ezb edj edn edr
+wwy 16 16
+thn tfp tfg thl tfm thr tfa thi tfk tfb thw tfo tff tfh thy tfv
+wwj 14 16
+zlk zlf zle zlt zlu zlz zlo zlp zla zlg zlm zlc zlh zlv zld zlb
+wwn 0 1
+idz
+wwx 7 9
+ruz rut ruj ruq rux rus ruu ruc rud
+wwz 1 1
+txb
+3 25
+wwl 3 5
+ubu ubv ubt ubc ube
+wwr 14 16
+moh mob mom mfw mok moa mop moe mot mfl mov mog moo mfn mfr mof
+wwn 1 1
+dha
+1 9
+wwn 5 8
+idt idv idd idm idz ide idu idc
+2 15
+wwn 6 9
+idt idz idu ida idd idm ide idc idv
+wwr 1 4
+tfa tfm tfv tfo
+3 6
+wwn 0 1
+zqj
+wwl 0 1
+yna
+wwr 0 1
+ypk
+1 6
+wwn 3 5
+uxx uxj uxy uxs uxi
+5 25
+wwi 3 4
+dhf dha dhh dho
+wwy 8 9
+azi azr azw aqk aqg azn aqp aqb azl
+wwl 1 1
+wvx
+wws 2 3
+yna ynf yno
+wwr 0 1
+ypk
+2 21
+wwr 14 15
+xkf xpx xpj xkp xkg xpy xpn xpw xkh xpi xkb xps xpr xkk xpl
+wwn 4 4
+ypg ypb ypk ypp
+4 29
+wwi 1 1
+pmz
+wwn 15 16
+idu idz ido ida idb idm idt idd idv idh ide idc idg idk idf idp
+wwl 3 4
+ubt ube ubc ubu
+wwj 1 2
+aqk aqp
+1 5
+wwr 0 3
+lej les lex
+0 1
+3 26
+wwi 16 16
+pma pmf pmt pmm pmd pmp pmk pmu pmc pmg pmh pme pmb pmo pmv pmz
+wwn 0 1
+ypk
+wwy 4 4
+tfv tfm tfa tfo

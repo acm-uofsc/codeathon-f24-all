@@ -1,0 +1,58 @@
+9
+6 96995
+ccf 16 16
+ryc rve rvv rvd rvz rvr rvp rvy rva rvb rvq rvl rvk rvi ryj rvs
+ccm 13 16
+lvw lvq lvf lva lvz lvd lvh lvm lvp lvx lvt lvl lvr lvg lvn lvi
+cco 0 1
+laz
+ccw 1 1
+xwp
+ccu 0 1
+zsd
+ccx 1 1
+ysw
+4 21
+cch 9 10
+bwv bhj bhh bho bhg bhu bhc bhw bhx bwy
+ccu 1 4
+lad laq laz lal
+cco 0 1
+nbs
+ccj 0 1
+mfg
+5 29
+ccg 10 11
+frx frp frg frf fru frt frm frw frh fro frn
+cco 0 1
+laz
+ccj 9 9
+xmp xmm xmd xmt xmn xmf xmq xmz xmr
+ccu 1 1
+cdn
+cch 0 1
+eyu
+0 1
+1 7
+ccj 4 6
+xmr xmn xmf xmm xmp xmt
+1 6
+ccj 2 5
+rnh rnw rnx rng rnn
+5 24
+ccj 0 1
+wtm
+ccg 0 3
+acw ach acg
+cch 4 4
+zsl zsd zsa zsi
+ccu 1 1
+nbs
+cco 8 9
+huc hje hja hjs hjk hjv hjy hjb hji
+1 17
+ccj 13 16
+xma xme xmk xmz xmp xmn xmd xmi xmr xmq xmt xmf xms xmb xmm xml
+1 4
+ccu 1 1
+klm

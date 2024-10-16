@@ -1,0 +1,13 @@
+ryoxqs
+r *
+y *
+o -
+x +
+q -
+s -
+5
+1 s 6 s 1 r 17
+12 s 8 y 9 q 15
+0 y 11 q 1 r 3
+16 y 6 s 12 o 4
+10 q 13 r 9 s 5

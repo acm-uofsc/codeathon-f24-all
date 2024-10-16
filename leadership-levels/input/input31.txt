@@ -1,0 +1,62 @@
+11
+8 96994
+yyq 8 9
+lui lum lug luq luc lun lul lud lub
+yyz 1 1
+vjh
+yyl 6 9
+ogg ogd ogq ogc ogi ogn ogl ogm ogb
+yyc 9 9
+wkk wkx wko wkw wkr wkv wkj wkh wkt
+yyi 7 9
+sjb sjf sjg sji sjn sjq sjp sjl sjm
+yym 1 4
+coq cob coi col
+yyb 1 4
+awp awu awn awf
+yyn 9 9
+svl svn svp svo svh svf svv svu svb
+2 24
+yyd 10 13
+wkw wkj wkx wkv wkk wkr wka wke wkt wkh wko wks wjy
+yyz 6 9
+des dsg dsd dsm dsc dsy dsq dsz dee
+2 10
+yyd 4 4
+vjw vjh vjk vjx
+yyc 3 3
+uef ueu uev
+1 16
+yyz 12 15
+prq prz ptx pts prc prm prd pte pry ptt ptk prg pta ptj ptr
+3 14
+yyd 0 1
+jxf
+yyc 6 6
+yhl yhu yhf yhb yhp yhn
+yyz 3 4
+brr brj brt bra
+1 12
+yyz 9 11
+geq gaa geg gem gae gec gey gas gez ged gar
+1 3
+yyz 1 2
+des dee
+2 26
+yyd 8 8
+yhf yhv yhl yho yhu yhn yhp yhb
+yyz 13 16
+vtg vjs vty vtm vje vtd vjt vjw vjr vtz vtc vjj vjh vjk vja vjx
+1 11
+yyz 10 10
+bac bay brr baz brt bre brs brj bra bad
+0 1
+4 20
+yym 0 1
+ptx
+yyc 7 9
+uej ueo ueu uex uek uew uef ueh uev
+yyz 2 4
+des dsy dee dsz
+yyd 0 1
+awn

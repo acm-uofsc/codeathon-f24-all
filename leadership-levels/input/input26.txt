@@ -1,0 +1,83 @@
+12
+8 96992
+qqo 1 4
+amg ama amt ame
+qqu 6 9
+mca mce mcg mco mct mcb mcf mcw mcp
+qqf 2 4
+tre trt trp trc
+qqv 1 1
+mco
+qqm 13 16
+qis qic qip qij qiw qil qid qii qin qig qie qiz qit qia qik qif
+qqa 1 1
+mco
+qqw 14 16
+ldg ldz ldh ldt lds ldd ldp ldn ldr ldj ldk lda ldl ldc lde ldi
+qqx 7 9
+pjz pjk pji pjn pjs pjl pjj pjr pjd
+3 9
+qqy 1 4
+jsp jse jsc jst
+qqm 1 1
+dkp
+qqx 0 1
+twv
+3 28
+qqv 0 1
+car
+qqo 1 4
+fty ftm ftv ftu
+qqx 13 16
+afn afc aff afg afe afa afi afp aft afo afs afd afj afb afw afk
+2 15
+qqx 6 9
+pjl pjn pjd pjj pji pjz pjr pjs pjk
+qqy 2 4
+mcb mcf mco mcw
+4 23
+qqx 3 4
+pjd pjs pji pjk
+qqm 1 4
+qif qig qiw qia
+qqo 1 4
+xod xok xos xoi
+qqy 9 9
+pjd pjr pjk pjn pjs pjz pji pjl pjj
+3 19
+qqm 0 1
+tre
+qqv 9 9
+xon xoz xos xok xod xoj xol xor xoi
+qqy 1 4
+jsc jse jsp jst
+2 22
+qqu 15 16
+hje hjg hjs hjd hjp hjo hjf hju hja hjt hji hjc hjb hjw hjv hjk
+qqy 0 1
+qiw
+1 12
+qqx 8 11
+ulz urq ulr urm ury uro ulh uru ull urx urv
+2 22
+qqm 8 10
+dkn dkz dkj dki dkd dks dkk dkl dkp dkc
+qqy 9 9
+wlq wzl wlx wly wzh wzj wzn wzr wzz
+3 17
+qqx 0 1
+pji
+qqm 8 9
+fto ftf ftm fty ftu fta ftb ftw ftv
+qqy 3 4
+ulz ull ulh ulr
+2 17
+qqx 9 9
+twb two twv twg twe tww twu twf twa
+qqy 4 6
+jsd jsi jsc jsp jst jse
+2 27
+qqx 9 9
+yhy yhx yrh yho yhu yhm yhv yhq yrr
+qqv 11 14
+mcc mcf mcb mct mcw mcd mce mcg mcs mck mci mca mcp mco

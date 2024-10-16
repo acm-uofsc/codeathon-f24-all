@@ -1,0 +1,59 @@
+10
+6 96991
+hho 13 16
+ips irc irf irx irz irv irq ird irh iro irw irt irl ipu iry iri
+hhy 0 1
+uad
+hhi 9 9
+cuv cuh cuc cux cui csu cud css cuz
+hht 2 4
+cfo cfz cft cfy
+hhd 2 4
+ofx ofv ofd ofc
+hhz 0 1
+ofc
+1 12
+hhi 11 11
+lot lol loo lok loy loe lof loz loq low lon
+2 22
+hhv 13 15
+gop glo glv gll gos gld gor glx glc glh gou glz gly glt gli
+hhi 4 4
+lot loy loz loo
+1 2
+hhi 1 1
+qjg
+1 13
+hhd 8 9
+ydn yda ydf ydm ydw ydk yde ydg ydb
+2 8
+hhi 1 4
+ylq ylt yll ylo
+hhc 2 2
+agw agf
+3 22
+hhc 4 4
+xru xrr xrs xrp
+hhi 2 4
+loz loo loy lot
+hhv 10 11
+bma bms bmn bmp bmb bmk bmr bmg bmm bme bmj
+4 19
+hhv 6 9
+xiu xim xij xip xis xir xch xia xig
+hhc 0 1
+rbl
+hhd 2 4
+ofv ofc ofx ofd
+hhi 1 1
+ylt
+3 22
+hhd 10 10
+kqx kls kqv kqy kqd kqi klu kqh kqc kqz
+hhc 1 4
+xru xrp xrr xrs
+hhv 1 4
+xim xij xig xia
+1 3
+hhi 1 2
+css csu
