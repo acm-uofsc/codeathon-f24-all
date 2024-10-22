@@ -70,7 +70,7 @@ if case_num == 0:
     print("secretary", 1, 3)
     print("HR janitor manager")
     print("vicePresident", 1, 1)
-    print("secretary")
+    print("president")
     print(4, 4)
     print("dead", 1, 1)
     print("lock")

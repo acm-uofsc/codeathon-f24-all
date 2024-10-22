@@ -18,7 +18,7 @@ elif case_num == 1:
     print(4)
     print("gum", "lollipop", "abcdef", "xyz")
 else:
-    n = randint(1, min(case_num ** 3, 1000))
+    n = randint(1, min(case_num ** 3, 100))
     highest_ingredients_before = randint(1, 25)
     word_size = randint(1, 100)
     candies = [get_word(highest_ingredients_before) for i in range(n-1)]

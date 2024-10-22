@@ -1,0 +1,1 @@
+candyapples has 9 unique ingredients ['a', 'c', 'd', 'e', 'l', 'n', 'p', 's', 'y'], while kitkat has 4 ['a', 'i', 'k', 't'], and ssssswwwweeeeeeeeeeeeeeeeetttt has 4 ['e', 's', 't', 'w']. The highest of these is candyapples, so `candyapples 9` is printed

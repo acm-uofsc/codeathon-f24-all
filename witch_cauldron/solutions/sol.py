@@ -9,6 +9,7 @@ def witch_cauldron_combination_lock(ingredients, target_weight):
             if dp[w - weight] != -1:
                 dp[w] = max(dp[w], dp[w - weight] + value)
 
+    print(dp)
     # The answer is the maximum value achievable at exactly `target_weight`.
     return dp[target_weight] if dp[target_weight] != -1 else -1
 
