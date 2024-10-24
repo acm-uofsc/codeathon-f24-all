@@ -1,0 +1,47 @@
+Jerry started at 8, then moved 5 steps (landing at 5). When he takes his 6th step, he falls off the end of the level, and respawns at 8. His 7th step lands him at 3, his 8th at 4, and his 9th lands him at 7, so 7 is printed
+
+
+Here is what the level looks like after each move, and where Jerry ended up indicated with ^
+
+	after move 1:
+    12 6 0 2 41 0 3 0
+       ^
+    after move 2:
+    12 6 5 2 41 0 3 0
+    ^
+    after move 3:
+    12 6 5 2 41 0 3 0
+       ^
+    after move 4:
+    12 6 5 2 41 0 3 0
+         ^
+    after move 5:
+    12 6 5 2 41 0 3 0
+           ^
+    after move 6:
+    12 6 5 2 41 0 3 0
+             ^
+    after move 7:
+    12 6 5 2 41 5 3 0
+    ^
+    after move 8:
+    12 6 5 2 41 5 3 0
+       ^
+    after move 9:
+    12 6 5 2 41 5 3 0
+         ^
+    after move 10:
+    12 6 5 2 41 5 3 0
+           ^
+    after move 11:
+    12 6 5 2 41 5 3 0
+             ^
+    after move 12:
+    12 6 5 2 41 5 3 0
+                ^
+    after move 13:
+    12 6 5 2 41 5 3 0
+                  ^
+    after move 14:
+    12 6 5 2 41 5 3 5
+    ^

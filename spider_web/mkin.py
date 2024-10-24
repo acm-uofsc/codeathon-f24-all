@@ -8,13 +8,13 @@ seed(case_num * 555)
 # 0 and 1 are the sample cases
 if case_num == 0:
     print(3)
-    print(4, 8)
-    print(6, 1, 0, 4)
-    print(3, 5)
+    print(4, 2)
+    print(1, 2, 0, 4)
+    print(3, 9)
     print(4, 8)
     print(7, 3, 0, 4)
     print(3, 12)
-    print(4, 8)
+    print(5, 11)
     print(7, 3, 0, 4)
     print(3000, 12)
 else:
@@ -31,11 +31,11 @@ else:
             S = randint(1, case_num * 2)
         else:
             if is_hard_case:
-                L = 200_000 // case_count
-                S = 200_000 // case_count
+                L = 20_000 // case_count
+                S = 20_000 // case_count
             else:
-                L = randint(case_num * 100, 20_000)
-                S = randint(case_num * 100, 20_000)
+                L = randint(case_num, 200)
+                S = randint(case_num, 200)
         x = randint(0, S-1)
         a = randint(0, S-1)
         y = randint(1, L)

@@ -1,0 +1,7 @@
+In the first case, one path Sarah can take is going forward to x=3, then x=6, then x=9 then backward to x=7, then backward again to x=5. This is 5 moves, plus 1 at the start when she initially looked down at her phone. This results in 6.
+
+In the second case, Sarah can never reach position x=5 exactly, so -1 is printed.
+
+
+
+One possible path that Sarah can take is going backward to x=-5, then forward to x=-3, x=-1, x=1. This is 4 moves (phone checks), plus 1 phone check when she started, so 5 is printed
