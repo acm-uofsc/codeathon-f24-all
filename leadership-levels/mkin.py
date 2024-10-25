@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-from random import randint, sample, choice, choices, seed, shuffle
+from random import randint, sample, choice, choices, seed, shuffle, uniform
 from string import ascii_lowercase, ascii_letters
 import itertools as it
 import sys
@@ -15,71 +15,80 @@ ascii_lowercase = "".join(ascii_lowercase)
 def get_name():
     return ''.join(choices(ascii_lowercase, k=3))
 
-all_three_letter_names = [''.join(group) for group in it.product(ascii_lowercase, 
-                                                            repeat=3)]
+all_four_letter_names = [''.join(group) for group in it.product(ascii_lowercase, 
+                                                            repeat=4)]
 def number_to_letters(num):
-    return all_three_letter_names[num % len(all_three_letter_names)]
+    return all_four_letter_names[num % len(all_four_letter_names)]
 
 def gen_single_case(case_num):
     if case_num < 10:
-        total_people = randint(1, 30)
+        total_people = randint(20, 25)
     elif case_num < 20:
         total_people = randint(600, 800)
     else:
-        total_people = randint(97000 - 10, 97000)
+        hi = 80000
+        total_people = randint(hi - 10, hi)
     
-    G = defaultdict(set)
-    used = set()
-    for i in range(1, 11):
-        offset = randint(2, 10)*1000
-        used.add(i)
-        if len(used) == total_people:
-            break
-        for j in range(randint(0, 4)**2):
-            cur = i*offset+j
-            G[i].add(cur)
-            used.add(cur)
-            if len(used) == total_people:
-                break
-        if len(used) == total_people:
-            break
+    names_to_use = sample(all_four_letter_names, k=total_people)
+    person_to_dependencies = {}
+    people_to_depend_on = list(range(total_people))
+    for i in range(int(total_people * uniform(.8, 1))):
 
-    has_requirements = list(G.keys()) 
-    has_requirements.sort()
-    shuffle(has_requirements)
-    print(len(has_requirements), total_people)
-    for key in has_requirements:
-        total_can_get_approval_from = len(G[key])
-        print(
-            number_to_letters(key), 
-            randint(max(0, total_can_get_approval_from-3), total_can_get_approval_from),
-            total_can_get_approval_from
-        )
-        connected_to = list(G[key])
-        connected_to.sort()
-        shuffle(connected_to)
-        print(*[number_to_letters(x) for x in connected_to])
+        # print(i, file=sys.stderr)
+        cur_person_with_dependencies = names_to_use[i]
+        # if i > 0:
+        #     people_to_depend_on.add(i-1)
+        # people_to_depend_on.remove(i)
+        # if i % 300 == 0:
+        #     shuffle(people_to_depend_on)
+        depend_count = randint(2, 7)
+        # depend_count = min(depend_count, len(people_to_depend_on))
+        starting_pos = (i*12 + 1 + randint(20, 200)) % len(people_to_depend_on)
+        # if starting_pos + depend_count >= len(people_to_depend_on):
+            # starting_pos = 0
+        depend_count = max(depend_count, 1)
+        people_to_depend_on_slice = people_to_depend_on[starting_pos:starting_pos+depend_count]
+        if i in people_to_depend_on_slice:
+            people_to_depend_on_slice.remove(i)
+        if len(people_to_depend_on_slice) == 0:
+            people_to_depend_on_slice = people_to_depend_on[i-1]
+        # mask = [0]*total_people
+        # for other_person_num in people_to_depend_on:
+        #     mask[other_person_num] = 1
+        person_to_dependencies[cur_person_with_dependencies] = people_to_depend_on_slice
+    
+    print(len(person_to_dependencies), total_people)
+    print(*names_to_use)
+    for higher_up in person_to_dependencies:
+        dependency_count = len(person_to_dependencies[higher_up])
+        amount_percent_needed = int(dependency_count * uniform(.3, 1.1))
+        amount_percent_needed = min(amount_percent_needed, dependency_count)
+        print(higher_up, amount_percent_needed, dependency_count)
+        print(*person_to_dependencies[higher_up])
+
     
 
 # 0 and 1 are the sample cases
 if case_num == 0:
     print(2)
-    print(3, 20)
+    print(3, 8)
+    print("president secretary HR vicePresident janitor manager grace nia")
     print("president", 3, 3)
-    print("secretary HR vicePresident")
+    print(1, 2, 3)
     print("secretary", 1, 3)
-    print("HR janitor manager")
+    print(2, 4, 5)
     print("vicePresident", 1, 1)
-    print("president")
-    print(4, 4)
-    print("dead", 1, 1)
-    print("lock")
-    print("lock", 1, 1)
-    print("key")
-    print("key", 1, 1)
-    print("shovel")
+    print(0)
+    print(4, 5)
+    print("dead lock key shovel axe")
+    print("dead", 1,   1)
+    print(1)
+    print("lock", 1,   1)
+    print(2)
+    print("key", 1,    1)
+    print(3)
     print("shovel", 1, 1)
-    print("dead")
+    print(0)
 
 else:
     case_count = randint(5, 15)

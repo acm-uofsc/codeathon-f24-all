@@ -1,5 +1,6 @@
 import operator as op
 import re
+import sys
 '''
 similar to PEMDAS, (parenthesis, exponent, etc), we define letters of the alphabet, like WXYZ, and define the operation of each symbol
 W is +

@@ -1,0 +1,17 @@
+Here are the steps worked out:
+
+	4 z 5 y 2 w 7    
+    4 z 5 y 9
+    4 z 14
+    56
+
+w has the highest precedence, and represents +, evaluating 2 and 7 to 9. 'y' has the next highest, and is also '+', making the equation `4 z 14`. 'z' is multiply, resulting in `56`
+
+Here is the second problem worked out:
+
+    5 y 8 x 4 z 9 w 6
+    5 y 8 x 4 z 15
+    5 y 32 z 15
+    37 z 15
+    555
+

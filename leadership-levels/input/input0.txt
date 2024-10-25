@@ -1,17 +1,19 @@
 2
-3 20
+3 8
+president secretary HR vicePresident janitor manager nia grace
 president 3 3
-secretary HR vicePresident
+1 2 3
 secretary 1 3
-HR janitor manager
+2 4 5
 vicePresident 1 1
-president
-4 4
+0
+4 5
+dead lock key shovel axe
 dead 1 1
-lock
+1
 lock 1 1
-key
+2
 key 1 1
-shovel
+3
 shovel 1 1
-dead
+0

@@ -1,0 +1,5 @@
+For the first potion, our max worry level is 5 and we can only choose from the first three ingredients in the list. Any combination of two or more of these would exceed our worry level (3 + 4 = 7 and 4 + 4 = 8, both of which are higher than our cap of 5), so we settle for just taking the third ingredient, which is worth 3 magic value, so 3 is printed.
+
+For the second potion, our cap is 9 and we can only choose from the first 5 ingredients. The highest combination of magic value that we can get that does not exceed 9 is choosing the second, third and fifth. The weight total is 3 + 4 + 2 = 9, and the total magic value is 2 + 3 + 1 = 6, so 6 is printed.
+
+For the third and fourth potions, we have quite a high worry level cap. For both of these potions, we can take all the ingredients that are allowed in each instance (the first 5 and first 6, respectively)

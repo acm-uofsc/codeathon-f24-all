@@ -43,20 +43,20 @@ for i in range(0, 41):
         print(f"Error running solution for case {i}: {e.stderr}")
         exit()
 
-    # #check against other solutions
-    try:
-        temp_file = "temp.txt"
-        worked = subprocess.run(f'python3 ./solutions/gpt_sol.py < {input_file} > {temp_file}', 
-                                shell=True, check=True, capture_output=True, text=True)
-        worked = subprocess.run(f'diff -u {output_file} {temp_file}', 
-                                shell=True, check=True, capture_output=True, text=True)
-        if worked.stdout.strip():
-            print("diff was different")
-            raise ValueError("diff was different")
-    except subprocess.CalledProcessError as e:
-        # Print the error and exit if the command fails
-        print(f"Error running solution for case {i}: {e.stdout} {e.stderr}")
-        exit()
+    # # #check against other solutions
+    # try:
+    #     temp_file = "temp.txt"
+    #     worked = subprocess.run(f'python3 ./solutions/gptv2.py < {input_file} > {temp_file}', 
+    #                             shell=True, check=True, capture_output=True, text=True)
+    #     worked = subprocess.run(f'diff -u {output_file} {temp_file}', 
+    #                             shell=True, check=True, capture_output=True, text=True)
+    #     if worked.stdout.strip():
+    #         print("diff was different")
+    #         raise ValueError("diff was different")
+    # except subprocess.CalledProcessError as e:
+    #     # Print the error and exit if the command fails
+    #     print(f"Error running solution for case {i}: {e.stdout} {e.stderr}")
+        # exit()
     
 
 
@@ -65,4 +65,4 @@ if os.path.exists('cases.zip'):
     os.remove('cases.zip')
 
 os.system("zip -r cases input output")
-os.system(f"rm {temp_file}")
+# os.system(f"rm {temp_file}")

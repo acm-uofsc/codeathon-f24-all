@@ -12,11 +12,11 @@ def make_equation(symbols_to_use, min_length, use_paren=False):
     OPEN_PAREN = "("
     while True:
         result = choices(list(range(0, 21)), k=min_length)
-        print(result, file=sys.stderr)
+        # print(result, file=sys.stderr)
         dummy_filler_symbol = "$"
         result = [str(x) for x in result]
         result = f" {dummy_filler_symbol} ".join(result).split()
-        print(result, file=sys.stderr)
+        # print(result, file=sys.stderr)
         if use_paren:
             pos = 0
             while pos < len(result):
@@ -58,36 +58,36 @@ if case_num == 0:
     print(2)
     print("4 z 5 y 2 w 7")
     print("5 y 8 x 4 z 9 w 6")
-elif case_num == 1:
-    print("cats")
-    sample_symbols = '''
-    c +
-    a *
-    t -
-    s *
-    '''
-    for line in sample_symbols.strip().splitlines():
-        print(line.strip())
-    print(4)
-    print("4 t 5 a 2 c 7")
-    print("14 a -5 c 12 t 7")
-    print("2 s 7 t 6 t 100 c 5")
-    print("200 c 35 t 100 c 15")
-elif case_num == 2:
-    print("paren")
-    sample_symbols = '''
-    p +
-    a *
-    r -
-    e *
-    n *
-    '''
-    for line in sample_symbols.strip().splitlines():
-        print(line.strip())
-    print(3)
-    print("9 e ( 4 p 6 )")
-    print("2 p ( ( 5 e 4 ) r 6 a 8 ) e ( 10 e 5 )")
-    print("19 p 4 e ( 1 x 20 p ( 7 e 14 r ( 18 ) ) )")
+# elif case_num == 1:
+#     print("cats")
+#     sample_symbols = '''
+#     c +
+#     a *
+#     t -
+#     s *
+#     '''
+#     for line in sample_symbols.strip().splitlines():
+#         print(line.strip())
+#     print(4)
+#     print("4 t 5 a 2 c 7")
+#     print("14 a -5 c 12 t 7")
+#     print("2 s 7 t 6 t 100 c 5")
+#     print("200 c 35 t 100 c 15")
+# elif case_num == 2:
+#     print("paren")
+#     sample_symbols = '''
+#     p +
+#     a *
+#     r -
+#     e *
+#     n *
+#     '''
+#     for line in sample_symbols.strip().splitlines():
+#         print(line.strip())
+#     print(3)
+#     print("9 e ( 4 p 6 )")
+#     print("2 p ( ( 5 e 4 ) r 6 a 8 ) e ( 10 e 5 )")
+#     print("19 p 4 e ( 1 x 20 p ( 7 e 14 r ( 18 ) ) )")
 else:
     # output what should be read in as input by
     # contestant code
@@ -96,11 +96,16 @@ else:
     operators = ["*", "+", "-"]
     print(order)
     for letter in order:
-        print(letter, choice(operators))
+        if case_num == 1 and letter == 'c':
+            print(letter, '-')
+        else:
+            print(letter, choice(operators))
     equation_count = randint(3, 10)
     print(equation_count)
     for i in range(equation_count):
-        if case_num < 20:
+        if case_num == 1:
+            print(make_equation(order, 4 + i // 2, True))
+        elif case_num < 20:
             print(make_equation(order, 4))
         elif case_num < 30:
             print(make_equation(order, 7, True))

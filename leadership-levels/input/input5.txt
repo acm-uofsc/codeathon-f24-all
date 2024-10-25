@@ -1,81 +1,579 @@
 14
-1 3
-jju 2 2
-oti ots
-2 25
-jjz 3 4
-lru ltb lrj ltf
-jjy 15 16
-xlk xlo xlt xlg xlr xli xlv xld xlm xlp xln xlc xlw xlq xls xll
-3 12
-jja 1 4
-cpl cpw cpk cpq
-jju 1 1
-rnp
-jjz 1 1
-nic
-1 8
-jjx 2 5
-sqz sqa sqd sqx sqy
-6 25
-jjy 1 4
-tbv tbl tbw tbg
-jjx 9 9
-qis qik qir qiy qid qio qii qit qiz
-jju 1 1
-qiz
-jjd 0 1
-udg
-jjz 4 4
-ozk ozq ozw ozl
-jja 1 1
-wcg
-1 4
-jja 1 1
-rnp
-2 15
-jja 1 4
-xli xlo xls xld
-jjz 6 7
-evk evw evl evq evt evr evg
-1 11
-jju 7 10
-otl ott otw otv otr otk oti ots otg otq
-3 20
-jjx 6 7
-hyx hzf hyz hya hyj hzb hyu
-jju 8 9
-aba abx abu aby abj aff abz abd afb
-jja 0 1
-vmw
-6 26
-jju 2 4
-rnn rnp rnm rnc
-jja 6 9
-cpw cpc cpm cpg cpl cpk cpp cpq cpv
-jjz 1 4
-rnp rnm rnc rnn
-jjx 0 1
-ihc
-jjd 2 4
-sqz sqa sqy sqx
-jjy 0 1
-tbw
-2 20
-jjx 0 1
-yup
-jja 16 16
-vmh vml vmb vmn vcu vme vmm vca vmf vcj vcx vmw vmg vmv vmc vmp
-1 5
-jju 1 4
-wcm wcp wcv wcg
-1 6
-jju 5 5
-tss tso tst tsi tsd
-3 23
-jju 15 16
-abt aba abu abq aff abi abo abz abk abx abd abr abj afb aby abs
-jja 0 1
-yeh
-jjz 2 2
-ltb ltf
+17 20
+bmir ygis eudz vlpu putj viyu frfh nfut kyjq hkze wsvc akon bxfl xxvn fceo apuj grcd enrp jnod pnrf
+bmir 1 5
+15 16 17 18 19
+ygis 1 3
+16 17 18
+eudz 3 5
+3 4 5 6 7
+vlpu 0 3
+2 4 5
+putj 5 6
+9 10 11 12 13 14
+viyu 4 5
+15 16 17 18 19
+frfh 4 6
+7 8 9 10 11 12
+nfut 1 2
+5 6
+kyjq 5 6
+10 11 12 13 14 15
+hkze 5 6
+11 12 13 14 15 16
+wsvc 2 5
+4 5 6 7 8
+akon 1 5
+0 1 2 3 4
+bxfl 1 4
+1 2 3 4
+xxvn 0 2
+9 10
+fceo 3 4
+16 17 18 19
+apuj 1 2
+14 16
+grcd 2 4
+8 9 10 11
+24 25
+rhxq axxl hkph wvjh ufoi nhkz powy etkg krbs fkbg vlxw asdw bgws fzio hbya qklb dxxq tssd zbmt exxr vjud waqx ybyj cfpr otfk
+rhxq 5 6
+15 16 17 18 19 20
+axxl 0 1
+24
+hkph 2 4
+20 21 22 23
+wvjh 1 4
+5 6 7 8
+ufoi 5 5
+0 1 2 3 5
+nhkz 3 5
+20 21 22 23 24
+powy 3 5
+15 16 17 18 19
+etkg 2 2
+5 6
+krbs 2 4
+21 22 23 24
+fkbg 0 2
+20 21
+vlxw 1 4
+20 21 22 23
+asdw 2 5
+0 1 2 3 4
+bgws 1 2
+21 22
+fzio 6 6
+0 1 2 3 4 5
+hbya 2 4
+7 8 9 10
+qklb 6 6
+9 10 11 12 13 14
+dxxq 1 3
+17 18 19
+tssd 1 2
+21 22
+zbmt 6 7
+7 8 9 10 11 12 13
+exxr 2 5
+1 2 3 4 5
+vjud 3 7
+0 1 2 3 4 5 6
+waqx 3 5
+2 3 4 5 6
+ybyj 1 2
+0 1
+cfpr 2 3
+16 17 18
+17 20
+gryd rqdu koun zkkv ygxl ptbn urvm wgil ixbq yfcf djdu eqam qrff evyx kvvz guhd abqf cweu ezdm oczb
+gryd 2 3
+6 7 8
+rqdu 3 7
+2 3 4 5 6 7 8
+koun 3 6
+3 4 5 6 7 8
+zkkv 0 1
+19
+ygxl 1 1
+19
+ptbn 1 2
+2 3
+urvm 1 4
+16 17 18 19
+wgil 2 5
+10 11 12 13 14
+ixbq 1 3
+16 17 18
+yfcf 1 4
+4 5 6 7
+djdu 2 3
+7 8 9
+eqam 1 2
+13 14
+qrff 1 2
+15 16
+evyx 2 3
+10 11 12
+kvvz 2 3
+3 4 5
+guhd 3 4
+0 1 2 3
+abqf 3 6
+12 13 14 15 17 18
+20 25
+wizn jtob oaxp nxoq ymlo fhey tjfv xmsr xbop pixj gzxk ajqq mbom ocfo nduf gxjr sgjr eaxr djxy vjgb zsvg ajug bkze riby pxia
+wizn 2 3
+13 14 15
+jtob 2 2
+6 7
+oaxp 1 3
+16 17 18
+nxoq 2 4
+1 2 4 5
+ymlo 5 5
+19 20 21 22 23
+fhey 1 4
+6 7 8 9
+tjfv 2 4
+3 4 5 7
+xmsr 6 7
+11 12 13 14 15 16 17
+xbop 3 4
+7 9 10 11
+pixj 0 2
+6 7
+gzxk 2 4
+11 12 13 14
+ajqq 3 4
+19 20 21 22
+mbom 3 5
+13 14 15 16 17
+ocfo 0 2
+5 6
+nduf 1 2
+16 17
+gxjr 4 6
+9 10 11 12 13 14
+sgjr 2 3
+22 23 24
+eaxr 1 3
+13 14 15
+djxy 1 3
+22 23 24
+vjgb 0 3
+17 18 20
+21 24
+vqdd nnij yzev mjot bocz zxeu bfno vsmr wwtn hmpo xoqe fcxe xcgl lqyq iwic dnpi helv oxfo wtoz zbpo dzja mmkf tprx xvon
+vqdd 3 6
+10 11 12 13 14 15
+nnij 1 2
+22 23
+yzev 4 6
+18 19 20 21 22 23
+mjot 4 6
+4 5 6 7 8 9
+bocz 1 5
+19 20 21 22 23
+zxeu 1 2
+19 20
+bfno 0 1
+23
+vsmr 1 3
+12 13 14
+wwtn 5 5
+14 15 16 17 18
+hmpo 1 5
+19 20 21 22 23
+xoqe 1 2
+7 8
+fcxe 6 7
+13 14 15 16 17 18 19
+xcgl 3 4
+6 7 8 9
+lqyq 2 6
+7 8 9 10 11 12
+iwic 0 2
+18 19
+dnpi 2 3
+12 13 14
+helv 2 3
+17 18 19
+oxfo 3 6
+18 19 20 21 22 23
+wtoz 2 6
+2 3 4 5 6 7
+zbpo 6 7
+7 8 9 10 11 12 13
+dzja 4 5
+14 15 16 17 18
+23 24
+kgbd baxk dztn habx bseh yjmz wtld ihcx eidy hceq lvtv nyel hxew hvii zffe zknu vzmh psmy kytb yxyx hywv wrno zkbi ivjh
+kgbd 5 5
+9 10 11 12 13
+baxk 4 5
+13 14 15 16 17
+dztn 2 4
+4 5 6 7
+habx 1 2
+7 8
+bseh 1 6
+17 18 19 20 21 22
+yjmz 3 5
+14 15 16 17 18
+wtld 2 2
+22 23
+ihcx 3 6
+10 11 12 13 14 15
+eidy 3 6
+2 3 4 5 6 7
+hceq 1 2
+1 2
+lvtv 1 3
+5 6 7
+nyel 3 4
+15 16 17 18
+hxew 0 1
+13
+hvii 1 3
+19 20 21
+zffe 1 5
+9 10 11 12 13
+zknu 1 3
+21 22 23
+vzmh 3 6
+17 18 19 20 21 22
+psmy 2 2
+22 23
+kytb 3 4
+19 20 21 22
+yxyx 4 6
+13 14 15 16 17 18
+hywv 4 5
+6 7 8 9 10
+wrno 1 2
+8 9
+zkbi 0 1
+23
+20 22
+ruos eamt xzrn aipa twhv xjtk javd uhos mlip ivwc mhzf kjmz rmme yehi nixy lxij ksgd yhjv znqr nqal zagp jcph
+ruos 4 5
+1 2 3 4 5
+eamt 5 6
+0 2 3 4 5 6
+xzrn 4 5
+4 5 6 7 8
+aipa 7 7
+15 16 17 18 19 20 21
+twhv 1 2
+7 8
+xjtk 2 2
+20 21
+javd 3 7
+11 12 13 14 15 16 17
+uhos 3 4
+3 4 5 6
+mlip 1 2
+20 21
+ivwc 1 2
+12 13
+mhzf 1 4
+5 6 7 8
+kjmz 0 1
+21
+rmme 0 1
+21
+yehi 2 2
+20 21
+nixy 1 3
+6 7 8
+lxij 4 6
+6 7 8 9 10 11
+ksgd 1 2
+20 21
+yhjv 3 6
+7 8 9 10 11 12
+znqr 0 1
+21
+nqal 3 4
+10 11 12 13
+21 22
+ertt navc xutm utan xlre irbz ilgs fout wqdt dmxt pqnw xdgd pzgb ulnk yjly jmyv uyux oduj kunb rcbd xffj hjps
+ertt 1 2
+15 16
+navc 3 5
+15 16 17 18 19
+xutm 3 4
+11 12 13 14
+utan 1 2
+7 8
+xlre 3 5
+5 6 7 8 9
+irbz 2 4
+15 16 17 18
+ilgs 1 2
+0 1
+fout 0 1
+21
+wqdt 4 6
+16 17 18 19 20 21
+dmxt 1 4
+12 13 14 15
+pqnw 0 3
+19 20 21
+xdgd 3 6
+12 13 14 15 16 17
+pzgb 3 5
+7 8 9 10 11
+ulnk 1 2
+20 21
+yjly 3 5
+13 15 16 17 18
+jmyv 2 2
+20 21
+uyux 6 6
+4 5 6 7 8 9
+oduj 3 4
+13 14 15 16
+kunb 6 6
+5 6 7 8 9 10
+rcbd 4 5
+3 4 5 6 7
+xffj 1 4
+5 6 7 8
+22 25
+nhdg srho nqwo lxgo pdbh nwui tjqw iggr ndhy cxdu xjpf aiqd wpty kiqy gbdd eafd rtra anme wtpw jsxe xlze yxen umqx vqlq ctoa
+nhdg 3 4
+6 7 8 9
+srho 3 4
+5 6 7 8
+nqwo 1 2
+5 6
+lxgo 2 6
+4 5 6 7 8 9
+pdbh 1 2
+23 24
+nwui 2 5
+8 9 10 11 12
+tjqw 0 3
+1 2 3
+iggr 2 3
+4 5 6
+ndhy 4 6
+2 3 4 5 6 7
+cxdu 5 5
+1 2 3 4 5
+xjpf 3 4
+20 21 22 23
+aiqd 1 2
+23 24
+wpty 6 6
+19 20 21 22 23 24
+kiqy 6 7
+4 5 6 7 8 9 10
+gbdd 3 5
+13 15 16 17 18
+eafd 2 5
+3 4 5 6 7
+rtra 5 6
+2 3 4 5 6 7
+anme 4 4
+0 1 2 3
+wtpw 0 2
+23 24
+jsxe 2 3
+21 22 23
+xlze 4 5
+11 12 13 14 15
+yxen 4 4
+15 16 17 18
+21 25
+zwhe colj gvsf iuvy vbkl hwmw rgzc sgck tdtj omef yecy zzje sxyx tfzg mujv sfrj qzxr bcvs vdiu nbxu xmjb bcrf caod ttcz lssl
+zwhe 1 2
+7 8
+colj 2 4
+19 20 21 22
+gvsf 5 5
+13 14 15 16 17
+iuvy 3 4
+7 8 9 10
+vbkl 0 2
+12 13
+hwmw 2 5
+19 20 21 22 23
+rgzc 2 2
+14 15
+sgck 3 7
+16 17 18 19 20 21 22
+tdtj 1 3
+16 17 18
+omef 1 3
+22 23 24
+yecy 3 4
+14 15 16 17
+zzje 4 4
+15 16 17 18
+sxyx 4 5
+20 21 22 23 24
+tfzg 1 2
+23 24
+mujv 3 7
+1 2 3 4 5 6 7
+sfrj 2 4
+10 11 12 13
+qzxr 1 3
+2 3 4
+bcvs 4 6
+2 3 4 5 6 7
+vdiu 2 4
+0 1 2 3
+nbxu 1 3
+18 20 21
+xmjb 7 7
+6 7 8 9 10 11 12
+17 22
+ybap axyx itvi dvdx dpkb pdts jjxh esvd pbhf eubs smnf hudh gyod enez mmxh bjgl rbrr rtqt pkkp qpil chrk axcp
+ybap 1 2
+7 8
+axyx 2 3
+2 3 4
+itvi 1 2
+18 19
+dvdx 0 2
+4 5
+dpkb 2 3
+6 7 8
+pdts 5 6
+2 3 4 6 7 8
+jjxh 1 4
+12 13 14 15
+esvd 1 2
+2 3
+pbhf 4 4
+0 1 2 3
+eubs 0 1
+21
+smnf 0 2
+7 8
+hudh 2 6
+14 15 16 17 18 19
+gyod 1 1
+21
+enez 1 4
+5 6 7 8
+mmxh 3 5
+15 16 17 18 19
+bjgl 0 1
+14
+rbrr 1 5
+8 9 10 11 12
+17 20
+ievl orbf magr ileb sobh yjuo jjdz vtsv ztxf raqm dcrv nzre cjrp esob dcwl mxnv lsds ewzv mdbx bqdj
+ievl 1 1
+19
+orbf 1 2
+5 6
+magr 4 5
+9 10 11 12 13
+ileb 5 6
+7 8 9 10 11 12
+sobh 1 2
+0 1
+yjuo 2 7
+11 12 13 14 15 16 17
+jjdz 3 7
+11 12 13 14 15 16 17
+vtsv 6 7
+10 11 12 13 14 15 16
+ztxf 1 4
+12 13 14 15
+raqm 3 4
+13 14 15 16
+dcrv 0 1
+19
+nzre 2 4
+1 2 3 4
+cjrp 4 7
+4 5 6 7 8 9 10
+esob 3 5
+15 16 17 18 19
+dcwl 2 3
+11 12 13
+mxnv 0 1
+14
+lsds 0 1
+19
+18 23
+vstk vzvn nfqz gxkx uexv hzxw odzt ngzy nxwz etjq agwk heuf xbwg cedb wszn vgpf tndh yjdr jxre ywqn huqu vgjs qegh
+vstk 1 2
+12 13
+vzvn 0 1
+22
+nfqz 5 7
+10 11 12 13 14 15 16
+gxkx 3 3
+11 12 13
+uexv 3 3
+0 1 2
+hzxw 1 3
+20 21 22
+odzt 4 4
+18 19 20 21
+ngzy 1 2
+12 13
+nxwz 3 3
+18 19 20
+etjq 0 1
+8
+agwk 2 3
+7 8 9
+heuf 0 1
+22
+xbwg 1 2
+21 22
+cedb 2 5
+18 19 20 21 22
+wszn 0 2
+19 20
+vgpf 2 4
+3 4 5 6
+tndh 5 5
+13 14 15 17 18
+yjdr 2 4
+11 12 13 14
+17 21
+bxqv otlw sckr lymp qqnj dazy krhb vdlo fyez hwhk xfem cihw zuke jpqx vgpm juik dqbc wsze bfjy rtuk scun
+bxqv 1 3
+11 12 13
+otlw 4 5
+16 17 18 19 20
+sckr 0 3
+13 14 15
+lymp 3 6
+0 1 2 4 5 6
+qqnj 1 3
+9 10 11
+dazy 1 2
+16 17
+krhb 3 7
+8 9 10 11 12 13 14
+vdlo 4 5
+6 8 9 10 11
+fyez 4 5
+5 6 7 9 10
+hwhk 1 5
+0 1 2 3 4
+xfem 2 6
+2 3 4 5 6 7
+cihw 3 4
+17 18 19 20
+zuke 1 3
+9 10 11
+jpqx 3 6
+4 5 6 7 8 9
+vgpm 1 3
+6 7 8
+juik 1 3
+8 9 10
+dqbc 6 7
+0 1 2 3 4 5 6

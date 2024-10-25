@@ -11,32 +11,32 @@ if case_num == 0:
 4 3
 5 2
 2 1
-3 1
+3 100
 4
-5 2
-17 6
-18 6
-30 6
-''')
+5 3
+9 5
+30 5
+40 6''')
 elif case_num == 1:
     print('''5
-1 1
+9 1
 4 5
 3 5
 4 1
 2 2
 2
 7 5
-3 3
-''')
+3 3''')
 else:
     # output what should be read in as input by
     # contestant code
-    number_of_ingredients = randint(1, 14)
+    number_of_ingredients = randint(5, 14)
     if case_num > 10:
-        number_of_ingredients = randint(36, 50)
+        number_of_ingredients = randint(50, 60)
     if case_num > 20:
-        number_of_ingredients = randint(60, 1000)
+        number_of_ingredients = randint(100, 1000)
+    if case_num > 30:
+        number_of_ingredients = randint(1400, 1500)
     print(number_of_ingredients)
 
     # Generate n ingredients with random weights and values
@@ -48,10 +48,13 @@ else:
     if case_num > 20:
         case_count = randint(20, 30)
     if case_num > 30:
-        case_count = 3000
+        case_count = 15_000
     print(case_count)
     for i in range(case_count):
         max_weight_cap = randint(1, 1500)
         first_x_allowed = randint(1, number_of_ingredients)
+        if case_num > 30:
+            max_weight_cap = randint(1400, 1500)
+            first_x_allowed = randint(number_of_ingredients-100, number_of_ingredients)
         print(max_weight_cap, first_x_allowed)
 
