@@ -1,579 +1,6353 @@
 14
-17 20
-bmir ygis eudz vlpu putj viyu frfh nfut kyjq hkze wsvc akon bxfl xxvn fceo apuj grcd enrp jnod pnrf
-bmir 1 5
-15 16 17 18 19
-ygis 1 3
-16 17 18
-eudz 3 5
-3 4 5 6 7
-vlpu 0 3
-2 4 5
-putj 5 6
-9 10 11 12 13 14
-viyu 4 5
-15 16 17 18 19
+225 250
+atli bmir ygis eudz vlpu putj viyu frfh nfut kyjq hkze wsvc akon bxfl xxvn fceo apuj grcd enrp jnod pnrf thnz mymd nugl ipbg zjre gplr wjxt fzej ccjz tfxn hgps abni lpba simc bqkk lnqk bpty ruty hubr fujd iqnj dhja wubb lsox dycj blre veqz gldq woae jrjm knec tdwx iuca pyae amry hofx qzdz tlrh bcox kqok eagz yatd team tkrg drtt jvei kzsr yflx qpch ujku mber nwoc cnot ncsr wjnb pdhq eidp edrr chry msve ehri plnh zqyf gknx jmii vlgc zamx dwpj drfn nqni tsfj nznv vafn twqa depv hobl rhxq axxl hkph wvjh ufoi nhkz powy etkg krbs fkbg vlxw asdw bgws fzio hbya qklb dxxq tssd zbmt exxr vjud waqx ybyj cfpr otfk dnzm pxxl aoyh rotv gqui ixof yfts oeao igjm vmfw dwzp cyfy mxtb qgfz vxgn zzjr afje cirf xknu amdt nawf budr faln mraw invb difb wcgd rief udew ktpt vxwu wtxk iump gprz hjcl lwxp zsow ceap jsbp wabz nsrj huqt ydku ktry rbrl fcof cyvo tktf elck wipl xkiz jmzd hdxz hoch uccs eusq znej ydda cxmz vnuh poeo apkj kvnn qdhl dzps bcyc awfw gong tmct rywi aaxp xegz qvka izzd acti aoiy xowd wzcp sdfi ybee umjs gpzc gsmp kmvi oqxz lygv lntq vykb ffhc ucwj stby oxow eeap glys xiwp tjge grse mbbz xgpd jcql gryd rqdu koun zkkv ygxl ptbn urvm wgil ixbq yfcf djdu eqam qrff evyx kvvz guhd abqf cweu ezdm oczb qrtu euux zbgw ovyy fwnw coie hixr fokk
+atli 2 3
+3 1 2
+bmir 0 2
+116 117
+ygis 0 1
+56
+eudz 0 1
+2
+vlpu 1 5
+16 17 20 18 19
+putj 3 6
+217 219 216 215 218 220
+viyu 0 1
+5
 frfh 4 6
-7 8 9 10 11 12
-nfut 1 2
-5 6
-kyjq 5 6
-10 11 12 13 14 15
-hkze 5 6
-11 12 13 14 15 16
-wsvc 2 5
-4 5 6 7 8
-akon 1 5
-0 1 2 3 4
-bxfl 1 4
-1 2 3 4
-xxvn 0 2
-9 10
-fceo 3 4
-16 17 18 19
-apuj 1 2
-14 16
-grcd 2 4
-8 9 10 11
-24 25
-rhxq axxl hkph wvjh ufoi nhkz powy etkg krbs fkbg vlxw asdw bgws fzio hbya qklb dxxq tssd zbmt exxr vjud waqx ybyj cfpr otfk
-rhxq 5 6
-15 16 17 18 19 20
-axxl 0 1
-24
-hkph 2 4
-20 21 22 23
-wvjh 1 4
-5 6 7 8
-ufoi 5 5
-0 1 2 3 5
-nhkz 3 5
-20 21 22 23 24
-powy 3 5
-15 16 17 18 19
-etkg 2 2
-5 6
-krbs 2 4
-21 22 23 24
-fkbg 0 2
-20 21
-vlxw 1 4
-20 21 22 23
-asdw 2 5
-0 1 2 3 4
-bgws 1 2
-21 22
-fzio 6 6
-0 1 2 3 4 5
-hbya 2 4
-7 8 9 10
-qklb 6 6
-9 10 11 12 13 14
-dxxq 1 3
-17 18 19
-tssd 1 2
-21 22
-zbmt 6 7
-7 8 9 10 11 12 13
-exxr 2 5
-1 2 3 4 5
-vjud 3 7
-0 1 2 3 4 5 6
-waqx 3 5
-2 3 4 5 6
-ybyj 1 2
-0 1
-cfpr 2 3
-16 17 18
-17 20
-gryd rqdu koun zkkv ygxl ptbn urvm wgil ixbq yfcf djdu eqam qrff evyx kvvz guhd abqf cweu ezdm oczb
-gryd 2 3
-6 7 8
-rqdu 3 7
-2 3 4 5 6 7 8
-koun 3 6
-3 4 5 6 7 8
-zkkv 0 1
-19
-ygxl 1 1
-19
-ptbn 1 2
-2 3
-urvm 1 4
-16 17 18 19
-wgil 2 5
-10 11 12 13 14
-ixbq 1 3
-16 17 18
-yfcf 1 4
-4 5 6 7
-djdu 2 3
-7 8 9
-eqam 1 2
-13 14
-qrff 1 2
-15 16
-evyx 2 3
-10 11 12
-kvvz 2 3
-3 4 5
-guhd 3 4
-0 1 2 3
-abqf 3 6
-12 13 14 15 17 18
-20 25
-wizn jtob oaxp nxoq ymlo fhey tjfv xmsr xbop pixj gzxk ajqq mbom ocfo nduf gxjr sgjr eaxr djxy vjgb zsvg ajug bkze riby pxia
-wizn 2 3
-13 14 15
-jtob 2 2
-6 7
-oaxp 1 3
-16 17 18
-nxoq 2 4
-1 2 4 5
-ymlo 5 5
-19 20 21 22 23
-fhey 1 4
-6 7 8 9
-tjfv 2 4
-3 4 5 7
-xmsr 6 7
-11 12 13 14 15 16 17
-xbop 3 4
-7 9 10 11
-pixj 0 2
-6 7
-gzxk 2 4
-11 12 13 14
-ajqq 3 4
-19 20 21 22
-mbom 3 5
-13 14 15 16 17
-ocfo 0 2
-5 6
-nduf 1 2
-16 17
-gxjr 4 6
-9 10 11 12 13 14
-sgjr 2 3
-22 23 24
-eaxr 1 3
-13 14 15
-djxy 1 3
-22 23 24
-vjgb 0 3
-17 18 20
-21 24
-vqdd nnij yzev mjot bocz zxeu bfno vsmr wwtn hmpo xoqe fcxe xcgl lqyq iwic dnpi helv oxfo wtoz zbpo dzja mmkf tprx xvon
-vqdd 3 6
-10 11 12 13 14 15
-nnij 1 2
-22 23
-yzev 4 6
-18 19 20 21 22 23
-mjot 4 6
-4 5 6 7 8 9
-bocz 1 5
-19 20 21 22 23
-zxeu 1 2
-19 20
-bfno 0 1
-23
-vsmr 1 3
-12 13 14
-wwtn 5 5
-14 15 16 17 18
-hmpo 1 5
-19 20 21 22 23
-xoqe 1 2
-7 8
-fcxe 6 7
-13 14 15 16 17 18 19
-xcgl 3 4
-6 7 8 9
-lqyq 2 6
-7 8 9 10 11 12
-iwic 0 2
-18 19
-dnpi 2 3
-12 13 14
-helv 2 3
-17 18 19
-oxfo 3 6
-18 19 20 21 22 23
-wtoz 2 6
-2 3 4 5 6 7
-zbpo 6 7
-7 8 9 10 11 12 13
-dzja 4 5
-14 15 16 17 18
-23 24
-kgbd baxk dztn habx bseh yjmz wtld ihcx eidy hceq lvtv nyel hxew hvii zffe zknu vzmh psmy kytb yxyx hywv wrno zkbi ivjh
-kgbd 5 5
-9 10 11 12 13
-baxk 4 5
-13 14 15 16 17
-dztn 2 4
-4 5 6 7
-habx 1 2
-7 8
-bseh 1 6
-17 18 19 20 21 22
-yjmz 3 5
-14 15 16 17 18
-wtld 2 2
-22 23
-ihcx 3 6
-10 11 12 13 14 15
-eidy 3 6
-2 3 4 5 6 7
-hceq 1 2
-1 2
-lvtv 1 3
-5 6 7
-nyel 3 4
-15 16 17 18
-hxew 0 1
-13
-hvii 1 3
-19 20 21
-zffe 1 5
-9 10 11 12 13
-zknu 1 3
-21 22 23
-vzmh 3 6
-17 18 19 20 21 22
-psmy 2 2
-22 23
-kytb 3 4
-19 20 21 22
-yxyx 4 6
-13 14 15 16 17 18
-hywv 4 5
-6 7 8 9 10
-wrno 1 2
-8 9
-zkbi 0 1
-23
-20 22
-ruos eamt xzrn aipa twhv xjtk javd uhos mlip ivwc mhzf kjmz rmme yehi nixy lxij ksgd yhjv znqr nqal zagp jcph
-ruos 4 5
-1 2 3 4 5
-eamt 5 6
-0 2 3 4 5 6
-xzrn 4 5
-4 5 6 7 8
-aipa 7 7
-15 16 17 18 19 20 21
-twhv 1 2
-7 8
-xjtk 2 2
-20 21
-javd 3 7
-11 12 13 14 15 16 17
-uhos 3 4
-3 4 5 6
-mlip 1 2
-20 21
-ivwc 1 2
-12 13
-mhzf 1 4
-5 6 7 8
-kjmz 0 1
-21
-rmme 0 1
-21
-yehi 2 2
-20 21
-nixy 1 3
-6 7 8
-lxij 4 6
-6 7 8 9 10 11
-ksgd 1 2
-20 21
-yhjv 3 6
-7 8 9 10 11 12
-znqr 0 1
-21
-nqal 3 4
-10 11 12 13
-21 22
-ertt navc xutm utan xlre irbz ilgs fout wqdt dmxt pqnw xdgd pzgb ulnk yjly jmyv uyux oduj kunb rcbd xffj hjps
-ertt 1 2
-15 16
-navc 3 5
-15 16 17 18 19
-xutm 3 4
-11 12 13 14
-utan 1 2
-7 8
-xlre 3 5
-5 6 7 8 9
-irbz 2 4
-15 16 17 18
-ilgs 1 2
-0 1
-fout 0 1
-21
-wqdt 4 6
-16 17 18 19 20 21
-dmxt 1 4
-12 13 14 15
-pqnw 0 3
-19 20 21
-xdgd 3 6
-12 13 14 15 16 17
-pzgb 3 5
-7 8 9 10 11
-ulnk 1 2
-20 21
-yjly 3 5
-13 15 16 17 18
-jmyv 2 2
-20 21
-uyux 6 6
-4 5 6 7 8 9
-oduj 3 4
-13 14 15 16
-kunb 6 6
-5 6 7 8 9 10
-rcbd 4 5
-3 4 5 6 7
-xffj 1 4
-5 6 7 8
-22 25
-nhdg srho nqwo lxgo pdbh nwui tjqw iggr ndhy cxdu xjpf aiqd wpty kiqy gbdd eafd rtra anme wtpw jsxe xlze yxen umqx vqlq ctoa
-nhdg 3 4
-6 7 8 9
-srho 3 4
-5 6 7 8
-nqwo 1 2
-5 6
-lxgo 2 6
-4 5 6 7 8 9
-pdbh 1 2
-23 24
-nwui 2 5
-8 9 10 11 12
-tjqw 0 3
-1 2 3
-iggr 2 3
-4 5 6
-ndhy 4 6
-2 3 4 5 6 7
-cxdu 5 5
-1 2 3 4 5
-xjpf 3 4
-20 21 22 23
-aiqd 1 2
-23 24
-wpty 6 6
-19 20 21 22 23 24
-kiqy 6 7
-4 5 6 7 8 9 10
-gbdd 3 5
-13 15 16 17 18
-eafd 2 5
-3 4 5 6 7
-rtra 5 6
-2 3 4 5 6 7
-anme 4 4
-0 1 2 3
-wtpw 0 2
-23 24
-jsxe 2 3
-21 22 23
-xlze 4 5
-11 12 13 14 15
-yxen 4 4
-15 16 17 18
-21 25
-zwhe colj gvsf iuvy vbkl hwmw rgzc sgck tdtj omef yecy zzje sxyx tfzg mujv sfrj qzxr bcvs vdiu nbxu xmjb bcrf caod ttcz lssl
-zwhe 1 2
-7 8
-colj 2 4
-19 20 21 22
-gvsf 5 5
-13 14 15 16 17
-iuvy 3 4
-7 8 9 10
-vbkl 0 2
-12 13
-hwmw 2 5
-19 20 21 22 23
-rgzc 2 2
-14 15
-sgck 3 7
-16 17 18 19 20 21 22
-tdtj 1 3
-16 17 18
-omef 1 3
-22 23 24
-yecy 3 4
-14 15 16 17
-zzje 4 4
-15 16 17 18
-sxyx 4 5
-20 21 22 23 24
-tfzg 1 2
-23 24
-mujv 3 7
-1 2 3 4 5 6 7
-sfrj 2 4
-10 11 12 13
-qzxr 1 3
-2 3 4
-bcvs 4 6
-2 3 4 5 6 7
-vdiu 2 4
-0 1 2 3
-nbxu 1 3
-18 20 21
-xmjb 7 7
-6 7 8 9 10 11 12
-17 22
-ybap axyx itvi dvdx dpkb pdts jjxh esvd pbhf eubs smnf hudh gyod enez mmxh bjgl rbrr rtqt pkkp qpil chrk axcp
-ybap 1 2
-7 8
-axyx 2 3
-2 3 4
-itvi 1 2
-18 19
-dvdx 0 2
-4 5
-dpkb 2 3
-6 7 8
-pdts 5 6
-2 3 4 6 7 8
-jjxh 1 4
-12 13 14 15
-esvd 1 2
-2 3
-pbhf 4 4
-0 1 2 3
-eubs 0 1
-21
-smnf 0 2
-7 8
-hudh 2 6
-14 15 16 17 18 19
-gyod 1 1
-21
-enez 1 4
-5 6 7 8
-mmxh 3 5
-15 16 17 18 19
-bjgl 0 1
-14
-rbrr 1 5
-8 9 10 11 12
-17 20
-ievl orbf magr ileb sobh yjuo jjdz vtsv ztxf raqm dcrv nzre cjrp esob dcwl mxnv lsds ewzv mdbx bqdj
-ievl 1 1
-19
-orbf 1 2
-5 6
-magr 4 5
-9 10 11 12 13
-ileb 5 6
-7 8 9 10 11 12
-sobh 1 2
-0 1
-yjuo 2 7
-11 12 13 14 15 16 17
-jjdz 3 7
-11 12 13 14 15 16 17
-vtsv 6 7
-10 11 12 13 14 15 16
-ztxf 1 4
-12 13 14 15
-raqm 3 4
-13 14 15 16
-dcrv 0 1
-19
-nzre 2 4
-1 2 3 4
-cjrp 4 7
-4 5 6 7 8 9 10
-esob 3 5
-15 16 17 18 19
-dcwl 2 3
-11 12 13
-mxnv 0 1
-14
-lsds 0 1
-19
-18 23
-vstk vzvn nfqz gxkx uexv hzxw odzt ngzy nxwz etjq agwk heuf xbwg cedb wszn vgpf tndh yjdr jxre ywqn huqu vgjs qegh
-vstk 1 2
-12 13
-vzvn 0 1
-22
-nfqz 5 7
-10 11 12 13 14 15 16
-gxkx 3 3
-11 12 13
-uexv 3 3
-0 1 2
-hzxw 1 3
-20 21 22
-odzt 4 4
-18 19 20 21
-ngzy 1 2
-12 13
-nxwz 3 3
-18 19 20
-etjq 0 1
+18 15 14 19 16 17
+nfut 2 5
+80 79 78 81 82
+kyjq 0 1
 8
-agwk 2 3
-7 8 9
-heuf 0 1
+hkze 0 1
+9
+wsvc 2 4
+190 189 191 192
+akon 1 3
+58 57 56
+bxfl 2 4
+151 153 152 150
+xxvn 2 4
+139 137 138 136
+fceo 2 6
+28 25 26 29 27 30
+apuj 2 8
+224 227 223 222 228 226 225 229
+grcd 1 5
+39 40 38 36 37
+enrp 4 7
+43 45 46 47 42 44 48
+jnod 0 1
+18
+pnrf 0 1
+140
+thnz 1 1
+20
+mymd 3 7
+214 213 208 210 209 211 212
+nugl 0 1
 22
-xbwg 1 2
-21 22
-cedb 2 5
-18 19 20 21 22
-wszn 0 2
-19 20
-vgpf 2 4
-3 4 5 6
-tndh 5 5
-13 14 15 17 18
-yjdr 2 4
-11 12 13 14
-17 21
-bxqv otlw sckr lymp qqnj dazy krhb vdlo fyez hwhk xfem cihw zuke jpqx vgpm juik dqbc wsze bfjy rtuk scun
-bxqv 1 3
+ipbg 4 8
+194 200 195 201 198 199 196 197
+zjre 0 1
+125
+gplr 2 7
+64 65 60 66 62 61 63
+wjxt 1 3
+41 42 43
+fzej 1 2
+249 248
+ccjz 3 5
+164 163 160 162 161
+tfxn 1 2
+200 201
+hgps 5 8
+58 51 54 52 55 53 57 56
+abni 4 4
+182 181 183 180
+lpba 7 8
+194 200 195 197 201 198 199 196
+simc 2 5
+228 231 232 230 229
+bqkk 1 2
+37 36
+lnqk 1 2
+20 21
+bpty 0 1
+147
+ruty 2 6
+26 31 27 29 28 30
+hubr 1 2
+47 48
+fujd 1 3
+51 52 50
+iqnj 0 1
+40
+dhja 0 2
+203 202
+wubb 4 6
+72 73 77 75 74 76
+lsox 1 4
+43 40 41 42
+dycj 4 5
+90 93 92 94 91
+blre 0 1
+45
+veqz 1 2
+73 74
+gldq 7 8
+100 102 105 99 98 101 103 104
+woae 0 1
+48
+jrjm 2 4
+151 152 150 153
+knec 4 5
+101 99 100 102 103
+tdwx 3 5
+90 86 87 89 88
+iuca 7 8
+230 226 227 229 223 224 225 228
+pyae 4 6
+42 46 43 45 44 47
+amry 3 4
+222 223 221 220
+hofx 2 4
+206 205 207 204
+qzdz 0 1
+56
+tlrh 0 1
+57
+bcox 3 3
+193 192 194
+kqok 1 3
+141 142 140
+eagz 4 5
+34 31 33 30 32
+yatd 2 6
+105 107 104 109 108 106
+team 3 5
+70 69 71 72 73
+tkrg 4 7
+128 132 130 131 129 133 134
+drtt 2 2
+56 55
+jvei 3 8
+34 37 39 32 33 36 38 35
+kzsr 3 7
+145 146 142 143 148 144 147
+yflx 3 6
+205 202 206 204 203 207
+qpch 1 1
+180
+ujku 2 7
+225 226 220 221 224 222 223
+mber 1 2
+215 214
+nwoc 3 3
+33 32 34
+cnot 0 1
+72
+ncsr 2 3
+14 15 16
+wjnb 0 1
+74
+pdhq 7 8
+115 113 110 111 112 116 117 114
+eidp 0 2
+26 27
+edrr 1 2
+242 243
+chry 4 7
+9 7 8 10 11 6 5
+msve 0 1
+140
+ehri 1 2
+107 108
+plnh 4 4
+165 164 166 167
+zqyf 2 3
+244 243 245
+gknx 1 2
+221 220
+jmii 4 5
+141 143 140 142 144
+vlgc 7 7
+23 28 24 22 25 26 27
+zamx 6 8
+91 94 95 97 96 92 98 93
+dwpj 1 2
+81 80
+drfn 0 1
+56
+nqni 7 8
+2 5 0 6 3 7 4 1
+tsfj 4 7
+81 83 78 80 79 82 77
+nznv 0 1
+170
+vafn 1 3
+163 164 165
+twqa 1 1
+46
+depv 2 2
+200 201
+hobl 3 7
+141 144 143 142 138 139 140
+rhxq 2 7
+9 8 7 4 6 5 3
+axxl 0 1
+97
+hkph 3 8
+34 28 30 35 29 31 32 33
+wvjh 0 1
+99
+ufoi 0 1
+100
+nhkz 0 1
+101
+powy 5 8
+112 108 111 109 113 115 110 114
+etkg 1 3
+176 177 178
+krbs 3 8
+187 183 184 186 181 185 182 180
+fkbg 8 8
+21 23 18 24 20 25 19 22
+vlxw 4 6
+58 59 55 57 56 60
+asdw 1 5
+31 28 29 32 30
+bgws 3 7
+192 191 190 189 194 188 193
+fzio 2 5
+64 62 60 61 63
+hbya 3 5
+247 243 245 244 246
+qklb 2 4
+159 160 161 158
+dxxq 0 1
+210
+tssd 0 2
+8 9
+zbmt 3 5
+81 82 84 83 80
+exxr 7 7
+234 235 238 233 232 237 236
+vjud 0 1
+243
+waqx 0 1
+128
+ybyj 1 4
+228 226 229 227
+cfpr 1 3
+210 211 212
+otfk 5 6
+135 136 134 138 139 137
+dnzm 6 6
+114 110 115 111 113 112
+pxxl 1 3
+24 23 25
+aoyh 1 2
+229 228
+rotv 3 3
+126 128 127
+gqui 7 8
+241 240 247 242 244 245 246 243
+ixof 1 2
+58 57
+yfts 4 6
+156 157 153 152 154 155
+oeao 2 7
+239 245 241 240 243 244 242
+igjm 2 4
+0 2 3 1
+vmfw 2 7
+185 187 189 183 188 186 184
+dwzp 4 6
+124 122 121 125 123 120
+cyfy 1 4
+115 117 114 116
+mxtb 0 1
+133
+qgfz 0 1
+0
+vxgn 3 6
+150 147 149 148 151 146
+zzjr 3 5
+242 239 241 240 243
+afje 4 8
+45 46 47 51 48 50 49 44
+cirf 8 8
+57 55 53 51 58 52 54 56
+xknu 0 1
+0
+amdt 1 3
+135 134 133
+nawf 2 4
+201 203 202 200
+budr 0 1
+42
+faln 1 3
+86 85 84
+mraw 8 8
+171 172 176 170 173 175 177 174
+invb 3 8
+167 173 166 168 172 169 170 171
+difb 3 7
+171 174 168 170 169 173 172
+wcgd 2 4
+14 12 15 13
+rief 5 5
+177 176 179 178 180
+udew 3 6
+53 50 54 52 51 55
+ktpt 7 8
+157 159 158 156 162 163 161 160
+vxwu 3 5
+72 76 75 73 74
+wtxk 0 1
+152
+iump 2 5
+172 175 176 174 173
+gprz 6 7
+18 16 20 19 21 17 15
+hjcl 4 6
+66 68 71 70 67 69
+lwxp 1 1
+156
+zsow 3 8
+149 153 152 151 150 148 155 154
+ceap 6 6
+20 17 18 19 21 22
+jsbp 3 4
+40 43 41 42
+wabz 5 5
+186 184 187 183 185
+nsrj 0 3
+55 54 56
+huqt 7 7
+247 249 246 245 248 243 244
+ydku 2 4
+76 77 79 78
+ktry 0 1
+164
+rbrl 5 6
+97 96 92 94 93 95
+fcof 4 5
+11 9 13 12 10
+cyvo 0 1
+167
+tktf 5 7
+12 11 9 10 7 8 6
+elck 4 5
+230 234 231 232 233
+wipl 0 1
+3
+xkiz 3 5
+31 32 34 30 33
+jmzd 0 1
+172
+hdxz 3 4
+154 155 157 156
+hoch 5 6
+3 1 4 5 0 2
+uccs 1 3
+48 46 47
+eusq 3 8
+121 120 115 114 118 116 117 119
+znej 3 3
+43 42 44
+ydda 1 2
+73 74
+cxmz 3 5
+70 72 71 74 73
+vnuh 4 6
+156 159 157 154 155 158
+poeo 2 7
+208 210 213 212 211 209 214
+apkj 2 4
+155 156 157 154
+kvnn 0 1
+224
+qdhl 6 6
+96 98 100 99 95 97
+dzps 1 3
+70 68 69
+bcyc 3 6
+13 15 12 10 11 14
+awfw 1 3
+189 186 187
+gong 0 1
+188
+tmct 4 4
+163 162 160 161
+rywi 6 7
+171 169 168 173 174 172 170
+aaxp 3 4
+114 115 116 117
+xegz 8 8
+176 173 171 174 178 177 172 175
+qvka 0 1
+10
+izzd 1 3
+172 171 170
+acti 4 4
+69 68 67 66
+aoiy 1 3
+144 145 146
+xowd 0 1
+197
+wzcp 5 7
+127 124 129 128 126 125 130
+sdfi 3 5
+53 50 51 54 52
+ybee 2 7
+170 172 171 173 168 167 169
+umjs 5 8
+35 33 28 31 32 34 30 29
+gpzc 0 1
+202
+gsmp 8 8
+119 122 120 118 123 116 117 121
+kmvi 8 8
+117 115 116 111 112 114 110 113
+oqxz 1 2
+121 120
+lygv 2 4
+239 240 241 242
+lntq 7 7
+71 72 69 70 74 68 73
+vykb 1 1
+208
+ffhc 1 3
+213 212 211
+ucwj 4 6
+88 84 87 86 89 85
+stby 1 4
+105 106 104 107
+oxow 0 1
+14
+eeap 0 1
+182
+glys 1 4
+35 38 36 37
+xiwp 5 7
+176 171 172 174 175 173 170
+tjge 0 1
+227
+grse 0 1
+217
+mbbz 0 1
+218
+xgpd 0 1
+219
+jcql 4 6
+56 54 58 53 57 55
+gryd 1 2
+240 241
+rqdu 0 1
+222
+koun 3 3
+104 103 102
+225 250
+jnbg lzvo iwsp eeag fhuq rnac mgts onps tijc rpxv tkyn revq nabg ionj nwrg pkyy edrf ufkb wenc xjca aked oipl kyps elwr idmd prtk jzsu ekpc iuzq odnq rqvu vsuf gjax xzsn josk ises mliy qjfb iszl qjgk mmwn exbb lcdn iswh pjwm cztz owzv iedd ewqj ivgu czpf veyf kjqi cxso bgcr fazm gqww yscn nflb ybbh qgzj ethp idlt pgvm faix elar ndys zykk nuqn zery inzz ahkv faed zrxv vejp brmq ejtu whaa syfh tgsd qnwj iqgr whsa lkhm dnwt nnfm clyh qdwf mhqe tueo ubps awgn mqwy igvz qbox buwy ndre csbi omjt bpcc zvlz dred cvzp goud vpey unzk eqme hsra urfj dbqw jlhq mjfx jsss vqel agoz yxsj avwm lgeu wmox slmx kknl sltt nmwe hmtr xrff tynn fnoj ldba xvns jvlx tutw zqow arni crqp qqlt tzyn kdva zvpw tvzj acfk dcbm okwy wskj pfwq ddcq mhpt evqq njhj dyaw fwpn zfct ezpm iiyi uwwb iewk qdpd cksq ygqi jfjn nciy kshu nrwb gxlt fmsg yezs zkhm tjrt yjuu xrqu odon ibpl ikwv cziy jnwc zfvj qqji gylk mxrq altv jkez hjtf fsup sojn avnw jhup ozji salm hcze pyop hgnm ksaj xnfu ncjf nzov ezmp qnum uiof eual gdzj voik ghrp pbrz kyge cazo tmva iozw psoe blfs ktkv kxwi vmim ulvf auig cfol omka wylz kztl ndns mzib xqkp ahbb xekc kgya mzzv xasi hfgr wvpe rcpd cbvh ktyl ycsn lujc bmkm jgel lwpi brfd bhlw qgsq vjgy ryce jubr jndy kqbo jbrc ldjw ycfr cwax xnlw mule mvor
+jnbg 3 3
+3 1 2
+lzvo 2 6
+179 183 180 181 182 184
+iwsp 5 5
+239 241 240 242 238
+eeag 1 4
+174 175 177 176
+fhuq 2 5
+248 247 246 244 245
+rnac 1 2
+120 121
+mgts 6 7
+148 144 147 145 146 150 149
+onps 2 4
+114 115 116 117
+tijc 4 5
+21 20 22 19 18
+rpxv 1 4
+12 8 11 10
+tkyn 0 1
+9
+revq 2 3
+211 210 212
+nabg 4 4
+113 111 110 112
+ionj 0 1
+12
+nwrg 7 7
+216 218 217 220 214 219 215
+pkyy 0 1
+20
+edrf 6 7
+244 243 240 246 242 245 241
+ufkb 1 2
+40 41
+wenc 1 3
+98 99 100
+xjca 1 5
+156 157 154 158 155
+aked 0 2
+40 41
+oipl 1 1
+20
+kyps 7 8
+166 168 162 164 165 163 169 167
+elwr 3 4
+40 42 39 41
+idmd 2 5
+50 49 48 52 51
+prtk 7 7
+227 226 230 225 229 231 228
+jzsu 0 1
+25
+ekpc 0 1
+26
+iuzq 7 7
+36 33 38 37 32 34 35
+odnq 0 1
+103
+rqvu 6 8
+156 150 153 154 155 151 157 152
+vsuf 0 1
+30
+gjax 1 3
+209 210 208
+xzsn 1 2
+174 173
+josk 0 2
+95 94
+ises 0 1
+100
+mliy 0 1
+226
+qjfb 3 8
+246 242 241 243 240 247 244 245
+iszl 2 3
+102 103 104
+qjgk 5 6
+20 21 17 22 19 18
+mmwn 2 6
+154 151 152 150 155 153
+exbb 2 6
+146 144 141 143 145 142
+lcdn 0 1
+41
+iswh 3 3
+83 82 84
+pjwm 4 5
+164 163 165 162 166
+cztz 2 4
+117 115 118 116
+owzv 7 7
+79 76 78 77 82 81 80
+iedd 0 1
+126
+ewqj 0 1
+108
+ivgu 2 4
+176 175 177 174
+czpf 0 1
+49
+veyf 4 8
+10 9 12 8 6 7 5 11
+kjqi 1 5
+36 39 40 38 37
+cxso 0 1
+121
+bgcr 0 1
+120
+fazm 0 1
+54
+gqww 0 1
+55
+yscn 1 4
+248 246 247 245
+nflb 1 3
+30 29 28
+ybbh 1 1
+189
+qgzj 0 1
+80
+ethp 2 4
+87 86 85 84
+idlt 0 1
+61
+pgvm 3 6
+141 144 142 146 143 145
+faix 2 4
+28 29 27 26
+elar 1 2
+71 70
+ndys 2 3
+234 233 232
+zykk 6 8
+8 12 5 11 7 6 10 9
+nuqn 2 4
+197 196 198 199
+zery 1 1
+68
+inzz 0 1
+69
+ahkv 0 1
+194
+faed 2 6
+18 16 17 19 21 20
+zrxv 7 7
+2 7 4 8 6 5 3
+vejp 4 8
+172 168 171 167 169 166 170 173
+brmq 0 1
+74
+ejtu 0 1
+75
+whaa 0 1
+76
+syfh 0 2
+91 90
+tgsd 0 1
+78
+qnwj 5 6
+200 201 205 202 203 204
+iqgr 6 8
+132 129 133 130 134 127 131 128
+whsa 0 3
+98 97 96
+lkhm 1 1
+249
+dnwt 7 7
+143 146 141 140 142 144 145
+nnfm 3 7
+21 25 20 23 22 24 26
+clyh 1 1
+82
+qdwf 5 6
+195 196 194 198 199 197
+mhqe 0 1
+158
+tueo 4 4
+140 142 143 141
+ubps 0 1
+89
+awgn 2 4
+174 173 176 175
+mqwy 3 5
+82 85 86 84 83
+igvz 2 4
+221 222 219 220
+qbox 2 3
+186 184 185
+buwy 2 7
+117 120 119 121 115 116 118
+ndre 1 2
+40 41
+csbi 1 2
+111 112
+omjt 3 8
+41 44 42 39 45 40 43 38
+bpcc 0 1
+155
+zvlz 2 6
+205 200 202 201 204 203
+dred 6 7
+95 96 97 94 99 98 100
+cvzp 2 6
+103 108 106 105 107 104
+goud 2 6
+145 147 150 146 149 148
+vpey 3 8
+120 121 119 122 118 117 123 116
+unzk 5 7
+31 30 26 28 25 29 27
+eqme 5 6
+125 127 126 129 128 124
+hsra 5 8
+42 38 45 41 43 44 40 39
+urfj 0 1
+232
+dbqw 3 5
+120 122 123 119 121
+jlhq 1 1
+180
+mjfx 2 8
+93 90 87 92 88 91 89 86
+jsss 0 1
+111
+vqel 3 3
+120 118 119
+agoz 3 8
+182 183 188 186 185 189 184 187
+yxsj 7 8
+24 26 22 23 21 20 25 27
+avwm 0 1
+115
+lgeu 3 3
+142 143 144
+wmox 6 8
+183 184 180 186 185 182 187 181
+slmx 2 4
+134 133 135 132
+kknl 3 4
+124 123 121 122
+sltt 0 2
+198 199
+nmwe 2 2
+164 165
+hmtr 3 6
+168 171 169 170 172 167
+xrff 5 7
+64 67 66 68 62 65 63
+tynn 2 6
+2 3 5 0 1 4
+fnoj 1 2
+120 121
+ldba 2 4
+123 121 124 122
+xvns 0 1
+127
+jvlx 0 1
+34
+tutw 3 3
+182 180 181
+zqow 1 3
+154 155 153
+arni 4 6
+20 23 24 21 22 25
+crqp 1 3
+119 118 120
+qqlt 1 2
+221 220
+tzyn 2 8
+127 130 126 125 131 129 132 128
+kdva 5 5
+97 98 95 94 96
+zvpw 2 6
+72 70 73 69 71 68
+tvzj 0 1
+144
+acfk 3 6
+73 71 75 74 70 72
+dcbm 3 4
+121 122 120 123
+okwy 2 5
+38 37 39 36 40
+wskj 2 7
+85 82 81 84 80 83 86
+pfwq 5 6
+93 90 91 95 94 92
+ddcq 3 7
+239 234 235 240 237 236 238
+mhpt 0 1
+144
+evqq 4 6
+152 155 153 151 150 154
+njhj 0 1
+33
+dyaw 0 2
+241 240
+fwpn 0 1
+148
+zfct 0 1
+151
+ezpm 1 5
+90 94 93 92 91
+iiyi 0 1
+172
+uwwb 7 8
+150 147 145 151 152 148 146 149
+iewk 6 7
+160 158 161 157 159 156 162
+qdpd 0 1
+210
+cksq 1 2
+249 248
+ygqi 4 6
+6 2 5 7 3 4
+jfjn 3 5
+214 215 212 213 216
+nciy 4 6
+125 127 128 124 126 123
+kshu 0 2
+40 41
+nrwb 1 1
+218
+gxlt 0 1
+161
+fmsg 1 3
+243 242 244
+yezs 8 8
+118 117 120 123 119 122 121 116
+zkhm 6 7
+149 146 145 151 147 148 150
+tjrt 0 1
+165
+yjuu 0 1
+3
+xrqu 0 2
+124 125
+odon 4 6
+21 23 20 24 22 25
+ibpl 0 2
+160 161
+ikwv 2 3
+71 70 72
+cziy 2 3
+178 176 177
+jnwc 0 1
+215
+zfvj 4 7
+236 237 240 239 235 234 238
+qqji 1 1
+176
+gylk 1 2
+62 63
+mxrq 3 4
+197 195 196 194
+altv 6 8
+237 241 235 240 239 234 238 236
+jkez 0 1
+2
+hjtf 1 2
+80 81
+fsup 0 1
+122
+sojn 3 4
+242 241 240 243
+avnw 0 1
+114
+jhup 0 1
+48
+ozji 0 1
+184
+salm 1 2
+235 234
+hcze 4 7
+21 22 19 20 25 23 24
+pyop 4 8
+140 147 141 145 142 146 144 143
+hgnm 5 6
+190 195 192 194 193 191
+ksaj 0 1
+189
+xnfu 3 5
+44 45 43 42 41
+ncjf 5 5
+216 218 214 215 217
+nzov 1 5
+181 178 180 177 179
+ezmp 0 1
+224
+qnum 5 6
+178 179 175 180 176 177
+uiof 0 1
+195
+eual 4 8
+89 82 85 83 86 84 88 87
+gdzj 4 5
+192 194 196 193 195
+voik 2 3
+196 194 195
+ghrp 0 1
+150
+pbrz 3 4
+209 207 210 208
+kyge 2 7
+45 49 47 50 44 48 46
+cazo 0 1
+202
+tmva 0 1
+203
+iozw 0 1
+0
+psoe 3 5
+66 70 69 67 68
+blfs 3 4
+145 143 144 142
+ktkv 0 1
+174
+kxwi 3 3
+157 159 158
+vmim 0 3
+242 241 240
+ulvf 0 1
+210
+auig 1 4
+18 19 21 20
+cfol 0 1
+96
+omka 4 7
+157 154 159 160 156 155 158
+wylz 3 6
+135 130 134 133 132 131
+kztl 4 7
+129 133 132 128 134 130 131
+ndns 0 1
+216
+mzib 0 1
+86
+xqkp 0 1
+136
+ahbb 3 4
+132 131 130 133
+xekc 0 1
+53
+kgya 0 1
+221
+mzzv 1 2
+135 136
+xasi 1 1
+223
+244 250
+mpxu hlbi revf glox kpmm algk uvuo ydsy txew azxv fdue ielh htwj uieo ytgy wxmu lyxb obvc roof rzoa nbsc ugjt ljrc bryb esii lxmy cutv ptoy krcv ngir yajg dcly mxif nktf tcfc dssl uehk wgnp cbjd vjuz east mmrj ocyo zivm qesi pljz ahwi yibf lbeq bzoj arwe yeaz rhfk hwrg euyl yrkw qoro poro ddjw xerc qtil hndn wywy pymg evwx jbed etlk ijoq bctu afri jgpr cfkr mhkr zniz scak ymlo lfaw igrr gnwq rspf zpau ergd pxsz thxt rptp jhft ueod qvtl bzki opsd llnm hphj gizt fmnr cvzx zjue ygxd yeut wscx voco sskr hycd ifog ugae yjoc jtza cjwh mkga plfg opdo tyfj cblu ntsl heot cmbo vjml eeky yeor bxne rbui nxgq ewef xvlm kham fazu ppiu yyet drys uffe mxzm zuhz vqat qerd xkww zmba wsft hmud chgp lpsl wluc bnsd qyti xyfj khsc dlqm eueh ktib gila cebu qadf ewih cudx wufv ryoh ffcb qdor yepo jmbd lulu qjka xvxm qxyp nguw shru sixh wgmj gazb ftup rcci mwlo ziij urms qdhi tqnc tgpf gwaf ebjy yhey rpkb cggr twsq zwbr qokb kero yzwy okrr strm xilz lcqg ptmu kcbn rlfm uvno wtot ylfk eugw zubs bygs qzeq nven tusd imlr ltoi qixz xeqd seuv cevf ubww asvk kkzk xbob vuwp vwhm rolk ngux yvok tpje rjty dtsn mrui guzu xnan viio cprb mfyy hzuf ehze ooav nome offp akdc waox aqns mrom snyw imes mzbf zxnc toor mwlg cmnt pufx bgch kbdh xthj iizq kjky lchk yyer wzev
+mpxu 4 7
+7 6 5 3 4 1 2
+hlbi 0 1
+0
+revf 3 8
+124 123 127 120 122 126 125 121
+glox 8 8
+227 230 229 231 228 225 224 226
+kpmm 0 1
+78
+algk 0 1
+4
+uvuo 1 2
+65 64
+ydsy 2 2
+121 122
+txew 3 7
+0 4 1 6 5 2 3
+azxv 6 6
+10 7 6 4 8 5
+fdue 1 2
+60 61
+ielh 0 1
+10
+htwj 1 4
+108 110 109 111
+uieo 3 8
+215 209 214 213 212 208 210 211
+ytgy 1 2
+213 212
+wxmu 0 1
+50
+lyxb 0 2
+157 156
+obvc 1 2
+194 193
+roof 0 2
+126 127
+rzoa 8 8
+79 77 80 81 74 78 76 75
+nbsc 2 4
+211 213 212 210
+ugjt 1 5
+228 231 230 232 229
+ljrc 0 1
+174
+bryb 0 1
+46
+esii 0 1
+44
+lxmy 5 8
+100 107 106 104 103 101 105 102
+cutv 2 3
+9 8 10
+ptoy 0 1
+26
+krcv 3 4
+67 64 66 65
+ngir 2 6
+157 160 158 161 159 162
+yajg 7 8
+185 182 183 186 181 184 180 187
+dcly 4 8
+88 91 94 90 92 95 93 89
+mxif 3 5
+240 239 241 242 238
+nktf 4 5
+90 91 89 87 88
+tcfc 5 6
+209 208 205 204 207 206
+dssl 4 6
+196 197 195 199 198 200
+uehk 4 6
+76 72 77 73 75 74
+wgnp 0 1
+197
+cbjd 0 1
+37
+vjuz 2 4
+78 77 79 76
+east 3 5
+92 93 91 90 94
+mmrj 6 7
+146 149 147 145 148 150 151
+ocyo 5 6
+174 175 178 177 179 176
+zivm 4 6
+167 166 162 165 163 164
+qesi 4 4
+113 111 112 110
+pljz 4 6
+73 71 74 75 70 72
+ahwi 3 6
+221 225 220 224 222 223
+yibf 3 3
+118 116 117
+lbeq 3 6
+54 50 52 55 53 51
+bzoj 2 2
+184 185
+arwe 0 1
+49
+yeaz 2 2
+191 192
+rhfk 1 2
+70 71
+hwrg 3 6
+127 125 128 126 129 124
+euyl 1 3
+67 68 66
+yrkw 7 8
+61 65 66 62 64 63 60 67
+qoro 4 6
+195 197 193 196 192 194
+poro 1 3
+73 71 72
+ddjw 1 2
+87 86
+xerc 1 2
+242 241
+qtil 7 8
+154 152 153 155 150 151 157 156
+hndn 1 4
+19 20 21 22
+wywy 2 5
+63 65 66 64 67
+pymg 2 6
+27 26 28 25 24 23
+evwx 0 1
+63
+jbed 0 1
+64
+etlk 2 5
+84 80 83 82 81
+ijoq 4 6
+47 52 49 51 48 50
+bctu 0 1
+67
+afri 3 5
+56 52 55 54 53
+jgpr 6 7
+134 131 133 135 132 130 136
+cfkr 4 6
+34 37 35 36 39 38
+mhkr 0 1
+71
+zniz 6 6
+237 233 232 234 236 235
+scak 2 5
+210 212 209 208 211
+ymlo 0 1
+74
+lfaw 2 3
+62 60 61
+igrr 5 7
+166 164 168 163 165 169 167
+gnwq 3 4
+108 110 109 111
+rspf 0 1
+131
+zpau 0 1
+170
+ergd 2 3
+104 102 103
+pxsz 3 3
+123 122 124
+thxt 3 7
+99 102 98 100 97 101 103
+rptp 4 6
+60 64 61 65 62 63
+jhft 3 6
+113 111 115 114 112 110
+ueod 2 7
+43 41 44 39 38 40 42
+qvtl 2 5
+193 190 194 192 191
+bzki 3 4
+104 105 107 106
+opsd 2 4
+213 214 216 215
+llnm 0 2
+10 11
+hphj 0 1
+90
+gizt 6 7
+114 111 112 108 110 109 113
+fmnr 3 6
+161 160 159 163 162 158
+cvzx 1 1
+93
+zjue 7 8
+81 83 84 86 80 85 82 87
+ygxd 4 6
+232 235 233 231 230 234
+yeut 4 5
+92 93 91 95 94
+wscx 0 1
+97
+voco 1 3
+153 152 151
+sskr 3 7
+156 151 152 155 154 153 150
+hycd 0 1
+248
+ifog 3 5
+210 211 212 209 208
+ugae 0 1
+242
+yjoc 0 1
+103
+jtza 1 1
+104
+cjwh 2 2
+158 159
+mkga 3 4
+187 186 184 185
+plfg 0 1
+107
+opdo 5 6
+18 17 15 19 20 16
+tyfj 5 7
+70 76 75 73 72 74 71
+cblu 4 5
+39 40 43 41 42
+ntsl 4 5
+206 209 210 207 208
+heot 0 1
+111
+cmbo 0 1
+104
+vjml 0 2
+105 106
+eeky 1 4
+244 242 245 243
+yeor 2 4
+3 1 2 0
+bxne 3 5
+106 108 107 110 109
+rbui 2 8
+107 113 110 112 109 108 111 106
+nxgq 6 8
+54 55 56 57 51 53 50 52
+ewef 4 6
+107 111 106 109 108 110
+xvlm 7 8
+75 76 79 77 72 74 73 78
+kham 7 7
+179 175 174 176 173 178 177
+fazu 2 3
+59 60 58
+ppiu 1 2
+126 127
+yyet 1 4
+202 205 203 204
+drys 1 1
+126
+uffe 0 1
+127
+mxzm 0 1
+128
+zuhz 1 2
+21 20
+vqat 2 3
+175 176 174
+qerd 2 3
+194 196 195
+xkww 0 1
+248
+zmba 3 4
+230 233 232 231
+wsft 2 8
+126 122 123 124 127 121 120 125
+hmud 5 8
+240 246 241 242 243 247 244 245
+chgp 0 1
+136
+lpsl 0 1
+137
+wluc 3 4
+114 116 117 115
+bnsd 2 4
+152 151 153 150
+qyti 5 6
+187 190 185 189 188 186
+xyfj 6 8
+166 165 167 168 162 163 169 164
+khsc 6 8
+43 41 42 38 39 36 40 37
+dlqm 5 8
+29 27 24 25 28 22 26 23
+eueh 0 1
+144
+ktib 5 6
+160 159 161 158 163 162
+gila 0 1
+146
+cebu 1 2
+47 46
+qadf 6 6
+234 237 235 236 233 238
+ewih 3 6
+53 52 54 51 55 50
+cudx 1 3
+127 125 126
+wufv 1 4
+34 36 37 35
+ryoh 3 4
+37 39 38 40
+ffcb 2 5
+238 236 237 240 239
+qdor 0 1
+154
+yepo 2 3
+95 96 94
+jmbd 4 6
+174 173 176 171 175 172
+lulu 2 2
+177 176
+qjka 5 6
+200 198 197 196 199 201
+xvxm 0 1
+240
+qxyp 5 7
+166 164 165 163 162 167 168
+nguw 4 5
+197 200 199 196 198
+shru 1 3
 11 12 13
-otlw 4 5
-16 17 18 19 20
-sckr 0 3
-13 14 15
-lymp 3 6
-0 1 2 4 5 6
-qqnj 1 3
-9 10 11
-dazy 1 2
-16 17
-krhb 3 7
-8 9 10 11 12 13 14
-vdlo 4 5
-6 8 9 10 11
-fyez 4 5
-5 6 7 9 10
-hwhk 1 5
-0 1 2 3 4
-xfem 2 6
-2 3 4 5 6 7
-cihw 3 4
-17 18 19 20
-zuke 1 3
-9 10 11
-jpqx 3 6
-4 5 6 7 8 9
-vgpm 1 3
+sixh 1 5
+91 92 90 93 94
+wgmj 6 8
+245 241 246 247 240 243 244 242
+gazb 3 8
+49 51 50 48 46 53 47 52
+ftup 1 3
+30 28 29
+rcci 0 1
+167
+mwlo 0 1
+11
+ziij 3 4
+133 130 132 131
+urms 5 6
+159 162 163 160 161 158
+qdhi 4 6
+116 121 120 117 119 118
+tqnc 3 4
+123 120 122 121
+tgpf 1 3
+37 38 36
+gwaf 4 6
+28 30 26 27 25 29
+ebjy 1 2
+3 2
+yhey 4 6
+1 4 2 3 0 5
+rpkb 1 3
+67 68 66
+cggr 1 1
+178
+twsq 1 2
+231 230
+zwbr 7 8
+240 238 242 237 239 236 241 243
+qokb 2 4
+245 246 244 247
+kero 5 8
+86 87 83 81 84 85 88 82
+yzwy 3 7
+197 195 193 192 198 194 196
+okrr 1 1
+220
+strm 1 2
+198 199
+xilz 0 2
+248 249
+lcqg 0 1
+132
+ptmu 7 8
+169 171 175 172 168 173 174 170
+kcbn 4 4
+230 232 233 231
+rlfm 3 7
+125 129 130 128 124 127 126
+uvno 0 1
+54
+wtot 0 1
+192
+ylfk 2 4
+32 34 35 33
+eugw 5 7
+77 80 79 81 78 76 75
+zubs 1 4
+54 55 56 57
+bygs 0 1
+28
+qzeq 3 3
+190 192 191
+nven 0 1
+198
+tusd 1 2
+101 100
+imlr 2 6
+187 184 185 183 186 182
+ltoi 0 1
+2
+qixz 4 4
+127 129 128 130
+xeqd 3 5
+26 27 30 29 28
+seuv 1 2
+225 226
+cevf 2 3
+144 143 142
+ubww 1 3
+160 161 159
+asvk 1 2
+123 122
+kkzk 3 4
+200 198 201 199
+xbob 0 1
+211
+vuwp 7 8
+159 164 163 162 157 160 161 158
+vwhm 4 4
+54 56 57 55
+rolk 0 1
+31
+ngux 2 5
+40 42 41 39 38
+yvok 0 1
+214
+tpje 2 6
+161 164 160 163 165 162
+rjty 3 5
+42 38 41 39 40
+dtsn 2 2
+181 180
+mrui 0 1
+218
+guzu 2 4
+233 230 232 231
+xnan 2 5
+16 15 14 13 17
+viio 2 6
+136 137 132 133 135 134
+cprb 0 1
+222
+mfyy 0 1
+100
+hzuf 1 2
+1 0
+ehze 1 4
+17 18 16 19
+ooav 4 4
+240 241 242 243
+nome 3 5
+6 7 10 8 9
+offp 3 8
+25 22 27 23 21 24 26 28
+akdc 4 8
+183 181 182 184 186 180 187 185
+waox 3 8
+239 236 240 241 243 237 238 242
+aqns 2 4
+115 116 117 114
+mrom 0 1
+118
+snyw 6 6
+28 27 29 25 24 26
+imes 0 3
+40 42 41
+mzbf 1 4
+88 90 91 89
+zxnc 1 4
+76 74 75 73
+toor 2 7
+199 200 196 195 194 197 198
+mwlg 2 5
+202 200 199 198 201
+cmnt 0 1
+239
+pufx 3 5
+189 190 188 187 186
+bgch 3 5
+174 176 172 173 175
+kbdh 1 4
+245 244 246 247
+207 250
+pcoz umcx ksmp zhqh gdjy udyy ytvb fmdj ophw whic tzpf pbyj tcft tvkv rham nlzf vqyb wfka lspf wpoy uvfj lkkk vgly amsj hdqk dvog tjng qvyz gajc etyy wmrx fnka whke cntq ybpe uuzn nbpz veyt aclx mrvu daud obir frgw ytnq erpc fazg xsrl iyxe glee udnt micy rwfw xgsl hglk pqax xofp whmc axgu rfmk rscj kyru xsbl deil uepg qfrg rihv ytus arss dzgk xywv zjvt dmit kgmg ctws oncj dogq xexd swcx tzex zbla dnnm nkwo wgcc ksfb hrqa wcgb rajv kgzs aqdt fqya dbtm fwfd jjyc ydwo qenp eaxe ubyg abvg wddp dbek grxf csxs yqwa vrti dxgk iaal bdju yrje mmph uxlu srak qmcv vtdt xgph vjsd adsr vtez evha wmyk hffr srod apza okte wzne adoh ydpm bvjb slgg zdcj mtqz pkzw uspj taon blii naad fpqd xtsd xaup ictf nrbt lqgx oebb kdod znqn ahje iykl eesk ffnq phbx dzeg vbbw ofjg hnef sret hswe lzmz wtbk fcrw riws ufau zzox pauf mrwv nmmb twmk usha qhpa rawb wpgm wkgr nmmm pqyx djdo ksjh fwjl ckmr ubph lqoz ertz accz xbnw jwlg upfp anzt alrw dhrc bxps izoe fyis yxyv oliy htbu uijf djgu qcao elcd iifm azex lguj evjc doio myvz pruj qaoi gbuf vsyf vyov opki iegp uhyy fhzo fvsk wkiw rbct xrbh pxpo uouc osik raee rqie wsfd kzoy ammi yhof hasx qewp uthm cxaz emxg koha fadv iepp srbu tmgg vmip mdtc lkcr wvxf tzgb ifon yeyg vbch zclr wbbs kmrk agcz fglh dibm rhdy gjme
+pcoz 0 1
+249
+umcx 0 1
+0
+ksmp 0 1
+1
+zhqh 0 1
+41
+gdjy 5 7
+166 164 163 162 168 167 165
+udyy 2 8
+59 62 61 57 56 58 55 60
+ytvb 2 6
+60 61 63 62 59 58
+fmdj 2 6
+234 237 235 238 233 236
+ophw 4 4
+103 102 100 101
+whic 4 8
+13 19 16 20 15 18 17 14
+tzpf 2 5
+192 193 194 190 191
+pbyj 1 4
+16 15 17 14
+tcft 4 6
+165 167 166 163 162 164
+tvkv 2 6
+35 37 38 40 36 39
+rham 0 1
+16
+nlzf 1 2
+175 176
+vqyb 2 3
+80 81 82
+wfka 1 2
+243 244
+lspf 3 5
+218 220 217 216 219
+wpoy 4 6
+87 88 86 90 91 89
+uvfj 1 2
+101 100
+lkkk 3 3
+209 208 210
+vgly 0 1
+21
+amsj 3 4
+221 222 223 220
+hdqk 3 4
+180 179 178 181
+dvog 4 8
+103 107 100 102 106 105 101 104
+tjng 1 3
+173 174 172
+qvyz 3 6
+226 227 231 230 228 229
+gajc 0 1
+27
+etyy 1 5
+247 245 246 249 248
+wmrx 1 1
+29
+fnka 0 2
+172 171
+whke 1 2
+120 121
+cntq 4 8
+70 68 67 69 71 64 65 66
+ybpe 1 2
+196 197
+uuzn 2 5
+82 81 83 80 84
+nbpz 2 6
+238 234 236 237 235 239
+veyt 3 6
+201 197 202 198 200 199
+aclx 2 4
+131 133 132 130
+mrvu 2 3
+195 196 194
+daud 3 5
+231 232 230 233 234
+obir 2 5
+210 209 207 211 208
+frgw 0 1
+46
+ytnq 0 1
+42
+erpc 1 2
+26 27
+fazg 8 8
+183 182 186 180 181 184 187 185
+xsrl 0 1
+228
+iyxe 1 2
+1 2
+glee 0 1
+47
+udnt 3 6
+126 125 130 129 127 128
+micy 0 1
+200
+rwfw 7 7
+3 2 4 5 7 1 6
+xgsl 2 2
+144 145
+hglk 2 3
+15 13 14
+pqax 7 8
+215 212 214 213 208 209 211 210
+xofp 0 2
+220 221
+whmc 2 4
+204 207 206 205
+axgu 0 1
+110
+rfmk 4 5
+30 29 28 27 26
+rscj 2 6
+122 120 119 121 123 118
+kyru 3 5
+190 191 192 194 193
+xsbl 3 6
+71 73 74 72 75 70
+deil 2 6
+117 116 113 114 112 115
+uepg 5 8
+147 149 148 146 143 150 145 144
+qfrg 0 1
+238
+rihv 1 3
+72 70 71
+ytus 1 4
+44 42 43 45
+arss 5 6
+141 144 140 142 143 145
+dzgk 3 5
+169 171 172 168 170
+xywv 3 8
+127 124 121 123 126 125 120 122
+zjvt 2 4
+50 53 52 51
+dmit 1 3
+60 59 58
+kgmg 4 7
+214 211 216 210 215 213 212
+ctws 1 1
+72
+oncj 0 1
+73
+dogq 0 1
+0
+xexd 1 2
+247 246
+swcx 0 3
+30 31 29
+tzex 7 7
+67 65 69 64 68 66 70
+zbla 3 6
+244 245 242 241 246 243
+dnnm 2 4
+90 93 92 91
+nkwo 6 7
+138 144 143 142 141 139 140
+wgcc 3 6
+4 6 9 7 5 8
+ksfb 1 3
+174 172 173
+hrqa 2 2
+156 157
+wcgb 0 1
+84
+rajv 2 6
+247 245 249 244 248 246
+kgzs 4 5
+31 30 29 28 32
+aqdt 0 1
+87
+fqya 0 2
+242 241
+dbtm 0 1
+120
+fwfd 4 6
+77 80 76 79 81 78
+jjyc 2 8
+163 166 168 164 162 165 169 167
+ydwo 4 5
+9 8 5 6 7
+qenp 5 7
+114 113 116 112 115 111 110
+eaxe 3 6
+131 130 135 132 134 133
+ubyg 6 6
+171 173 170 172 168 169
+abvg 0 1
+96
+wddp 3 5
+92 91 93 94 90
+dbek 2 4
+34 33 32 35
+grxf 3 7
+204 205 202 200 206 201 203
+csxs 0 3
+106 104 105
+yqwa 2 3
+48 50 49
+vrti 1 4
+190 188 191 189
+dxgk 3 6
+132 133 131 130 135 134
+iaal 8 8
+56 55 52 50 53 51 54 57
+bdju 1 1
+62
+yrje 3 5
+189 188 187 190 191
+mmph 3 5
+200 203 204 202 201
+uxlu 7 7
+97 94 93 91 96 92 95
+srak 1 3
+81 82 80
+qmcv 6 8
+241 240 236 235 239 234 237 238
+vtdt 6 7
+52 55 57 53 56 54 58
+xgph 3 7
+19 14 13 16 15 18 17
+vjsd 0 1
+106
+adsr 2 5
+59 55 57 58 56
+vtez 2 4
+80 82 83 81
+evha 2 6
+73 72 69 70 74 71
+wmyk 5 7
+46 45 48 44 42 43 47
+hffr 4 8
+99 101 103 97 96 98 102 100
+srod 4 6
+241 240 242 245 244 243
+apza 5 6
+108 109 113 110 111 112
+okte 4 8
+211 208 207 212 209 210 206 213
+wzne 0 1
+114
+adoh 4 6
+149 150 151 148 146 147
+ydpm 2 3
+1 0 2
+bvjb 6 6
+180 182 185 183 181 184
+slgg 5 7
+237 234 233 235 239 236 238
+zdcj 0 2
+157 156
+mtqz 2 7
+201 203 204 202 200 206 205
+pkzw 0 1
+150
+uspj 7 8
+72 70 71 69 65 68 67 66
+taon 2 4
+27 26 24 25
+blii 5 5
+169 170 171 167 168
+naad 0 1
+36
+fpqd 2 3
+147 146 145
+xtsd 7 7
+142 139 138 140 137 143 141
+xaup 7 7
+52 50 48 47 51 49 46
+ictf 1 3
+165 166 164
+nrbt 0 1
+0
+lqgx 2 5
+73 71 72 70 74
+oebb 0 1
+140
+kdod 0 2
+217 216
+znqn 0 1
+142
+ahje 4 7
+98 100 103 101 99 104 102
+iykl 2 5
+247 246 248 249 245
+eesk 0 1
+100
+ffnq 0 1
+84
+phbx 0 1
+28
+dzeg 1 2
+132 131
+vbbw 0 1
+149
+ofjg 5 6
+175 177 174 173 172 176
+hnef 3 7
+82 84 86 85 83 87 88
+sret 2 8
+128 134 133 131 132 130 129 135
+hswe 0 2
+232 233
+lzmz 3 6
+237 238 240 235 236 239
+wtbk 2 3
+14 16 15
+fcrw 1 2
+173 174
+riws 0 1
+157
+ufau 0 1
+36
+zzox 5 5
+62 64 63 61 60
+pauf 4 8
+163 167 162 168 164 165 166 169
+mrwv 2 6
+192 196 197 194 193 195
+nmmb 1 2
+176 175
+twmk 0 1
+144
+usha 2 5
+71 72 70 73 74
+qhpa 0 1
+216
+rawb 1 2
+205 204
+wpgm 4 5
+39 36 37 40 38
+wkgr 0 1
+205
+nmmm 0 1
+169
+pqyx 0 1
+170
+djdo 5 8
+235 240 237 238 239 241 234 236
+ksjh 1 5
+18 20 17 16 19
+fwjl 2 7
+124 125 126 123 127 128 122
+ckmr 0 1
+174
+ubph 0 2
+220 221
+lqoz 3 7
+130 125 127 124 126 128 129
+ertz 1 4
+24 25 23 22
+accz 5 7
+122 123 120 118 117 121 119
+xbnw 2 5
+21 20 22 24 23
+jwlg 0 1
+180
+upfp 1 2
+72 73
+anzt 4 6
+53 51 52 49 54 50
+alrw 3 5
+201 199 198 202 200
+dhrc 1 4
+2 0 3 1
+bxps 4 7
+5 6 4 3 1 0 2
+izoe 3 4
+54 56 53 55
+fyis 1 2
+50 51
+yxyv 0 1
+200
+oliy 0 3
+221 220 222
+htbu 6 7
+241 242 245 243 246 240 244
+uijf 1 2
+44 45
+djgu 3 6
+14 15 11 12 13 16
+qcao 0 1
+82
+elcd 0 1
+194
+iifm 1 2
+5 4
+azex 0 1
+94
+lguj 2 3
+61 62 60
+evjc 0 2
+179 178
+doio 0 1
+150
+myvz 1 2
+120 119
+pruj 4 5
+153 150 152 154 151
+qaoi 4 8
+223 225 228 229 227 224 230 226
+gbuf 2 3
+2 1 0
+vsyf 2 5
+224 222 221 223 220
+vyov 0 1
+170
+240 250
+mklc iehd terj xrgn tpta owcv ysyi wynz emhu rscq trkj crdk yidj vvax enmf zcfb uqvb ckxt prqa inqn qyxy gkmh xwxz nceg bddu nwjx sddl gwwg fltc msci syjp rdeo ikly iptx yexi qjwf rmdf ssjb xxuh bmkd ycrd rtxc caeo nrvf sfxm hetr lnwv dctd ygsw mjsa ehnm hkkx ygku glvd vjoc uyza gscz eehi wacu sqnk jdbc sqvi pfya mygb wyxo zgna fvhl fxme qatw owed lhjr kpkj kgkt wvbo kdch smgg uivn sxge yvsc ornk ssos qkyq fqss bqvk drcv micf sewy wkyo bdan leaa lmcf qfvn taps luhg igoi rrbb asla pewh cppk padj vwny hoki mzdw tnmv oeic vudy wzez egah kjpt zijr snch kwfo hkgj jdtv tzeh tpqj sovo qlvj tgir tnuh nkfo onbf zvko luur adqn txjs ypco lakg ojje ucln kdrg vuvq fntp bure tzqh eyex bblc mxjc fmnn sxtt vemp cwes loni gmzo axnl heyf grug nuef xuqa bunm tuvo zhkv grpw zlog capv ndkn tyds itaf lcmt jtdi wgov xubs cist dydr nzfi gxft hwvm pwaz ltzw mcuc nhcg wbqt jnuq sgmk qsft dsls gmos oatj uxpo rsbk ctoz jstl syha hgac mtcj gazs xlsr hpfn bskt islp tixj tzmm jfte hlpk hwsi hqqy touo coon pjej modd vtwy icpr zhzu tlug fjgc skty sfkx vkvn ojzf efvg ijgx zhwq crmk kqbp pcfj bmtu yzcb rdrd gcvq nawb zggl hcar wfwr jsbr tcgb hphp qfxa gkxo gkus nlsc hzjw zwmd jbla dxzr ewcq johu aezv cxnw opes hbxy vogy ecjz npvs viwc fafj hhxs bgcg xibr ecfw emam
+mklc 2 6
+1 2 5 3 4 6
+iehd 1 4
+242 243 244 241
+terj 2 2
+144 145
+xrgn 2 4
+237 239 238 240
+tpta 1 2
+52 53
+owcv 2 6
+205 201 200 204 203 202
+ysyi 0 1
+234
+wynz 5 7
+199 201 205 200 203 204 202
+emhu 3 8
+206 208 203 205 202 204 209 207
+rscq 4 8
+99 98 105 100 102 104 103 101
+trkj 6 8
+4 5 6 1 0 7 2 3
+crdk 1 2
+20 21
+yidj 1 1
+94
+vvax 0 1
+80
+enmf 0 2
+235 234
+zcfb 3 6
+126 125 130 129 127 128
+uqvb 5 6
+5 0 4 3 2 1
+ckxt 3 4
+146 145 147 144
+prqa 1 2
+135 134
+inqn 0 1
+18
+qyxy 7 7
+170 176 171 175 172 173 174
+gkmh 1 3
+246 245 247
+xwxz 1 2
+77 76
+nceg 0 1
+22
+bddu 2 6
+35 34 38 36 37 39
+nwjx 0 1
+24
+sddl 4 8
+190 187 189 186 193 191 192 188
+gwwg 0 2
+228 229
+fltc 2 7
+16 22 19 21 20 17 18
+msci 3 4
+76 75 74 77
+syjp 0 1
+100
+rdeo 0 1
+30
+ikly 0 1
+22
+iptx 2 3
+112 110 111
+yexi 5 5
+220 223 222 221 224
+qjwf 8 8
+232 235 234 236 230 237 231 233
+rmdf 0 1
+176
+ssjb 6 7
+138 141 137 143 139 140 142
+xxuh 6 8
+196 197 192 198 193 194 195 199
+bmkd 3 8
+224 227 226 223 228 229 222 225
+ycrd 5 7
+243 245 241 240 242 246 244
+rtxc 1 1
+40
+caeo 2 7
+5 4 6 1 3 0 2
+nrvf 1 5
+184 185 186 187 183
+sfxm 1 4
+245 244 243 242
+hetr 7 7
+171 165 169 167 170 166 168
+lnwv 0 1
+45
+dctd 0 2
+103 102
+ygsw 0 1
+220
+mjsa 4 8
+148 152 151 153 146 147 150 149
+ehnm 5 6
+0 3 4 1 2 5
+hkkx 2 3
+141 140 139
+ygku 5 5
+166 165 168 164 167
+glvd 1 2
+15 16
+vjoc 0 1
+60
+uyza 0 1
+54
+gscz 1 2
+197 196
+eehi 3 7
+130 132 127 129 128 131 133
+wacu 5 7
+164 162 158 163 160 159 161
+sqnk 3 8
+5 4 11 10 9 7 8 6
+jdbc 2 4
+130 132 133 131
+sqvi 6 8
+72 66 71 70 68 67 73 69
+pfya 4 4
+66 64 63 65
+mygb 1 2
+135 136
+wyxo 2 5
+8 12 9 10 11
+zgna 0 1
+64
+fvhl 5 8
+204 209 208 202 206 203 205 207
+fxme 0 2
+204 205
+qatw 0 1
+220
+owed 0 1
+68
+lhjr 4 8
+11 13 16 10 17 12 14 15
+kpkj 1 2
+74 75
+kgkt 0 1
+90
+wvbo 3 5
+212 211 209 210 208
+kdch 0 1
+73
+smgg 2 4
+25 27 26 28
+uivn 1 2
+211 210
+sxge 7 8
+127 124 125 129 126 128 123 122
+yvsc 0 2
+48 49
+ornk 4 5
+45 42 46 44 43
+ssos 1 5
+241 240 242 244 243
+qkyq 3 4
+35 36 33 34
+fqss 1 5
+91 88 89 92 90
+bqvk 2 7
+175 170 172 173 174 169 171
+drcv 1 3
+188 190 189
+micf 2 7
+147 148 151 145 146 149 150
+sewy 1 2
+187 186
+wkyo 3 4
+216 213 214 215
+bdan 2 8
+207 202 208 205 204 206 209 203
+leaa 0 2
+5 4
+lmcf 3 6
+203 201 202 205 200 204
+qfvn 1 3
+236 235 234
+taps 3 4
+39 41 38 40
+luhg 2 5
+20 17 21 19 18
+igoi 4 4
+217 215 214 216
+rrbb 2 5
+117 116 118 119 115
+asla 3 4
+214 216 217 215
+pewh 1 1
+96
+cppk 0 1
+198
+padj 1 6
+232 234 237 233 236 235
+vwny 1 2
+151 150
+hoki 2 4
+87 90 89 88
+mzdw 5 6
+136 137 139 135 134 138
+tnmv 3 4
+137 138 140 139
+oeic 4 5
+25 24 26 23 22
+vudy 6 6
+146 150 149 148 145 147
+wzez 3 4
+45 47 44 46
+egah 2 3
+4 5 3
+kjpt 2 3
+241 242 240
+zijr 6 7
+70 76 73 72 74 75 71
+snch 1 3
+1 2 0
+kwfo 5 6
+81 84 79 82 83 80
+hkgj 1 3
+30 28 29
+jdtv 6 8
+187 185 186 191 192 188 190 189
+tzeh 0 1
+192
+tpqj 4 8
+56 62 57 61 59 58 55 60
+sovo 0 1
+234
+qlvj 3 4
+62 63 61 60
+tgir 3 4
+90 92 91 93
+tnuh 5 6
+32 33 31 30 29 34
+nkfo 3 3
+111 112 110
+onbf 4 7
+187 184 188 183 185 182 186
+zvko 3 6
+156 158 155 157 159 154
+luur 1 3
+245 244 243
+adqn 7 8
+19 23 21 20 24 22 25 18
+txjs 3 4
+0 3 1 2
+ypco 1 2
+101 100
+lakg 3 4
+176 177 175 174
+ojje 5 7
+140 136 137 142 138 139 141
+ucln 0 1
+203
+kdrg 0 2
+131 132
+vuvq 0 1
+130
+fntp 4 4
+220 221 223 222
+bure 0 1
+227
+tzqh 4 6
+244 248 249 246 247 245
+eyex 1 3
+61 60 62
+bblc 0 1
+4
+mxjc 1 4
+93 96 94 95
+fmnn 1 2
+8 9
+sxtt 3 7
+173 172 176 174 170 175 171
+vemp 6 7
+92 94 91 95 96 93 90
+cwes 2 4
+151 154 153 152
+loni 1 2
+249 248
+gmzo 2 5
+102 100 103 99 101
+axnl 5 5
+71 72 68 70 69
+heyf 0 1
+144
+grug 2 4
+238 239 236 237
+nuef 1 2
+99 100
+xuqa 0 1
+10
+bunm 1 2
+73 72
+tuvo 0 2
+50 51
+zhkv 0 1
+153
+grpw 1 4
+111 108 109 110
+zlog 0 1
+152
+capv 1 4
+9 7 8 6
+ndkn 1 2
+10 11
+tyds 0 1
+155
+itaf 1 2
+58 59
+lcmt 0 1
+116
+jtdi 1 1
+158
+wgov 1 2
+170 171
+xubs 0 1
+160
+cist 0 1
+230
+dydr 6 8
+122 123 121 124 128 126 127 125
+nzfi 1 2
+18 19
+gxft 4 7
+153 154 152 155 156 150 151
+hwvm 1 3
+196 198 197
+pwaz 3 3
+230 231 229
+ltzw 4 6
+10 9 11 13 12 8
+mcuc 1 3
+146 145 144
+nhcg 2 8
+75 74 72 73 76 77 70 71
+wbqt 3 4
+119 117 116 118
+jnuq 5 7
+103 99 102 104 98 101 100
+sgmk 2 7
+157 160 156 159 158 155 161
+qsft 2 7
+188 190 192 191 193 189 194
+dsls 2 4
+128 126 125 127
+gmos 3 5
+34 36 38 37 35
+oatj 1 6
+191 192 189 188 187 190
+uxpo 0 1
+177
+rsbk 0 1
+11
+ctoz 2 4
+133 132 130 131
+jstl 6 7
+242 239 244 240 238 241 243
+syha 1 1
+162
+hgac 1 1
+182
+mtcj 2 2
+131 130
+gazs 1 3
+92 90 91
+xlsr 2 4
+162 165 163 164
+hpfn 0 1
+33
+bskt 1 2
+222 223
+islp 0 1
+188
+tixj 0 1
+200
+tzmm 1 2
+126 125
+jfte 0 1
+236
+hlpk 6 6
+240 239 235 236 238 237
+hwsi 1 2
+201 200
+hqqy 7 8
+91 87 89 92 90 85 88 86
+touo 0 1
+195
+coon 0 1
+146
+pjej 6 8
+204 202 209 208 203 207 206 205
+modd 3 4
+152 153 150 151
+vtwy 2 3
+50 52 51
+icpr 3 6
+214 213 211 215 212 216
+zhzu 0 1
+201
+tlug 5 7
+101 106 102 103 104 100 105
+fjgc 3 3
+227 228 226
+skty 3 7
+6 5 8 10 11 7 9
+sfkx 4 8
+233 232 229 226 230 227 231 228
+vkvn 2 2
+117 118
+ojzf 5 7
+40 43 44 41 39 38 42
+efvg 1 2
+51 50
+ijgx 2 7
+203 202 201 204 206 205 200
+zhwq 2 6
+179 175 176 178 174 177
+crmk 3 7
+229 228 230 225 226 227 224
+kqbp 3 7
+31 33 32 37 36 35 34
+pcfj 1 4
+230 232 231 233
+bmtu 4 5
+68 66 65 69 67
+yzcb 4 6
+156 159 160 157 158 161
+rdrd 1 2
+131 130
+gcvq 2 6
+4 2 3 5 0 1
+nawb 0 1
+54
+zggl 0 1
+219
+hcar 1 3
+178 180 179
+wfwr 4 4
+120 118 121 119
+jsbr 3 7
+118 121 124 122 119 120 123
+tcgb 2 5
+176 178 179 177 180
+hphp 1 4
+200 203 202 201
+qfxa 5 7
+175 171 174 173 170 172 176
+gkxo 0 1
+226
+gkus 1 2
+246 247
+nlsc 2 3
+24 26 25
+hzjw 2 8
+10 14 11 13 16 17 12 15
+zwmd 0 3
+143 144 145
+jbla 2 7
+164 163 168 167 166 162 165
+dxzr 1 3
+228 227 229
+ewcq 1 1
+86
+johu 1 2
+231 230
+aezv 5 5
+144 142 145 143 146
+cxnw 4 5
+19 22 18 21 20
+opes 5 6
+89 90 88 93 91 92
+hbxy 0 1
+52
+234 250
+oiqn kcht rbpo igoq vlto rseg wxpj zpxt ikav gzhs sxcm pkub igkd fqgy umjv qkwd scpu aqpp mrax usyc jlvj dghf tztd wofj hpgj jwmb kwtr qxjk hvdf tvee puey qciz twrk hdvp uipn unsz wvbf juym shab hvjj ydyz bsqw gvyp emna xcit pbpo osre lhym hkkt cyfv qkpc xgbc oquv leed wjyr hjot nfuv hfjt hcqx kojc utvl rjbk jaeg mxuo wbxd aqrb vewz osby afjx spil iwcc viym onln siem kbpi dduu getq glim jnhq ivmz knfw phmp rbku pwcn wfmr wtkt lzgi qpgu pswi kvfg uywk dthp fnxs ttfk gbae qbqj wwye jtop nypt szwg upya pwgs hwnq isca ozdr sljp bxun nsut pnsy oebl rcez orki etmk dthv lcmq sqmw jlnr gbzw mdjb eqsf xsbw sggt kikj regl fhth nitf qmcf cfsf uahf ptom fdat lvgf vmrw jiyq buws oslu zbjf vsjs nryp paom ptjo weph jhzz vzqk zrsa iozk htcm dtlv vfcy wsjc oqop invz bykn odbv dyzd chdv scsy cwja gbdv tlcs txtl avag cics tpys jzkn qcgp htxy kqvl vyek ldhk tkhs grcn zngp rvwm zztb twil rwbb snlk dweq vemw gwva guro tgdv ceyo gwab sedm cynv lgvf ijlq fyxc fthu ultw rwmd rwbj xopu yutq gyzd hfdo udei azjg eubv vzqs dqji sqgp lcxw mcib aoab svlp rxkx dneh lyiu posc jpra cnpq tafg syoa fpos qpni oddz esix vrqc qmrt etjo tles eyum kgon neel bluf wrmb ggjd bwgb qxnc ndvf xwsk cmjd owqb wxog hons fuyt uhxa jwpz msjb quvd dpxj xcro epdp etyv qgul yych vdyu
+oiqn 2 5
+1 4 5 2 3
+kcht 4 8
+15 16 17 14 18 19 13 20
+rbpo 0 1
+148
+igoq 2 6
+245 244 249 246 247 248
+vlto 1 3
+34 33 32
+rseg 1 2
+120 121
+wxpj 1 2
+56 57
+zpxt 6 8
+16 20 22 21 15 17 18 19
+ikav 5 6
+213 212 209 210 211 208
+gzhs 6 7
+89 93 88 92 90 87 91
+sxcm 4 5
+50 51 52 53 54
+pkub 1 1
+10
+igkd 0 1
+194
+fqgy 0 1
+247
+umjv 0 1
+48
+qkwd 0 1
+105
+scpu 3 3
+214 213 212
+aqpp 2 4
+7 5 6 8
+mrax 0 1
+17
+usyc 5 5
+65 66 64 62 63
+jlvj 3 6
+121 124 122 125 123 120
+dghf 6 8
+212 209 208 215 213 211 210 214
+tztd 3 6
+85 89 87 84 88 86
+wofj 0 1
+22
+hpgj 7 7
+14 12 10 16 13 11 15
+jwmb 8 8
+153 152 155 150 154 151 157 156
+kwtr 2 4
+41 43 42 40
+qxjk 0 2
+51 50
+hvdf 3 7
+154 149 148 151 150 153 152
+tvee 0 1
+28
+puey 1 3
+130 132 131
+qciz 3 5
+118 120 117 116 119
+twrk 0 1
+192
+hdvp 4 4
+132 133 134 135
+uipn 5 7
+60 57 58 56 62 61 59
+unsz 0 1
+34
+wvbf 0 1
+35
+juym 2 7
+172 170 169 167 171 168 173
+shab 1 4
+132 133 131 130
+hvjj 6 7
+244 241 242 238 239 243 240
+ydyz 1 6
+162 160 165 163 164 161
+bsqw 1 2
+245 244
+gvyp 1 2
+177 176
+emna 3 4
+212 215 213 214
+xcit 6 7
+182 176 179 177 178 180 181
+pbpo 4 8
+71 69 70 68 72 66 65 67
+osre 0 1
+45
+lhym 4 5
+65 66 63 62 64
+hkkt 5 6
+149 147 148 144 146 145
+cyfv 0 1
+48
+qkpc 2 6
+56 52 54 51 55 53
+xgbc 1 3
+172 170 171
+oquv 4 8
+130 125 126 128 131 124 129 127
+leed 6 6
+13 17 18 14 16 15
+wjyr 4 4
+26 29 27 28
+hjot 5 8
+14 17 15 12 10 16 11 13
+nfuv 1 2
+150 151
+hfjt 0 2
+101 102
+hcqx 0 1
+216
+kojc 2 3
+198 199 200
+utvl 5 5
+22 23 21 20 24
+rjbk 3 5
+54 51 53 55 52
+jaeg 0 1
+78
+mxuo 1 3
+100 99 101
+wbxd 3 7
+100 99 94 98 95 96 97
+aqrb 4 6
+15 10 13 11 14 12
+vewz 5 7
+132 131 134 136 135 133 130
+osby 6 8
+222 226 225 221 228 227 223 224
+afjx 3 6
+61 60 56 59 57 58
+spil 4 4
+213 215 214 216
+iwcc 1 4
+143 140 141 142
+viym 1 3
+109 108 107
+onln 5 6
+174 172 173 171 175 170
+siem 1 3
+212 210 211
+kbpi 7 7
+132 130 131 129 134 128 133
+dduu 4 5
+0 2 3 4 1
+getq 1 2
+154 155
+glim 1 4
+48 45 46 47
+jnhq 0 1
+128
+ivmz 0 1
+78
+knfw 0 1
+120
+phmp 4 8
+121 122 119 124 125 120 123 118
+rbku 2 3
+30 31 32
+pwcn 2 4
+239 237 236 238
+wfmr 3 5
+93 95 94 96 92
+wtkt 6 8
+45 47 43 46 42 44 40 41
+lzgi 4 5
+219 217 218 220 216
+qpgu 8 8
+133 130 135 132 137 136 134 131
+pswi 0 1
+106
+kvfg 2 4
+105 104 102 103
+uywk 4 5
+44 41 40 42 43
+dthp 0 1
+2
+fnxs 1 5
+57 56 54 58 55
+ttfk 1 2
+118 117
+gbae 2 4
+233 231 232 230
+qbqj 0 1
+94
+wwye 2 5
+45 47 44 48 46
+jtop 0 1
+96
+nypt 4 6
+60 58 63 59 62 61
+szwg 2 3
+205 207 206
+upya 3 8
+202 200 205 204 206 203 207 201
+pwgs 0 1
+233
+hwnq 4 7
+3 2 4 6 8 5 7
+isca 2 3
+9 8 10
+ozdr 5 7
+209 214 211 213 210 212 208
+sljp 5 6
+90 93 91 95 94 92
+bxun 8 8
+168 172 174 175 169 170 173 171
+nsut 0 1
+178
+pnsy 0 1
+107
+oebl 4 5
+194 192 193 195 191
+rcez 6 6
+185 181 183 184 180 182
+orki 0 1
+103
+etmk 5 6
+108 114 111 113 110 109
+dthv 2 8
+205 203 200 201 202 206 204 199
+lcmq 1 2
+152 153
+sqmw 2 4
+232 231 230 233
+jlnr 0 1
+62
+gbzw 3 4
+53 55 52 54
+mdjb 2 3
+97 96 98
+eqsf 4 6
+160 159 156 155 157 158
+xsbw 1 4
+91 93 92 90
+sggt 0 1
+120
+kikj 1 1
+121
+regl 3 6
+192 196 191 194 195 193
+fhth 0 1
+123
+nitf 3 4
+129 128 127 126
+qmcf 4 8
+46 44 50 47 49 45 51 48
+cfsf 0 1
+126
+uahf 0 1
+234
+ptom 0 2
+7 6
+fdat 5 8
+55 57 51 53 54 50 56 52
+lvgf 1 4
+11 10 12 9
+vmrw 5 5
+74 77 75 76 78
+jiyq 3 4
+62 64 65 63
+buws 0 2
+238 239
+oslu 1 2
+246 245
+zbjf 2 4
+103 104 102 105
+vsjs 4 7
+73 72 69 70 68 71 67
+nryp 2 2
+102 103
+paom 1 1
+182
+ptjo 1 6
+213 211 215 212 214 210
+weph 0 1
+140
+jhzz 4 5
+55 53 56 52 54
+vzqk 4 5
+78 80 79 77 81
+zrsa 0 1
+214
+iozk 7 8
+215 217 216 219 222 218 220 221
+htcm 0 1
+145
+dtlv 1 2
+213 214
+vfcy 1 2
+94 95
+wsjc 0 1
+148
+oqop 2 3
+2 0 1
+invz 0 2
+244 243
+bykn 3 7
+150 156 157 153 154 151 155
+odbv 1 2
+94 93
+dyzd 1 3
+222 221 220
+chdv 4 4
+15 16 17 18
+scsy 0 1
+155
+cwja 0 1
+156
+gbdv 6 8
+89 86 91 88 84 85 87 90
+tlcs 0 1
+249
+txtl 2 7
+94 96 91 90 93 95 92
+avag 3 7
+179 180 178 175 176 174 177
+cics 5 6
+37 35 39 34 38 36
+tpys 0 2
+133 134
+jzkn 2 6
+2 3 0 1 4 5
+qcgp 0 2
+211 210
+htxy 1 2
+68 69
+kqvl 6 7
+243 246 241 247 242 244 245
+vyek 5 5
+6 7 5 8 4
+ldhk 1 2
+182 181
+tkhs 2 6
+193 191 194 192 190 195
+grcn 7 7
+46 48 49 51 50 45 47
+zngp 0 2
+240 241
+rvwm 0 1
+172
+zztb 0 2
+0 1
+twil 7 8
+125 126 132 128 131 127 130 129
+rwbb 2 5
+125 127 124 128 126
+snlk 4 5
+231 230 229 232 228
+dweq 0 1
+177
+vemw 2 5
+23 20 19 21 22
+gwva 2 4
+132 131 130 133
+guro 5 5
+143 142 141 140 144
+tgdv 3 7
+138 140 137 139 136 134 135
+ceyo 3 5
+229 227 228 225 226
+gwab 7 7
+24 18 19 21 20 23 22
+sedm 4 6
+107 106 109 110 105 108
+cynv 2 6
+77 72 74 75 76 73
+lgvf 3 5
+205 203 204 206 202
+ijlq 2 5
+114 117 116 118 115
+fyxc 1 1
+188
+fthu 0 1
+210
+ultw 3 5
+151 155 153 152 154
+rwmd 2 8
+14 15 16 18 21 20 17 19
+rwbj 2 4
+123 122 124 121
+xopu 3 5
+193 190 195 192 191
+yutq 0 1
+194
+gyzd 5 6
+34 37 38 36 35 39
+hfdo 3 4
+199 196 200 198
+udei 1 2
+249 248
+azjg 7 7
+12 14 10 9 15 13 11
+eubv 5 8
+57 53 51 50 54 56 55 52
+vzqs 2 4
+55 56 57 54
+dqji 1 2
+87 86
+sqgp 0 1
+163
+lcxw 7 8
+32 31 30 26 33 29 27 28
+mcib 2 4
+97 95 98 96
+aoab 2 3
+136 137 138
+svlp 2 5
+98 97 101 99 100
+rxkx 0 1
+206
+dneh 3 6
+112 116 114 113 115 111
+lyiu 4 6
+70 75 73 74 72 71
+posc 2 3
+52 54 53
+jpra 0 1
+211
+cnpq 0 1
+212
+tafg 2 3
+167 168 166
+syoa 2 8
+158 160 162 161 156 157 159 155
+fpos 0 1
+217
+qpni 0 1
+178
+oddz 1 2
+102 103
+esix 0 1
+218
+vrqc 2 8
+233 235 237 231 232 236 230 234
+qmrt 3 4
+175 174 173 176
+etjo 2 3
+30 31 32
+tles 0 1
+222
+eyum 8 8
+14 19 15 16 17 18 20 21
+kgon 0 1
+224
+neel 0 1
+225
+bluf 2 4
+215 214 213 216
+wrmb 0 1
+172
+ggjd 0 1
+100
+bwgb 5 5
+133 134 130 132 131
+qxnc 0 1
+191
+ndvf 0 1
+231
+xwsk 0 2
+230 229
+214 250
+sqsb zgqg jxwn tbds vlje ecbt rmaz egnt ozaj pybm atdx nzjg yefx dbol vqzg rssp soyu vmcg nidl zimi fhbx mcza laol kdpl daya zquq dmhs kbtl wcua xxnl eabe hzub edwg gyvy jkyu vqfm lqct jtts jusx ifao juli ogpy qgqu wiif zmnx abxu naxy exwi nneu yjpn uqfq lgvo azgl jvuo wirb mbwv wads gdww iwym tbfe rcsv jptp hued qgnt xbgs qmhw wbbd bsom xlyk uyds avrl uwac opfh qoxg uqfo ywod ghuf gzmh diov nqwf jbzk osos ytyy brer qwys fdqv tyzj yldb fvgh pgem spzw xccv xugw wrvn sbau efwz zvyn elwh ctgz xmbx nnkc krzy ysgq cwng rvoq izxa pzzw wfep ebyq yzlm kcax svis ldcw hvkv gndm nsil jnnk vhvy opel yrox xjsw frtb rkxz olqr lazf usxx gmsy wemu fvrq gstz drue nvsd qsjn peme bzgm nbok cnpn acfz gyxj mqri iesz wxvk nbya ybcq qxxy xpch zlgm rvso ihso ltda rjtq jzwe ldml hept miuj tgbj zvnp njsv plzc mfue tvtz ybfz visz zwjd ekkz ndod rxjt qkjw nmao vkps klkt hwth qjvn pexq eyyf htnk tzqc nwyi wxhn jeyg gskc kczi fchl fmra ggdw glle vovk mvpg ucgx bfbt uygl kqvv xzza yfqh dvyl htsw usfe opdd anfc vqlh wjub gvbs xpxp apqu bner pdcc fgpw mqtk pnhr zsyw chrx vgoj itme lvjv hvjc xido lpxd ivbp ydov swjz odsx hkhe plal rolz auww yyui vxxa jlkn royf spig mvdy sepo rcad icpv umdb kxll xtvu fkex rzvc evnc mlgh nvhc bkjb kfqc gukt ggbx bblq kbkc fyrt fpcf
+sqsb 2 5
+1 3 5 4 2
+zgqg 3 7
+22 26 23 28 24 25 27
+jxwn 0 1
+1
+tbds 3 5
+169 171 172 170 173
+vlje 1 4
+142 144 143 145
+ecbt 5 8
+230 236 237 233 235 234 231 232
+rmaz 0 1
+42
+egnt 3 4
+56 53 55 54
+ozaj 4 5
+226 222 223 225 224
+pybm 4 6
+124 123 119 120 121 122
+atdx 2 4
+14 12 11 13
+nzjg 1 6
+178 175 180 176 177 179
+yefx 2 3
+90 89 88
+dbol 3 7
+41 36 37 38 40 35 39
+vqzg 3 5
+154 153 155 152 156
+rssp 2 8
+122 123 125 126 127 120 121 124
+soyu 4 7
+231 229 228 230 234 232 233
+vmcg 1 4
+14 13 16 15
+nidl 0 1
+58
+zimi 0 1
+104
+fhbx 1 3
+231 230 232
+mcza 0 1
+44
+laol 1 5
+189 190 187 186 188
+kdpl 3 6
+39 42 41 44 43 40
+daya 2 6
+207 208 209 206 210 211
+zquq 0 1
+200
+dmhs 3 8
+203 199 197 201 200 202 198 196
+kbtl 0 2
+70 71
+wcua 2 6
+25 23 26 22 24 27
+xxnl 6 6
+16 12 11 13 14 15
+eabe 2 6
+60 61 64 62 65 63
+hzub 1 2
+248 249
+edwg 2 8
+23 28 22 26 25 27 29 24
+gyvy 0 1
+112
+jkyu 1 2
+218 219
+vqfm 7 7
+243 244 242 245 240 246 241
+lqct 4 6
+46 50 47 48 51 49
+jtts 5 6
+90 87 86 89 88 91
+jusx 0 1
+154
+ifao 1 2
+181 180
+juli 3 6
+150 152 155 151 153 154
+ogpy 2 7
+54 50 49 53 52 51 55
+qgqu 4 5
+198 197 196 200 199
+wiif 1 1
+42
+zmnx 5 5
+248 244 246 245 247
+abxu 1 2
+96 95
+naxy 0 3
+87 88 86
+exwi 0 1
+46
+nneu 0 1
+168
+yjpn 1 1
+249
+uqfq 2 4
+102 100 103 101
+lgvo 0 1
+50
+azgl 4 6
+53 54 50 55 56 51
+jvuo 7 7
+0 1 6 3 4 5 2
+wirb 4 6
+200 203 199 202 198 201
+mbwv 0 1
+54
+wads 3 4
+226 227 224 225
+gdww 0 1
+56
+iwym 1 2
+1 0
+tbfe 2 2
+63 64
+rcsv 5 8
+134 133 132 131 136 135 137 130
+jptp 5 8
+34 32 38 35 37 31 36 33
+hued 0 1
+210
+qgnt 1 2
+103 102
+xbgs 3 4
+122 123 121 120
+qmhw 0 1
+64
+wbbd 4 4
+92 94 95 93
+bsom 0 1
+66
+xlyk 0 1
+67
+uyds 1 3
+200 198 199
+avrl 3 7
+192 193 196 190 195 191 194
+uwac 5 6
+117 115 118 116 114 119
+opfh 3 6
+184 185 187 186 189 188
+qoxg 5 5
+227 225 228 229 226
+uqfo 1 2
+31 30
+ywod 1 5
+227 229 225 226 228
+ghuf 4 6
+30 35 31 34 32 33
+gzmh 2 5
+46 45 44 47 48
+diov 0 1
+77
+nqwf 6 6
+183 182 184 179 180 181
+jbzk 5 7
+85 81 83 82 87 84 86
+osos 2 5
+242 241 238 239 240
+ytyy 3 7
+102 103 105 104 100 106 101
+brer 3 6
+88 87 90 92 91 89
+qwys 1 3
+210 209 208
+fdqv 3 3
+151 152 150
+tyzj 3 8
+17 14 18 13 19 16 12 15
+yldb 1 3
+69 67 68
+fvgh 5 6
+180 181 182 183 184 185
+pgem 1 5
+85 88 90 87 86
+spzw 1 1
+89
+xccv 6 7
+185 187 184 186 188 183 189
+xugw 1 2
+19 18
+wrvn 1 2
+74 73
+sbau 1 1
+52
+efwz 3 7
+82 83 84 80 85 81 86
+zvyn 1 4
+33 32 30 31
+elwh 0 1
+96
+ctgz 2 3
+40 42 41
+xmbx 2 2
+175 174
+nnkc 0 1
+200
+krzy 4 7
+111 110 108 109 112 113 107
+ysgq 1 2
+157 156
+cwng 3 5
+219 223 220 222 221
+rvoq 0 1
+88
+izxa 3 8
+218 217 220 222 216 219 221 215
+pzzw 2 2
+87 86
+wfep 2 3
+225 224 223
+ebyq 1 2
+215 214
+yzlm 4 5
+19 21 18 22 20
+kcax 0 1
+80
+svis 0 2
+37 36
+ldcw 2 5
+181 180 182 184 183
+hvkv 2 4
+156 159 157 158
+gndm 3 4
+131 133 130 132
+nsil 1 2
+160 161
+jnnk 3 7
+5 6 2 1 3 0 4
+vhvy 1 3
+41 43 42
+opel 0 1
+117
+yrox 1 1
+0
+xjsw 3 7
+61 64 63 62 60 65 66
+frtb 6 8
+182 176 177 179 181 183 178 180
+rkxz 2 5
+128 130 126 127 129
+olqr 0 1
+72
+lazf 3 8
+30 32 29 34 33 35 28 31
+usxx 2 6
+128 130 126 131 127 129
+gmsy 4 7
+35 30 34 31 32 33 36
+wemu 0 1
+126
+fvrq 3 4
+138 139 141 140
+gstz 0 1
+128
+drue 2 4
+210 211 213 212
+nvsd 3 4
+100 98 101 99
+qsjn 6 8
+222 228 227 225 224 229 226 223
+peme 2 7
+126 120 121 123 124 125 122
+bzgm 4 6
+101 99 98 102 103 100
+nbok 4 5
+181 180 183 184 182
+cnpn 0 2
+25 24
+acfz 0 1
+6
+gyxj 1 1
+137
+mqri 1 3
+177 176 178
+iesz 1 3
+102 101 100
+wxvk 1 5
+166 162 165 164 163
+nbya 2 2
+50 51
+ybcq 6 8
+171 166 169 167 164 165 168 170
+qxxy 2 3
+32 33 34
+xpch 0 1
+144
+zlgm 3 8
+117 120 119 118 115 116 121 114
+rvso 3 4
+61 58 59 60
+ihso 0 1
+147
+ltda 4 5
+239 241 238 242 240
+rjtq 0 1
+200
+jzwe 5 5
+226 227 228 229 225
+ldml 2 8
+202 200 198 199 204 205 201 203
+hept 0 1
+182
+miuj 0 1
+50
+tgbj 0 1
+0
+zvnp 1 3
+12 13 14
+njsv 1 2
+53 52
+plzc 0 1
+157
+mfue 3 5
+89 90 88 91 87
+tvtz 4 8
+51 55 54 52 57 50 53 56
+ybfz 2 7
+61 64 60 59 65 63 62
+visz 0 1
+161
+zwjd 6 8
+29 33 31 34 32 35 30 28
+ekkz 3 4
+157 159 158 156
+ndod 0 1
+70
+rxjt 2 3
+20 19 18
+qkjw 0 1
+127
+nmao 0 1
+64
+vkps 5 7
+17 16 18 20 19 15 21
+klkt 0 1
+110
+hwth 4 5
+207 208 205 206 209
+qjvn 2 4
+197 196 195 194
+pexq 0 1
+22
+eyyf 1 5
+9 8 12 10 11
+htnk 1 1
+75
+tzqc 5 6
+238 240 241 237 239 236
+nwyi 5 8
+112 111 113 114 115 116 110 117
+wxhn 1 2
+113 112
+jeyg 0 1
+178
+gskc 4 7
+53 50 52 51 56 54 55
+kczi 2 3
+162 161 160
+fchl 4 8
+89 93 88 91 95 94 92 90
+fmra 2 4
+89 90 88 91
+ggdw 4 8
+200 205 199 202 198 203 201 204
+glle 1 2
+245 246
+vovk 1 4
+245 246 244 247
+mvpg 3 5
+11 12 10 13 9
+ucgx 4 8
+8 9 2 6 5 3 4 7
+bfbt 5 6
+179 181 177 182 180 178
+uygl 1 2
+10 11
+kqvv 1 2
+15 16
+xzza 3 8
+108 106 113 109 107 112 111 110
+yfqh 1 4
+221 223 222 224
+dvyl 6 8
+87 91 88 92 93 86 89 90
+htsw 1 4
+211 210 213 212
+usfe 1 2
+27 26
+opdd 1 2
+141 140
+anfc 0 1
+197
+vqlh 2 7
+4 3 0 1 6 5 2
+wjub 6 6
+152 154 151 155 150 153
+gvbs 5 8
+99 97 93 94 100 95 96 98
+xpxp 0 1
+201
+apqu 1 3
+84 83 85
+bner 0 1
+203
+pdcc 1 2
+180 181
+fgpw 2 8
+86 91 89 85 90 88 84 87
+mqtk 3 4
+134 135 132 133
+pnhr 0 1
+207
+zsyw 4 5
+190 189 187 188 186
+chrx 0 1
+40
+vgoj 0 1
+8
+itme 1 4
+242 244 243 245
+lvjv 0 1
+212
+237 250
+etam fflr pytf vwwd hbgn mhcb cktr xuze jtvv zgam ligr nvsj joqg idsy sfwr zhln ygyr fjky lmwc iajq uqpd cotp xoyn rliw sihb rejt ezpz ludq nioz cgkz eodu flpb ptmk qyci gdqm ndvn sgan srax hblq mrnj gcwq mjuo rzxz hikk krnv ghls ufqa hfzz pbax hwtc gfyy jqgt tpmv fxxt lxtb hdge mjzg wmac smnd wasg gbto ulbo iaoj squw qtsn eshy eqwl elkx vfwf csys skas nzye gnsg qczk dmya bzok ajal oxlo pzem hmbp vpjm gjjk zczt cgfv asta wsfv kfjj nzvt qvhi knbi ztkw ruxi mlrf irxl qbwn ower osdj sbmg sbol hxkw yfti isez nblr ewij iwym dgab alae xoqm ugyb mjrh xvwq rekg jxup plsa ykpf voaq bkvz padi qklt lvzo fasb wynb vdxg uhkp fqbf ybbh avhx vydp pdlf oyrc gjve bnrt njxu wndt fmba aygn fzkk fenv rjod clgz ugbk nqab gmhr iudy btql iouq xfzx zxsw tdmc wmtr vccy hczk rpzv bknu sftr lwnj zhmr iprh tlxf fiij vgwm vgad dwkg rwkz xtmr wpef hzdm nkwf njwo eigv ticm afes qtfk cwvi fhna wwxa qado cntn yzjk ojzb vrmu kvio xdiu dsas inox qpne hgrq dbdy wgfy imgr ixjm rqum nnbu hpmn zjqy coav afuj qvxc jxyb ehog vomj tdij tkjw czbo zwqk fjki cqop uysa qzqw cmqo sewn gmeb izur racx tjws uegu nlil aaye gyub wpzc azvl myie jbav dwac hbmw yfcm bgja bvuo vzor xedz kjhx deug koyo vgpr cgcd pgnx tjnw lenr jyxw cgzk fyit cbuo egym vcjv tkqa hlpx lhgn zepw zvtp htbd
+etam 3 4
+2 4 3 1
+fflr 2 5
+229 228 230 231 232
+pytf 5 6
+11 13 8 10 9 12
+vwwd 1 3
+22 23 21
+hbgn 1 2
+15 14
+mhcb 5 6
+100 102 101 103 105 104
+cktr 1 3
+190 192 191
+xuze 6 7
+177 180 176 178 181 179 182
+jtvv 1 4
+111 109 108 110
+zgam 0 1
+237
+ligr 1 2
+31 30
+nvsj 0 1
+10
+joqg 3 8
+155 157 154 156 153 151 150 152
+idsy 3 4
+31 30 33 32
+sfwr 4 5
+135 138 134 136 137
+zhln 0 1
+14
+ygyr 8 8
+187 186 190 192 189 193 191 188
+fjky 2 5
+125 123 122 124 126
+lmwc 3 4
+71 70 72 73
+iajq 1 2
+207 206
+uqpd 0 1
+0
+cotp 8 8
+231 233 229 228 227 232 230 226
+xoyn 4 8
+226 230 229 232 227 231 233 228
+rliw 2 6
+223 220 219 222 224 221
+sihb 1 2
+142 143
+rejt 2 3
+51 52 50
+ezpz 4 6
+151 153 150 152 149 148
+ludq 3 8
+234 235 230 229 232 231 233 228
+nioz 6 8
+69 67 65 64 63 68 66 62
+cgkz 3 6
+180 177 178 179 181 176
+eodu 4 6
+174 171 172 175 173 170
+flpb 0 1
+159
+ptmk 2 7
+97 94 95 93 96 92 98
+qyci 2 3
+102 103 101
+gdqm 0 1
+33
+ndvn 2 2
+216 215
+sgan 0 1
+148
+srax 0 1
+196
+hblq 0 1
+37
+mrnj 0 1
+38
+gcwq 3 5
+213 211 214 212 210
+mjuo 0 1
+43
+rzxz 0 1
+41
+hikk 3 6
+245 247 248 246 243 244
+krnv 1 2
+64 65
+ghls 0 1
+110
+ufqa 3 5
+156 152 154 153 155
+hfzz 4 6
+105 109 108 106 107 104
+pbax 3 4
+75 74 73 72
+hwtc 4 7
+217 221 220 218 219 222 223
+gfyy 2 5
+3 0 1 2 4
+jqgt 3 5
+238 240 242 239 241
+tpmv 0 1
+51
+fxxt 1 2
+123 122
+lxtb 2 5
+101 98 99 102 100
+hdge 4 5
+40 44 41 42 43
+mjzg 2 5
+123 122 121 120 124
+wmac 1 3
+83 84 85
+smnd 2 6
+6 3 2 5 4 7
+wasg 7 8
+175 177 179 178 173 176 172 174
+gbto 2 4
+31 32 30 33
+ulbo 5 5
+197 200 199 201 198
+iaoj 7 7
+149 144 148 150 145 146 147
+squw 4 7
+54 55 52 49 53 50 51
+qtsn 3 6
+8 6 9 10 7 11
+eshy 0 1
+64
+eqwl 1 2
+54 55
+elkx 7 7
+133 129 130 132 128 131 127
+vfwf 4 8
+201 202 198 196 197 203 200 199
+csys 7 7
+109 111 105 107 106 110 108
+skas 1 4
+93 92 91 90
+nzye 0 3
+90 89 88
+gnsg 0 1
+71
+qczk 2 4
+246 244 245 247
+dmya 3 4
+190 188 191 189
+bzok 5 6
+28 29 27 30 25 26
+ajal 4 8
+211 206 208 212 213 207 210 209
+oxlo 1 4
+246 247 248 245
+pzem 4 7
+215 220 214 219 218 216 217
+hmbp 1 3
+140 139 141
+vpjm 6 7
+51 56 52 53 55 54 50
+gjjk 0 1
+210
+zczt 4 6
+34 32 33 37 35 36
+cgfv 3 6
+23 25 22 24 20 21
+asta 2 3
+160 158 159
+wsfv 1 1
+220
+kfjj 4 6
+77 73 72 76 75 74
+nzvt 2 5
+116 113 114 115 117
+qvhi 1 3
+142 141 140
+knbi 3 4
+108 109 110 111
+ztkw 1 1
+89
+ruxi 3 8
+127 129 130 123 124 126 128 125
+mlrf 2 4
+74 75 73 72
+irxl 0 1
+229
+qbwn 6 6
+160 164 162 165 163 161
+ower 1 2
+136 135
+osdj 0 1
+95
+sbmg 1 2
+154 153
+sbol 0 1
+56
+hxkw 3 5
+153 154 152 156 155
+yfti 1 2
+201 200
+isez 4 7
+89 91 92 93 90 95 94
+nblr 0 1
+101
+ewij 0 2
+124 123
+iwym 3 5
+124 126 123 122 125
+dgab 2 3
+56 57 55
+alae 0 1
+114
+xoqm 4 7
+209 210 212 211 207 213 208
+ugyb 4 5
+104 109 107 105 106
+mjrh 1 2
+180 179
+xvwq 2 4
+213 211 212 210
+rekg 0 1
+110
+jxup 3 6
+135 131 132 134 133 130
+plsa 4 7
+230 227 226 225 228 231 229
+ykpf 7 8
+125 126 129 127 130 131 128 124
+voaq 1 5
+49 45 46 47 48
+bkvz 6 8
+156 155 154 157 158 160 161 159
+padi 2 3
+234 232 233
+qklt 2 3
+34 32 33
+lvzo 2 7
+217 219 218 214 215 216 213
+fasb 6 6
+235 230 234 232 233 231
+wynb 2 3
+155 154 153
+vdxg 4 8
+106 110 113 109 111 108 112 107
+uhkp 2 5
+173 176 177 174 175
+fqbf 0 1
+232
+ybbh 6 6
+127 130 129 131 128 126
+avhx 1 5
+4 6 5 8 7
+vydp 3 5
+137 138 141 140 139
+pdlf 1 4
+113 112 115 114
+oyrc 1 5
+207 209 208 205 206
+gjve 4 6
+92 91 95 93 94 90
+bnrt 0 1
+130
+njxu 4 5
+114 111 110 113 112
+wndt 1 2
+6 5
+fmba 4 8
+177 179 181 176 174 178 180 175
+aygn 3 6
+22 21 23 20 24 25
+fzkk 1 5
+219 217 220 216 218
+fenv 3 3
+7 6 5
+rjod 4 6
+194 197 199 196 195 198
+clgz 3 4
+41 42 40 43
+ugbk 3 4
+13 11 12 10
+nqab 1 5
+176 178 177 179 175
+gmhr 0 1
+141
+iudy 4 6
+76 78 80 79 75 77
+btql 3 4
+207 205 204 206
+iouq 2 6
+100 98 96 99 97 95
+xfzx 4 7
+62 65 63 67 66 68 64
+zxsw 5 7
+11 13 10 7 8 12 9
+tdmc 4 6
+172 174 176 175 177 173
+wmtr 0 2
+145 146
+vccy 5 8
+205 206 203 202 200 204 207 201
+hczk 0 2
+146 145
+rpzv 1 4
+127 128 129 126
+bknu 0 1
+178
+sftr 2 6
+233 232 234 235 231 230
+lwnj 3 4
+67 68 65 66
+zhmr 3 3
+160 158 159
+iprh 0 1
+128
+tlxf 1 4
+106 107 105 104
+fiij 2 6
+181 184 180 183 185 182
+vgwm 4 5
+54 52 53 51 50
+vgad 1 6
+3 1 0 2 4 5
+dwkg 0 1
+60
+rwkz 1 3
+98 96 97
+xtmr 2 2
+46 47
+wpef 5 6
+235 238 237 240 239 236
+hzdm 5 7
+194 195 198 193 196 197 192
+nkwf 0 1
+179
+njwo 3 6
+76 78 79 77 75 74
+eigv 2 3
+15 17 16
+ticm 0 3
+220 221 222
+afes 4 6
+246 245 249 248 247 244
+qtfk 0 1
+30
+cwvi 3 4
+44 42 41 43
+fhna 0 1
+173
+wwxa 4 6
+1 5 4 3 0 2
+qado 2 3
+220 219 218
+cntn 1 5
+166 164 167 163 165
+yzjk 0 2
+168 169
+ojzb 2 5
+247 246 248 249 245
+vrmu 2 2
+220 221
+kvio 6 6
+86 81 82 85 83 84
+xdiu 4 8
+120 118 123 124 121 119 125 122
+dsas 0 1
+137
+inox 0 1
+183
+qpne 3 8
+46 50 45 51 48 49 47 52
+hgrq 3 7
+154 151 152 149 153 150 148
+dbdy 1 2
+109 108
+wgfy 1 1
+42
+imgr 7 8
+22 23 21 24 28 25 26 27
+ixjm 1 2
+61 60
+rqum 3 4
+170 172 171 169
+nnbu 2 4
+230 228 229 231
+hpmn 0 1
+192
+zjqy 3 4
+26 28 27 29
+coav 0 1
+194
+afuj 1 1
+195
+qvxc 0 1
+46
+jxyb 8 8
+64 60 65 66 62 67 61 63
+ehog 0 2
+162 163
+vomj 1 2
+202 201
+tdij 1 5
+230 233 231 232 229
+tkjw 4 6
+196 197 194 195 199 198
+czbo 1 3
+52 51 53
+zwqk 0 1
+203
+fjki 1 2
+191 190
+cqop 0 2
+226 227
+uysa 4 8
+153 154 156 155 152 151 158 157
+qzqw 5 7
+28 31 32 27 30 26 29
+cmqo 2 3
+202 200 201
+sewn 2 4
+240 241 242 243
+gmeb 3 3
+216 215 217
+izur 4 8
+70 66 67 71 73 69 72 68
+racx 1 2
+25 26
+tjws 4 8
+143 138 137 136 139 141 140 142
+uegu 1 2
+170 171
+nlil 4 5
+230 228 227 226 229
+aaye 4 7
+138 135 133 137 134 132 136
+gyub 1 2
+209 208
+wpzc 3 3
+249 248 247
+azvl 4 8
+112 117 114 111 113 115 110 116
+myie 0 1
+93
+jbav 0 1
+221
+dwac 2 8
+37 39 32 35 36 34 33 38
+hbmw 3 4
+135 134 132 133
+yfcm 0 1
+224
+bgja 4 5
+230 229 228 227 231
+bvuo 1 1
+226
+vzor 4 5
+146 148 149 150 147
+xedz 0 1
+187
+kjhx 1 4
+100 102 101 103
+deug 4 4
+210 213 211 212
+koyo 1 4
+230 229 228 231
+vgpr 5 5
+38 37 39 41 40
+cgcd 4 4
+30 29 31 28
+pgnx 2 4
+182 183 181 180
+tjnw 0 3
+150 148 149
+241 250
+imxl zzij coho bzri gadz aerb njqp xcxq qjvp qhpp otur qpix hvwn algn skqx zfbe fwos qkjo qgjo xrjv vxwj jskz qpmm jcqk mysx welf muoi fezj szfh wgxb tgos jdyp djoa txoo lleh jowx grga grkl bwwk mbmk rhfb qami ibjg tpud tuja wweo jhcg fnqt ycjs pfre tjsd tjgw xvsy izmh mjuf umsh avrw hwja ajfn jnks utml fhhn cvjd zhiq vrsm jtsr mfup zuth ivvt wrnq juvb ezjb ylvv kbkg syth zoyq smci ivwm faxv vbcu czul jsuc jiqs ecje bwse ntlm uuck ynwd zaqm vvii axoe iuua vaxo hayo tega mcnr rwok ksmh zpue ifel dkri dhik mhcl fkyz naeu gtro dnya ugtk zfsk wjqz brrx tcbd swxx pkbo pvfg ehyq ytoi jxlq pagc rufo tcky kuqf bjwh loce fpfu dvaa jcvy lhil bkjv fobc krff lfrv iqmd gfnw wdpd jdmu nojv xepf qwop wjzj aqfp qsdl hplp muqz ywge ljrm qhnd echu xhof yzgh qynj kalb qzbj liii veqz preu qakb yece ouvl fxvq bfop eony pvkt efdr micv cixu otsx tepw vcjj tcve mlwh eomm hcki zulc ggee epux nctu sgwv dzqy sbgv hcvb vcju qfgv vrhh nuim cvlo psmd gcas qzex vmav emic lyds rxmd qrjn efzc zpcv labi buwt wemr dpzm vdfb xxjd aioo zais cwpa cril uqxo qtbt mseh itdl gjmv yfgt yeqc igen wohs wohb zqiw ysxe duuv xzdh cgnr gvuu hzmt epck caec abjj hszq oxej iqif ahjr mbti tmwf ymyl rqwb zlxp knrn hlyq ezsi hpsj ijmh euek wptt jnrn cvcq hlfd cskr plne iior wneb tzww
+imxl 1 5
+3 5 2 4 1
+zzij 0 2
+223 222
+coho 1 2
+178 179
+bzri 4 5
+18 16 17 19 20
+gadz 1 2
+55 54
+aerb 5 7
+197 199 201 198 195 196 200
+njqp 1 2
+146 147
+xcxq 2 3
+174 172 173
+qjvp 1 1
+48
+qhpp 1 1
+8
+otur 2 5
+81 80 82 83 84
+qpix 0 1
+10
+hvwn 6 7
+134 138 135 136 137 132 133
+algn 2 3
+204 203 202
+skqx 2 4
+109 108 107 106
+zfbe 1 2
+181 180
+fwos 1 2
+123 122
+qkjo 0 1
+29
+qgjo 2 3
+2 1 0
+xrjv 7 8
+10 15 12 13 14 17 16 11
+vxwj 6 8
+47 46 44 40 41 43 45 42
+jskz 0 1
+20
+qpmm 1 1
+124
+jcqk 4 7
+171 168 167 172 170 166 169
+mysx 4 5
+104 102 103 106 105
+welf 0 1
+50
+muoi 5 5
+59 57 56 60 58
+fezj 2 5
+177 178 176 179 175
+szfh 4 6
+154 155 153 150 152 151
+wgxb 0 2
+171 170
+tgos 2 2
+130 131
+jdyp 1 2
+128 129
+djoa 1 2
+187 186
+txoo 0 1
+32
+lleh 0 1
+33
+jowx 0 1
+120
+grga 1 4
+212 214 215 213
+grkl 3 8
+44 47 46 42 43 48 49 45
+bwwk 0 1
+37
+mbmk 4 6
+29 31 32 28 30 33
+rhfb 2 8
+206 204 202 207 200 205 201 203
+qami 3 4
+21 20 19 18
+ibjg 5 7
+223 225 224 222 226 221 220
+tpud 1 2
+77 76
+tuja 4 5
+163 161 164 162 160
+wweo 0 1
+44
+jhcg 0 1
+45
+fnqt 1 1
+46
+ycjs 6 8
+196 201 194 200 197 195 198 199
+pfre 0 1
+48
+tjsd 2 4
+51 53 52 54
+tjgw 1 2
+65 64
+xvsy 1 3
+89 88 90
+izmh 2 3
+174 175 176
+mjuf 1 1
+53
+umsh 0 2
+116 115
+avrw 2 3
+86 87 88
+hwja 4 4
+181 180 182 183
+ajfn 1 3
+204 205 206
+jnks 1 2
+124 125
+utml 3 4
+200 202 201 203
+fhhn 0 1
+60
+cvjd 0 2
+248 249
+zhiq 4 5
+230 231 234 233 232
+vrsm 1 2
+204 205
+jtsr 0 1
+64
+mfup 0 2
+100 101
+zuth 0 2
+60 59
+ivvt 7 7
+200 199 203 201 204 202 198
+wrnq 4 8
+180 176 183 179 178 177 181 182
+juvb 3 4
+1 2 3 0
+ezjb 3 5
+13 12 16 14 15
+ylvv 5 6
+112 114 111 113 110 115
+kbkg 0 2
+188 189
+syth 0 1
+172
+zoyq 0 1
+74
+smci 0 1
+75
+ivwm 4 8
+147 146 148 150 145 149 144 143
+faxv 0 1
+77
+vbcu 1 1
+85
+czul 3 3
+211 212 210
+jsuc 3 7
+154 156 159 160 158 155 157
+jiqs 2 5
+162 160 161 163 164
+ecje 4 5
+233 236 235 234 232
+bwse 0 1
+83
+ntlm 7 8
+62 58 57 56 60 59 61 55
+uuck 6 6
+64 61 63 65 60 62
+ynwd 1 3
+246 245 244
+zaqm 0 1
+87
+vvii 5 6
+216 218 215 217 220 219
+axoe 0 1
+40
+iuua 2 5
+20 22 18 21 19
+vaxo 1 3
+240 238 239
+hayo 0 1
+92
+tega 2 2
+233 232
+mcnr 4 4
+152 151 153 150
+rwok 5 7
+18 14 15 17 16 19 20
+ksmh 6 8
+137 140 138 136 143 142 141 139
+zpue 0 1
+224
+ifel 4 8
+31 34 32 27 29 28 30 33
+dkri 4 8
+50 57 51 56 55 52 53 54
+dhik 3 8
+35 37 41 38 34 40 36 39
+mhcl 0 1
+66
+fkyz 0 1
+210
+naeu 3 6
+210 209 212 213 211 208
+gtro 2 7
+219 221 217 215 218 220 216
+dnya 3 4
+17 14 15 16
+ugtk 2 4
+232 235 233 234
+zfsk 1 2
+72 73
+wjqz 1 3
+159 160 158
+brrx 5 7
+1 3 5 2 6 0 4
+tcbd 6 8
+148 145 147 150 151 146 149 152
+swxx 3 7
+208 204 205 203 207 202 206
+pkbo 0 1
+112
+pvfg 0 2
+167 166
+ehyq 2 2
+160 161
+ytoi 0 1
+160
+jxlq 3 7
+138 136 142 140 139 141 137
+pagc 0 1
+117
+rufo 1 1
+118
+tcky 5 8
+81 82 85 84 80 86 87 83
+kuqf 0 1
+120
+bjwh 1 4
+87 84 85 86
+loce 1 3
+81 80 82
+fpfu 4 7
+158 160 162 161 159 157 156
+dvaa 0 1
+124
+jcvy 4 5
+75 73 76 74 72
+lhil 4 5
+234 238 235 237 236
+bkjv 0 1
+127
+fobc 0 1
+221
+krff 0 1
+129
+lfrv 2 4
+140 138 139 141
+iqmd 4 5
+43 40 42 44 41
+gfnw 4 7
+207 210 205 208 209 204 206
+wdpd 2 4
+146 149 147 148
+jdmu 0 1
+180
+nojv 1 1
+135
+xepf 4 4
+49 47 48 50
+qwop 0 1
+137
+wjzj 0 1
+138
+aqfp 5 7
+130 132 135 136 133 131 134
+qsdl 0 1
+140
+hplp 2 4
+174 175 177 176
+muqz 6 8
+226 221 227 225 224 223 220 222
+ywge 6 8
+37 34 36 35 32 33 30 31
+ljrm 5 7
+246 241 245 242 243 240 244
+qhnd 0 1
+145
+echu 1 3
+96 94 95
+xhof 0 1
+172
+yzgh 6 8
+51 50 52 48 46 47 53 49
+qynj 3 4
+51 52 53 50
+kalb 1 4
+25 24 22 23
+qzbj 4 5
+168 166 167 165 164
+liii 4 7
+59 57 56 61 58 60 55
+veqz 0 1
+153
+preu 5 7
+106 104 101 100 102 105 103
+qakb 3 8
+150 154 153 152 151 149 148 155
+yece 0 1
+156
+ouvl 0 1
+170
+fxvq 2 6
+171 172 170 173 174 175
+bfop 2 8
+132 131 130 137 133 136 134 135
+eony 3 3
+61 59 60
+pvkt 3 5
+12 11 9 10 8
+efdr 5 8
+214 218 220 216 221 215 217 219
+micv 1 2
+27 26
+cixu 2 7
+49 51 45 46 50 47 48
+otsx 1 1
+165
+tepw 0 2
+92 93
+vcjj 3 4
+149 148 150 151
+tcve 1 2
+222 221
+mlwh 2 5
+192 190 193 194 191
+eomm 6 7
+71 69 68 72 66 70 67
+hcki 0 1
+30
+zulc 4 7
+224 223 228 226 227 225 229
+ggee 3 6
+247 249 245 248 246 244
+epux 0 1
+0
+nctu 4 7
+121 120 118 124 119 123 122
+sgwv 2 3
+248 249 247
+dzqy 0 1
+100
+sbgv 8 8
+131 135 133 132 128 134 129 130
+hcvb 2 7
+141 145 144 142 146 143 140
+vcju 5 6
+105 102 103 100 104 101
+qfgv 1 3
+33 34 32
+vrhh 4 8
+159 154 158 161 160 155 156 157
+nuim 2 8
+113 108 109 112 115 110 114 111
+cvlo 0 1
+160
+psmd 1 2
+242 243
+gcas 1 2
+168 167
+qzex 0 1
+94
+vmav 0 1
+188
+emic 0 1
+189
+lyds 1 1
+228
+rxmd 1 4
+177 174 175 176
+qrjn 1 3
+42 41 40
+efzc 3 5
+126 124 127 128 125
+zpcv 0 1
+40
+labi 2 3
+55 54 56
+buwt 3 4
+176 177 174 175
+wemr 0 1
+216
+dpzm 0 1
+63
+vdfb 4 8
+103 100 101 104 105 102 106 107
+xxjd 2 3
+54 55 53
+aioo 3 7
+150 154 149 152 153 148 151
+zais 1 3
+228 229 227
+cwpa 2 6
+114 115 111 113 110 112
+cril 1 1
+245
+uqxo 0 1
+205
+qtbt 3 8
+201 202 198 197 200 199 195 196
+mseh 4 8
+42 40 37 43 36 41 38 39
+itdl 2 5
+108 106 110 107 109
+gjmv 2 4
+71 73 70 72
+yfgt 1 1
+210
+yeqc 1 3
+137 136 138
+igen 1 2
+56 57
+wohs 0 1
+213
+wohb 3 4
+206 207 205 208
+zqiw 0 1
+215
+ysxe 5 6
+205 209 206 207 208 210
+duuv 5 6
+176 172 177 173 174 175
+xzdh 0 1
+117
+cgnr 2 5
+54 52 50 51 53
+gvuu 3 4
+223 224 220 222
+hzmt 1 1
+221
+epck 0 1
+222
+caec 1 2
+38 39
+abjj 1 2
+100 101
+hszq 1 2
+159 158
+oxej 4 5
+80 78 77 79 81
+iqif 1 2
+138 139
+ahjr 2 4
+96 95 93 94
+mbti 1 2
+200 201
+tmwf 4 5
+57 58 54 55 56
+ymyl 5 6
+234 229 231 228 230 233
+rqwb 0 1
+224
+zlxp 7 8
+241 236 243 240 238 242 237 239
+knrn 6 7
+158 161 155 160 156 157 159
+hlyq 5 7
+206 205 202 208 203 207 204
+ezsi 6 7
+97 101 102 100 98 96 99
+hpsj 2 3
+65 64 66
+ijmh 3 6
+83 81 82 80 85 84
+euek 2 5
+120 121 124 122 123
+213 250
+qgcb mzwy uebm hdqs vaas boeb owau dkgl xalj vnzg lhpg frgj lcte cjlm rsue uaeu umnf gifb ivvb fvlp guat eyxy cwaq gshx supj exec qytc zncn qlyk rwsa hkrl vsse kkbv abch utie mhua zsms ytpb swnn zcth crqi tjgk lqhm olyd uxpu vtie xnol rtvx dcbh oxyw otna flvm uicr ohnf dzgx ewjs byuo tbny vnfg alry leqr qxhd qbfn zmyf ccjw sqan tros omgz axqa ktho ykca exjo tuoz jkuz dcek ufly gevp cynu wpae lars zbxv rnqh myeu usac pexs jtqe emgy qpjf uwrf tezg eyhd idfu zshb xldt wbvs bywy qlzr zova qhph dqrf wkvl nhoc zbpe tbuv snvq egnm plne bath mnel oowf ahha geol mezq qsya ubtd eunj mlrr rsur oraj paur ccwu mgmu rzgl gnoz rhsz zbol oywe ucpq ackx zdtu ikoq wbkm ljea acpy avrq rkmd cvvq eojr kdqn yjfj fith hhnh djmw jqed fphs swam ackk birx pmzz awgg jyyd tmxi plwr vbrk bgcv tqyf vflo bnwo lycn lleq dyxh zpyt oohs jakb xasy xvpt moan zzir vtip idlv asfm ojmx vvex pnzn eqwt riqs kdtf rzqh ijoj dycr hiwe snxa tmic buwc cwuf mpcd tpjn ndpc aotp jaqa hunx pzjd ijiz fcru zacz pous thsp dagh tbgz isrf kxfz jcpl fbir ecdo ugwy gwaz dlce pelg yopr ewss uozv qivy pscw wzvr ptiw uvuu juqk eupj vwue jddf iehe fvje ydfu arix gxyv vqyh xpdk iyio xdur sudc ldrh vajz ornu nqjm zvce oszv ngek bjka oihm bthz jkop gynk hmqc tjnc oobv kzsz bjri kccg oxnw qyca
+qgcb 1 2
+1 2
+mzwy 0 1
+91
+uebm 1 3
+127 126 128
+hdqs 1 2
+180 181
+vaas 3 5
+96 94 97 95 98
+boeb 2 5
+47 46 45 48 49
+owau 7 8
+210 213 215 208 214 212 209 211
+dkgl 0 2
+107 106
+xalj 0 1
+7
+vnzg 5 8
+188 186 181 183 187 184 182 185
+lhpg 3 6
+23 24 21 22 20 25
+frgj 1 5
+97 101 99 100 98
+lcte 2 4
+84 85 86 87
+cjlm 0 1
+192
+rsue 2 5
+153 152 155 156 154
+uaeu 0 2
+225 226
+umnf 0 1
+2
+gifb 3 7
+241 240 244 243 242 245 246
+ivvb 1 2
+231 230
+fvlp 3 4
+147 148 149 150
+guat 4 4
+172 170 173 171
+eyxy 0 3
+104 106 105
+cwaq 0 1
+21
+gshx 4 8
+114 117 113 110 116 112 115 111
+supj 1 2
+48 49
+exec 0 1
+24
+qytc 1 1
+6
+zncn 5 8
+226 220 223 221 222 219 224 225
+qlyk 0 1
+27
+rwsa 0 1
+28
+hkrl 0 1
+29
+vsse 3 4
+207 208 209 210
+kkbv 2 6
+152 149 151 153 150 148
+abch 1 1
+123
+utie 0 1
+33
+mhua 0 1
+34
+zsms 7 8
+85 91 89 88 84 87 86 90
+ytpb 5 8
+88 92 95 91 93 89 94 90
+swnn 1 2
+52 53
+zcth 4 7
+97 95 93 92 94 96 98
+crqi 0 1
+39
+tjgk 1 4
+182 181 184 183
+lqhm 1 1
+220
+olyd 1 5
+175 174 173 172 171
+uxpu 1 4
+5 6 4 7
+vtie 1 3
+167 166 165
+xnol 1 2
+136 137
+rtvx 2 6
+9 6 10 11 8 7
+dcbh 3 4
+73 72 75 74
+oxyw 1 1
+48
+otna 2 3
+2 1 0
+flvm 4 7
+176 179 180 174 177 175 178
+uicr 4 7
+110 108 114 111 112 109 113
+ohnf 0 2
+84 85
+dzgx 2 2
+216 217
+ewjs 7 7
+117 115 119 120 118 121 116
+byuo 4 6
+249 247 244 248 246 245
+tbny 3 4
+15 17 14 16
+vnfg 1 4
+99 98 101 100
+alry 1 3
+146 147 145
+leqr 7 8
+100 105 103 107 106 102 104 101
+qxhd 2 6
+76 75 73 77 72 74
+qbfn 7 8
+94 92 95 88 89 90 93 91
+zmyf 1 2
+210 211
+ccjw 4 4
+248 249 246 247
+sqan 0 1
+64
+tros 4 8
+238 236 241 237 234 239 240 235
+omgz 7 8
+144 145 141 142 143 140 146 147
+axqa 4 5
+13 14 12 10 11
+ktho 2 3
+99 100 98
+ykca 2 7
+242 244 245 241 246 243 240
+exjo 3 5
+78 81 79 80 77
+tuoz 2 3
+42 43 44
+jkuz 0 1
+72
+dcek 1 3
 6 7 8
-juik 1 3
-8 9 10
-dqbc 6 7
-0 1 2 3 4 5 6
+ufly 1 3
+152 150 151
+gevp 0 1
+96
+cynu 2 6
+198 200 201 199 197 202
+wpae 0 1
+77
+lars 2 4
+170 168 167 169
+zbxv 0 1
+79
+rnqh 7 8
+172 170 171 175 174 168 173 169
+myeu 2 7
+235 233 232 234 238 236 237
+usac 5 6
+52 56 51 54 53 55
+pexs 0 2
+114 115
+jtqe 2 6
+10 12 15 11 13 14
+emgy 6 6
+85 83 80 81 84 82
+qpjf 5 6
+4 3 7 2 6 5
+uwrf 3 7
+100 98 101 102 99 104 103
+tezg 2 2
+115 116
+eyhd 7 8
+196 191 190 197 195 194 193 192
+idfu 0 1
+90
+zshb 4 4
+166 164 165 167
+xldt 7 7
+58 53 54 55 56 52 57
+wbvs 2 4
+9 11 8 10
+bywy 6 8
+61 57 55 62 60 58 59 56
+qlzr 4 8
+10 7 11 6 5 4 8 9
+zova 4 8
+55 49 56 52 53 50 51 54
+qhph 2 5
+188 184 187 186 185
+dqrf 0 1
+45
+wkvl 0 1
+99
+nhoc 0 1
+166
+zbpe 4 8
+129 128 134 132 131 133 130 135
+tbuv 1 1
+52
+snvq 1 3
+64 62 63
+egnm 1 2
+156 155
+plne 0 2
+179 178
+bath 2 3
+34 33 32
+mnel 3 4
+29 27 28 26
+oowf 3 4
+209 207 206 208
+ahha 1 1
+109
+geol 1 1
+101
+mezq 0 1
+20
+qsya 2 2
+217 216
+ubtd 7 8
+125 121 122 123 118 119 124 120
+eunj 4 4
+202 200 203 201
+mlrr 1 4
+205 204 203 202
+rsur 0 2
+26 25
+oraj 7 7
+67 66 68 71 70 69 72
+paur 1 4
+184 186 183 185
+ccwu 2 3
+190 192 191
+mgmu 4 7
+122 123 119 125 124 120 118
+rzgl 0 2
+180 181
+gnoz 2 2
+130 131
+rhsz 1 3
+170 171 172
+zbol 2 7
+0 4 1 6 3 5 2
+oywe 2 6
+48 49 50 53 51 52
+ucpq 2 3
+1 2 0
+ackx 0 1
+127
+zdtu 1 2
+232 231
+ikoq 3 4
+191 190 192 193
+wbkm 2 5
+52 51 48 50 49
+ljea 1 2
+47 46
+acpy 5 8
+60 64 61 63 65 62 58 59
+avrq 0 1
+133
+rkmd 3 6
+224 223 220 221 222 225
+cvvq 7 8
+210 212 207 213 206 208 211 209
+eojr 4 7
+114 109 115 113 112 110 111
+kdqn 3 6
+118 116 121 117 120 119
+yjfj 5 8
+235 236 229 233 232 230 234 231
+fith 2 3
+143 141 142
+hhnh 1 5
+49 51 50 47 48
+djmw 2 8
+195 197 194 192 199 193 198 196
+jqed 0 2
+3 2
+fphs 0 2
+26 27
+swam 2 3
+65 67 66
+ackk 0 1
+116
+birx 1 2
+114 113
+pmzz 4 5
+78 80 79 81 82
+awgg 2 6
+36 38 39 34 37 35
+jyyd 0 1
+149
+tmxi 1 3
+161 163 162
+plwr 0 1
+182
+vbrk 0 1
+152
+bgcv 2 5
+59 58 60 57 56
+tqyf 4 7
+241 235 238 240 237 236 239
+vflo 0 1
+72
+bnwo 7 8
+231 227 233 229 228 230 232 226
+lycn 5 5
+216 219 218 220 217
+lleq 3 7
+118 124 122 121 123 119 120
+dyxh 4 7
+12 15 11 14 10 13 16
+zpyt 0 1
+160
+oohs 2 6
+41 44 43 45 40 42
+jakb 0 1
+116
+xasy 1 3
+194 196 195
+xvpt 7 8
+56 53 51 50 57 52 54 55
+moan 4 7
+2 6 8 5 7 4 3
+zzir 3 4
+113 111 114 112
+vtip 2 3
+184 182 183
+idlv 2 4
+167 165 168 166
+asfm 6 7
+24 21 20 26 25 22 23
+ojmx 0 1
+170
+vvex 6 7
+152 150 153 154 156 151 155
+pnzn 0 1
+22
+eqwt 4 6
+73 71 68 72 70 69
+riqs 1 2
+75 76
+kdtf 2 6
+77 73 72 75 74 76
+rzqh 1 2
+78 77
+ijoj 1 2
+160 161
+dycr 1 2
+241 242
+hiwe 4 6
+93 92 95 94 90 91
+snxa 1 5
+162 161 160 159 158
+tmic 2 4
+51 48 49 50
+buwc 2 4
+167 166 169 168
+cwuf 2 4
+128 126 127 129
+mpcd 5 7
+49 50 47 51 48 46 45
+tpjn 1 3
+76 74 75
+ndpc 0 1
+213
+aotp 0 1
+54
+jaqa 0 1
+15
+hunx 4 5
+63 60 61 64 62
+pzjd 4 7
+94 98 93 95 97 96 99
+ijiz 0 1
+22
+fcru 3 4
+73 75 76 74
+zacz 1 2
+17 16
+pous 4 4
+188 186 187 185
+thsp 0 1
+160
+dagh 2 3
+67 66 65
+tbgz 1 3
+32 34 33
+isrf 0 2
+149 150
+kxfz 1 1
+199
+jcpl 0 2
+102 103
+fbir 0 1
+201
+ecdo 1 1
+210
+ugwy 2 3
+166 164 165
+gwaz 3 4
+18 17 16 15
+dlce 2 2
+23 22
+pelg 5 5
+249 248 246 245 247
+yopr 2 2
+132 133
+ewss 0 1
+208
+uozv 0 1
+60
+qivy 2 3
+20 21 22
+pscw 2 3
+88 90 89
+204 250
+ppgs fedz qhye gltj avqn qsdn ywnl wnmw nkaz raja tthm iszn ghdf tiyn rcay vvkm pwod iueg ozgh ijys ijip amlj lqpp rywe mmhw kdbn qzqa cvdp onmr qjqf znmh qgts pfhb jtfi vylv sqxc rhzp ifvm fypa sizr zcdc kbcz uwes nvpd tsft buas ngaw khmk eygs jyze dphw japz qyic aidu bbog exlo xpxu rylo suyl rsun sadp xccn inoj mzql okgy hthk ozja shfd tvyi fmsq ubrg qtcb xtln jwnx xaqi jndi hesb lrxk acwf yanz khfl cwku qmcy ztrz pwmk cogu klcn xlso tnfx lnwt lnar onxf rpln chng lgrk jafa ygpv kdjl lthb szca zdsr qvob yecl uuzy gpoe bvrf vzfh jvhr cozb xjww agdz scqj rvoi avsm xbjh yyqb jcnc pugo pkbw mtny vhbp tlve llxb bgij yxgk tums ounn fflz qcll tkbb ldge ayiw vczz ewxx uplf ijwc qnax azwq jgpd lbcu mmoe gxck mets fsuk chhu fhsb jyuc vnnj ggte gtuk sqtq wcvc febt doeh tckc ffwt nidj knyy reja penm xwge kdlg nkuj ddnn smjc ddxj ttkz eckg zqeq xsin zhsw saoo zpmr empq tmir sfsa awsn ikpw anbh dcku gqmt dlky mqfo cden nfmi kwrn cedy zmbx uyey lnqv qidh tbof iwpx gptn mqjg zbth jsei qlof mtzb rjkg fcsa focg xpol pqcz upzy twcx ugqa jzhv tkhh aidr oxnn thvd qvmg rupr jmtt iooz fjsa dfmp kuad jrvg mype ccvb erpr elnb flky enon tclw npoq kogx fgco fhoh eati dzcn lebr urhl qxvi fyld aowa ugpa ypkb lmxf mbre zlqm reto ibgn fzeg ckqn gtph trsl inag
+ppgs 0 1
+1
+fedz 1 3
+21 19 20
+qhye 2 3
+106 104 105
+gltj 4 4
+212 210 213 211
+avqn 2 6
+220 225 222 223 221 224
+qsdn 2 4
+25 28 26 27
+ywnl 3 4
+20 23 21 22
+wnmw 1 1
+46
+nkaz 0 1
+7
+raja 2 5
+1 3 2 5 4
+tthm 0 2
+61 60
+iszn 3 5
+8 7 10 9 12
+ghdf 1 3
+27 26 28
+tiyn 0 2
+35 36
+rcay 0 1
+13
+vvkm 1 4
+3 0 2 1
+pwod 1 2
+226 227
+iueg 0 1
+16
+ozgh 5 5
+6 7 10 9 8
+ijys 0 1
+18
+ijip 2 3
+241 240 242
+amlj 0 1
+20
+lqpp 2 6
+36 37 32 35 34 33
+rywe 2 3
+234 232 233
+mmhw 2 5
+32 33 31 34 30
+kdbn 6 6
+2 1 3 4 5 0
+qzqa 7 8
+94 90 91 95 92 96 93 97
+cvdp 6 6
+181 178 179 180 183 182
+onmr 4 7
+236 232 237 235 238 234 233
+qjqf 6 8
+81 87 85 80 83 84 86 82
+znmh 7 8
+25 22 20 27 23 26 24 21
+qgts 3 6
+219 220 218 216 217 221
+pfhb 7 7
+243 238 242 240 244 239 241
+jtfi 4 4
+80 81 78 79
+vylv 4 7
+98 93 96 94 95 92 97
+sqxc 1 2
+225 226
+rhzp 1 1
+35
+ifvm 8 8
+46 48 45 42 44 41 47 43
+fypa 2 5
+208 212 211 209 210
+sizr 5 6
+187 190 189 186 188 185
+zcdc 0 1
+39
+kbcz 4 6
+246 243 247 244 242 245
+uwes 4 6
+130 132 128 131 129 133
+nvpd 5 6
+140 136 137 141 139 138
+tsft 2 4
+140 143 141 142
+buas 2 4
+140 142 143 141
+ngaw 0 1
+45
+khmk 1 4
+182 180 179 181
+eygs 2 4
+125 123 122 124
+jyze 0 1
+48
+dphw 2 4
+150 153 151 152
+japz 6 8
+193 192 196 195 198 191 197 194
+qyic 1 5
+117 118 116 115 114
+aidu 5 7
+68 71 67 73 72 70 69
+bbog 4 4
+172 175 173 174
+exlo 1 1
+30
+xpxu 4 7
+112 116 113 111 115 110 114
+rylo 2 3
+115 114 113
+suyl 2 5
+160 161 164 162 163
+rsun 0 1
+58
+sadp 5 8
+203 206 204 205 200 207 202 201
+xccn 4 7
+183 182 180 179 181 184 185
+inoj 3 3
+178 176 177
+mzql 8 8
+159 156 158 162 157 161 160 163
+okgy 1 1
+63
+hthk 8 8
+192 191 186 185 187 189 190 188
+ozja 5 6
+190 191 194 192 195 193
+shfd 3 3
+248 249 247
+tvyi 4 4
+167 169 168 166
+fmsq 6 7
+172 175 176 171 177 174 173
+ubrg 6 7
+86 84 81 83 80 85 82
+qtcb 0 1
+70
+xtln 6 7
+52 48 46 49 51 47 50
+jwnx 3 4
+8 5 6 7
+xaqi 4 7
+148 152 149 153 150 154 151
+jndi 0 1
+100
+hesb 0 2
+42 43
+lrxk 1 3
+85 86 84
+acwf 3 7
+136 137 134 138 132 133 135
+yanz 1 3
+119 118 117
+khfl 4 6
+211 212 213 210 214 215
+cwku 5 6
+211 209 208 210 212 213
+qmcy 0 1
+81
+ztrz 3 5
+176 174 177 173 175
+pwmk 5 6
+56 57 55 54 52 53
+cogu 1 3
+21 20 22
+klcn 4 5
+144 142 141 143 140
+xlso 0 1
+109
+tnfx 1 2
+27 26
+lnwt 5 6
+185 182 184 183 180 181
+lnar 2 4
+91 93 94 92
+onxf 0 1
+90
+rpln 5 7
+28 27 24 25 26 23 22
+chng 1 4
+218 217 215 216
+lgrk 7 8
+30 32 37 35 31 33 36 34
+jafa 0 1
+185
+ygpv 0 1
+95
+kdjl 0 1
+96
+lthb 0 2
+171 170
+szca 2 4
+168 167 169 170
+zdsr 4 5
+4 2 3 1 0
+qvob 1 4
+2 3 4 5
+yecl 2 3
+138 140 139
+uuzy 5 5
+6 8 10 9 7
+gpoe 0 3
+236 235 234
+bvrf 3 7
+189 187 190 191 185 188 186
+vzfh 5 6
+237 236 239 240 241 238
+jvhr 5 6
+136 140 141 137 139 138
+cozb 2 4
+34 37 35 36
+xjww 5 7
+99 98 97 94 96 95 100
+agdz 1 2
+50 51
+scqj 1 3
+249 247 248
+rvoi 0 2
+18 19
+avsm 0 1
+112
+xbjh 0 1
+188
+yyqb 2 3
+41 40 42
+jcnc 5 8
+45 46 47 49 50 51 44 48
+pugo 4 6
+90 86 89 88 85 87
+pkbw 2 5
+57 60 56 59 58
+mtny 0 1
+180
+vhbp 7 7
+220 223 226 221 224 222 225
+tlve 2 4
+44 45 46 47
+llxb 3 4
+130 128 129 131
+bgij 2 4
+135 137 136 134
+yxgk 0 1
+142
+tums 2 6
+5 4 2 3 0 1
+ounn 5 7
+140 138 136 135 139 134 137
+fflz 5 7
+245 243 241 244 240 242 239
+qcll 1 1
+142
+tkbb 3 4
+183 184 185 182
+ldge 0 1
+129
+ayiw 0 1
+130
+vczz 0 1
+44
+ewxx 5 6
+137 138 134 139 136 135
+uplf 3 4
+51 52 50 53
+ijwc 1 2
+225 226
+qnax 1 2
+227 226
+azwq 7 8
+133 128 135 132 134 130 131 129
+jgpd 0 1
+78
+lbcu 4 7
+136 141 137 138 140 134 135
+mmoe 2 3
+141 142 143
+gxck 6 7
+239 242 241 240 244 238 243
+mets 0 1
+141
+fsuk 3 7
+107 108 109 105 111 106 110
+chhu 8 8
+228 231 226 232 227 230 229 233
+fhsb 1 5
+227 229 225 226 228
+jyuc 1 5
+203 205 206 202 204
+vnnj 4 5
+235 234 237 238 236
+ggte 5 5
+138 139 142 141 140
+gtuk 4 5
+116 118 119 117 115
+sqtq 7 8
+205 203 202 206 200 207 204 201
+wcvc 5 7
+126 124 127 130 128 129 125
+febt 3 4
+145 144 142 143
+doeh 4 5
+35 36 32 33 34
+tckc 3 7
+22 24 26 20 25 21 23
+ffwt 1 2
+130 131
+nidj 0 1
+155
+knyy 4 5
+212 211 210 213 214
+reja 3 8
+219 221 220 222 218 225 223 224
+penm 0 1
+158
+xwge 1 5
+163 164 161 165 162
+kdlg 1 3
+154 153 155
+nkuj 0 1
+161
+ddnn 0 2
+42 41
+smjc 1 2
+69 68
+ddxj 2 4
+242 240 243 241
+ttkz 4 8
+218 220 219 225 223 221 224 222
+eckg 4 5
+2 5 1 3 4
+zqeq 0 1
+92
+xsin 1 5
+56 53 57 54 55
+zhsw 2 6
+145 141 140 144 143 142
+saoo 2 7
+90 94 93 92 91 95 89
+zpmr 2 5
+177 174 176 173 175
+empq 4 5
+22 26 24 25 23
+tmir 4 8
+130 126 131 125 124 127 128 129
+sfsa 7 7
+152 151 155 153 156 154 150
+awsn 1 2
+43 42
+ikpw 4 5
+36 35 34 37 33
+anbh 1 2
+112 113
+dcku 7 8
+34 35 37 32 33 36 39 38
+gqmt 6 6
+105 103 101 104 100 102
+dlky 4 7
+218 215 220 217 221 216 219
+mqfo 3 3
+32 31 30
+cden 2 8
+73 68 66 70 69 71 72 67
+nfmi 0 1
+183
+kwrn 3 8
+1 5 0 3 4 2 7 6
+cedy 1 1
+185
+zmbx 8 8
+135 131 137 138 133 134 132 136
+uyey 5 6
+24 21 25 22 23 20
+lnqv 7 7
+46 49 45 47 44 43 48
+qidh 6 6
+11 14 10 13 12 15
+tbof 3 7
+50 53 54 51 52 48 49
+iwpx 0 1
+22
+gptn 2 4
+215 214 216 213
+mqjg 5 7
+65 62 63 64 67 68 66
+zbth 1 2
+175 176
+jsei 2 3
+128 127 126
+qlof 0 1
+55
+mtzb 6 6
+149 151 150 147 148 146
+rjkg 0 2
+59 60
+fcsa 1 2
+51 50
+focg 0 1
+200
+xpol 2 7
+91 96 93 95 90 94 92
+pqcz 5 7
+40 46 43 44 41 45 42
+205 250
+jtgu aemf fshp ytcr zuip fjft hbod iqbz gvej zxji ychx cpic beih apij nqto ozuc grvd jnot uges cggi eqxx qkez cnrc dhbx iayc ubeb ugkb daew ydrf cncj hhju ylji vbps upiu cwcj uxyq xhkh wnht vmgy ekoz zkgc vudp dnxc klos zxzy ycyt uxeh jndk pyob mqen adwm jqak yseg espf tyqz jjgj ojaa llny weim tinh cjfq wjlv qler icbh uwku xzvf agha zhvv dlnz glzu jvvl xzid mrjg udni bspp rbvq wykv liud gzls qwhg ppxe kkze voya elzz fgkq aace viye sfmn qiuf cdsz yiub tfiy figt murl mowh xwpg kbic wqjj ykgs zwne jwgh omgw mdek apxf pidw gjcd memx anxu ptbm ezlp ofmd rkxf itml fdfb jvqt yzrr axhw scic mhuu soka etni cfvr blao flrq qvej qsgs gcwu rsnv ozhk udan cdnz pijc hgrp enuf fnum zclx oevh hbep osye upki slli yigx edbn mcey nmjq ozdz bzok sqom okbc qdlo bwjd wmng mklt twvc bxyb crzl bkng lcqs wadn girg lkkv iafy jgbw tcyw vxnr bjet mupz fnvn zeii agfi tncz tcbu rroq jhna rrfz woaj koqq iyjp iplw vuwz bezh ziba lcqi johd ghoe bame jsdv wfgn cite cxbs nrzx mdhd qgmb zgtn ibcl yhlc blic vsdc favz zihn qviy esic iyiq yxzi iirs yswj aajt tvme beeo virh gssa jtmd roth dned gkfe qzvd sjyi kwhd kbjl qijc ilka grjo gimf vtkl rpvz fjte dbax mkfv tdjv wtpr fvhr hnyd afhr xlsi idhx uwmn uqil ioos vokx vdde bazz zpww jzkr qkoz kgaz kbeo uztn acqs iswg uiss
+jtgu 3 6
+5 1 3 4 6 2
+aemf 5 8
+145 151 148 146 150 147 149 144
+fshp 1 3
+77 78 76
+ytcr 6 6
+123 120 124 121 119 122
+zuip 2 5
+126 124 125 127 128
+fjft 0 1
+45
+hbod 0 1
+5
+iqbz 2 3
+134 135 136
+gvej 2 4
+52 53 50 51
+zxji 1 2
+93 92
+ychx 0 1
+9
+cpic 5 7
+188 186 185 191 189 187 190
+beih 1 2
+79 78
+apij 0 1
+69
+nqto 1 2
+72 73
+ozuc 1 3
+181 180 182
+grvd 0 1
+15
+jnot 2 5
+45 42 44 41 43
+uges 1 3
+241 240 242
+cggi 3 5
+87 83 85 86 84
+eqxx 4 4
+92 93 91 90
+qkez 4 4
+76 77 74 75
+cnrc 5 6
+27 24 28 26 25 23
+dhbx 0 1
+165
+iayc 1 4
+99 98 96 97
+ubeb 5 7
+131 125 129 128 130 126 127
+ugkb 3 4
+241 240 239 238
+daew 3 5
+120 122 121 119 118
+ydrf 2 2
+40 41
+cncj 4 6
+203 204 205 202 201 206
+hhju 7 8
+56 52 53 54 55 50 57 51
+ylji 0 1
+30
+vbps 2 5
+42 39 38 40 41
+upiu 2 3
+249 248 247
+cwcj 0 3
+16 18 17
+uxyq 2 5
+227 228 229 226 225
+xhkh 4 8
+16 17 18 22 20 21 19 23
+wnht 3 7
+7 8 5 4 6 3 2
+vmgy 0 2
+210 211
+ekoz 1 1
+110
+zkgc 2 7
+11 16 14 10 15 12 13
+vudp 4 8
+23 25 30 28 26 29 24 27
+dnxc 3 5
+50 51 48 49 52
+klos 1 4
+26 23 24 25
+zxzy 1 1
+43
+ycyt 4 7
+190 187 185 191 186 188 189
+uxeh 3 8
+232 228 229 234 233 230 231 235
+jndk 3 5
+53 55 54 56 52
+pyob 6 8
+24 26 23 25 27 29 22 28
+mqen 1 2
+135 136
+adwm 3 6
+51 55 56 53 52 54
+jqak 7 8
+31 28 33 27 34 29 32 30
+yseg 4 4
+29 27 28 26
+espf 2 6
+215 210 211 214 213 212
+tyqz 1 2
+152 153
+jjgj 3 8
+225 222 224 227 226 223 221 220
+ojaa 6 6
+219 216 218 221 220 217
+llny 7 7
+193 187 188 190 189 192 191
+weim 0 3
+245 244 246
+tinh 1 3
+217 215 216
+cjfq 4 7
+65 63 62 64 61 67 66
+wjlv 7 8
+200 196 199 193 197 198 194 195
+qler 5 6
+92 88 90 89 91 93
+icbh 1 3
+169 168 167
+uwku 1 1
+63
+xzvf 4 6
+60 59 57 56 58 55
+agha 1 2
+108 109
+zhvv 1 3
+38 36 37
+dlnz 2 3
+196 198 197
+glzu 6 6
+125 130 127 126 129 128
+jvvl 4 5
+2 0 3 4 1
+xzid 3 7
+199 202 200 201 203 205 204
+mrjg 1 6
+197 199 194 195 196 198
+udni 6 8
+88 90 91 86 87 89 84 85
+bspp 1 2
+16 17
+rbvq 6 6
+81 79 76 80 77 78
+wykv 4 5
+220 216 217 218 219
+liud 2 3
+247 249 248
+gzls 3 6
+160 165 162 161 164 163
+qwhg 5 8
+165 159 163 162 161 164 160 158
+ppxe 3 5
+204 200 203 202 201
+kkze 4 6
+94 98 97 95 93 96
+voya 3 6
+77 78 79 81 76 80
+elzz 1 1
+219
+fgkq 3 8
+98 96 100 95 99 101 94 97
+aace 4 8
+202 201 197 198 200 195 199 196
+viye 2 4
+156 157 155 154
+sfmn 3 3
+173 174 172
+qiuf 2 4
+207 206 209 208
+cdsz 2 2
+144 143
+yiub 1 3
+30 32 31
+tfiy 4 8
+174 171 169 168 173 172 175 170
+figt 4 8
+165 161 160 159 158 163 162 164
+murl 2 3
+134 136 135
+mowh 1 2
+186 187
+xwpg 0 1
+80
+kbic 4 4
+242 243 245 244
+wqjj 1 2
+236 237
+ykgs 0 1
+97
+zwne 2 3
+210 212 211
+jwgh 3 4
+102 103 101 104
+omgw 2 5
+205 206 208 207 209
+mdek 1 3
+86 84 85
+apxf 3 7
+187 193 188 190 192 189 191
+pidw 5 7
+122 116 119 120 117 121 118
+gjcd 2 2
+96 95
+memx 3 4
+37 39 36 38
+anxu 0 1
+106
+ptbm 1 2
+51 50
+ezlp 3 4
+86 83 84 85
+ofmd 1 2
+221 220
+rkxf 4 6
+200 204 201 205 202 203
+itml 5 5
+17 20 16 18 19
+fdfb 1 4
+84 86 85 87
+jvqt 1 2
+62 63
+yzrr 0 1
+114
+axhw 1 4
+247 248 249 246
+scic 2 3
+44 46 45
+mhuu 4 5
+175 172 173 176 174
+soka 0 1
+118
+etni 1 4
+91 92 93 90
+cfvr 2 3
+245 244 246
+blao 6 7
+192 197 194 196 195 198 193
+flrq 0 1
+122
+qvej 0 1
+123
+qsgs 3 7
+129 126 131 128 132 127 130
+gcwu 4 4
+55 54 56 57
+rsnv 3 3
+223 222 224
+ozhk 2 6
+217 212 214 215 213 216
+udan 3 5
+1 5 2 3 4
+cdnz 5 6
+231 230 232 235 234 233
+pijc 1 1
+130
+hgrp 3 5
+57 60 59 56 58
+enuf 1 2
+194 193
+fnum 0 1
+133
+zclx 3 7
+208 207 206 205 209 210 211
+oevh 2 3
+0 2 1
+hbep 2 3
+107 109 108
+osye 4 6
+219 220 216 217 221 218
+upki 1 4
+14 11 12 13
+slli 1 2
+241 240
+yigx 3 4
+211 213 212 210
+edbn 1 4
+159 157 156 158
+mcey 1 2
+110 111
+nmjq 0 1
+143
+ozdz 3 7
+186 187 185 190 188 189 191
+bzok 0 1
+145
+sqom 5 8
+2 6 7 8 9 4 3 5
+okbc 0 1
+162
+qdlo 2 8
+131 132 133 129 130 128 127 134
+bwjd 3 4
+151 152 154 153
+wmng 6 6
+27 26 23 25 28 24
+mklt 5 6
+17 12 14 16 13 15
+twvc 2 3
+188 187 186
+bxyb 2 2
+133 132
+crzl 6 7
+177 175 181 180 179 178 176
+bkng 0 1
+126
+lcqs 0 1
+162
+wadn 0 1
+157
+girg 4 6
+202 201 203 199 198 200
+lkkv 0 1
+159
+iafy 0 1
+249
+jgbw 1 1
+161
+tcyw 4 7
+164 162 158 157 159 161 160
+vxnr 5 6
+162 163 161 159 160 158
+bjet 4 5
+67 69 68 66 65
+mupz 0 1
+136
+fnvn 0 2
+62 61
+zeii 1 3
+20 18 19
+agfi 0 1
+168
+tncz 5 7
+103 104 102 100 105 106 101
+tcbu 4 4
+184 183 185 186
+rroq 3 5
+230 229 226 227 228
+jhna 4 7
+42 43 39 38 37 40 41
+rrfz 1 4
+188 189 186 187
+woaj 1 4
+102 100 101 103
+koqq 1 2
+247 246
+iyjp 0 2
+154 153
+iplw 7 8
+33 34 31 32 28 35 29 30
+vuwz 0 1
+178
+bezh 3 4
+202 200 201 203
+ziba 0 1
+157
+lcqi 3 4
+200 201 202 203
+johd 2 6
+81 82 83 78 80 79
+ghoe 2 5
+52 49 51 48 50
+bame 0 1
+95
+jsdv 2 4
+65 62 64 63
+wfgn 2 5
+8 6 5 7 4
+cite 1 1
+187
+cxbs 0 1
+183
+nrzx 6 6
+52 53 55 51 50 54
+mdhd 0 1
+121
+qgmb 2 7
+197 202 200 199 201 198 196
+zgtn 5 6
+33 32 36 35 37 34
+ibcl 1 5
+138 140 136 139 137
+yhlc 0 1
+130
+blic 1 4
+171 170 172 173
+vsdc 1 2
+9 10
+favz 2 3
+139 140 138
+zihn 4 6
+15 12 13 11 10 14
+qviy 3 4
+150 153 152 151
+esic 3 5
+248 246 247 245 249
+iyiq 1 2
+32 33
+yxzi 0 1
+216
+iirs 4 6
+119 116 120 117 121 118
+234 250
+pktq heds ewso trfz hjdy olxt qcov hneo vcvt ipvi ikxk uxtt tcna etnd doja gnqq bzdq cuco rohy excw uksj bwev ypyb dnvy tnbw btas arpg vqii okxb gzml nkvv bosu oknm gkre rjew awyz ixel glmp opfl aznh fptv pzry axyk utxx oysd olly klni mhkv llpc rfpu sjnl rcbs ycjw etdj iscb wita yubn xgcu xgcz aner skjn wldi hxdd buzx ogbx qcvc ngws rwqe neoi yoeo mcec kqur kntm ybqa lxiu ytnd cpua vrkl jmkm msca ciks zydk ndfw gfms thzt sdmz gjuf tjpe bufa qmoc lcbw tuza moae eumg peww suzg xqcv opsw wcah tdln food aerp qxof fijs qohv gyub vupm tcdj bjxl keqa cnlh adit jvji smrs zphj axcj igwz wlbs vgyu ebpo bbly gary lykn tcie rfjm ssut iypo tmix yxks lrmm hmvw rirf odpj jexm gocl ydbt afuy ovkj uodh ykks qtil ybkz vmha uegy tqwh zutk uhtt qhmd wcaw jxwv pjrq masw dmqu mcyf awvp qith mwfe dwum wvum wxwy zxco fhbk rziq poxa hrhv kgje nafp khds tbso sukd jdfy mxoi zquv cuhc spdw wsvp opex ijjf jxxm cgqn gegr dted whud ismg ceae dhjy exga bcjj srdr hvom orkr wmzx icgt cfvf jayf zywh fiuo utui llqq tomz pcxv fgeq gkjk agup noax jmiu xfdr hwhs edpb ibby zzvn mddu gdye hhux wmpg tbwl zojn safx xiaw wket julm cdpk omoc nspz xihp xvvd viur fbvz sovg olml onwx vrfz vezd cfhs hmgn gnyi ozoh mfwj uars ehoq ebxh agbw ttkp qwxl zzxo gjrr forf qicw mlbr iccf
+pktq 1 1
+249
+heds 1 2
+92 93
+ewso 0 1
+1
+trfz 3 4
+235 236 234 233
+hjdy 0 1
+3
+olxt 1 4
+8 9 6 7
+qcov 3 6
+226 223 227 224 222 225
+hneo 1 3
+203 204 202
+vcvt 3 7
+234 233 235 232 236 231 230
+ipvi 6 8
+66 62 67 63 65 60 61 64
+ikxk 2 6
+132 130 133 135 134 131
+uxtt 0 1
+10
+tcna 1 2
+162 163
+etnd 1 5
+9 14 10 11 12
+doja 5 6
+237 240 241 239 236 238
+gnqq 4 8
+241 245 246 244 242 243 240 247
+bzdq 7 7
+78 76 82 77 79 81 80
+cuco 3 7
+88 87 91 90 89 86 92
+rohy 1 4
+15 16 14 17
+excw 2 2
+144 145
+uksj 7 8
+220 226 227 224 225 222 223 221
+bwev 0 1
+20
+ypyb 0 1
+0
+dnvy 2 3
+160 161 162
+tnbw 3 4
+188 189 190 191
+btas 2 3
+200 201 202
+arpg 0 1
+106
+vqii 8 8
+201 206 203 208 202 207 205 204
+okxb 1 2
+39 38
+gzml 4 5
+140 142 141 139 143
+nkvv 4 8
+53 57 55 50 51 52 56 54
+bosu 2 3
+143 142 144
+oknm 2 6
+78 75 77 74 76 79
+gkre 2 3
+79 78 80
+rjew 0 1
+212
+awyz 4 4
+20 23 21 22
+ixel 4 6
+35 37 34 38 32 33
+glmp 0 1
+79
+opfl 1 2
+204 205
+aznh 0 1
+156
+fptv 5 5
+124 122 120 121 123
+pzry 0 1
+57
+axyk 0 1
+16
+utxx 3 7
+52 48 49 47 50 51 53
+oysd 2 7
+71 66 69 72 70 68 67
+olly 1 2
+95 96
+klni 0 1
+45
+mhkv 3 5
+70 72 74 71 73
+llpc 2 4
+140 138 141 139
+rfpu 0 1
+48
+sjnl 2 3
+202 201 200
+rcbs 6 8
+182 184 183 179 181 178 177 180
+ycjw 6 6
+97 100 99 98 101 96
+etdj 3 7
+105 107 104 109 106 110 108
+iscb 0 1
+53
+wita 4 5
+132 133 130 134 131
+yubn 1 4
+247 246 249 248
+xgcu 0 1
+106
+xgcz 0 1
+238
+aner 2 4
+81 83 82 80
+skjn 2 2
+71 70
+wldi 1 3
+12 13 14
+hxdd 0 1
+76
+buzx 2 5
+222 225 223 226 224
+ogbx 0 2
+117 116
+qcvc 0 1
+64
+ngws 7 8
+27 30 24 31 25 26 29 28
+rwqe 0 1
+199
+neoi 0 1
+67
+yoeo 1 2
+22 23
+mcec 0 1
+50
+kqur 0 1
+46
+kntm 0 1
+71
+ybqa 1 4
+88 89 87 86
+lxiu 1 2
+84 85
+ytnd 1 4
+152 151 153 150
+cpua 0 1
+56
+vrkl 0 1
+76
+jmkm 0 1
+77
+msca 3 6
+166 163 165 168 167 164
+ciks 2 8
+172 171 175 176 173 174 170 177
+zydk 0 2
+168 169
+ndfw 0 2
+14 15
+gfms 1 3
+180 181 179
+thzt 4 7
+144 150 145 149 146 148 147
+sdmz 6 6
+117 118 120 115 116 119
+gjuf 2 6
+2 1 3 4 0 5
+tjpe 6 7
+156 152 150 153 155 154 151
+bufa 5 5
+43 46 44 42 45
+qmoc 0 1
+88
+lcbw 4 8
+241 242 240 244 243 245 246 247
+tuza 2 5
+53 56 57 55 54
+moae 1 3
+67 66 68
+eumg 4 5
+102 104 103 100 101
+peww 3 7
+166 170 169 165 167 164 168
+suzg 6 7
+188 187 191 189 190 186 185
+xqcv 7 7
+216 218 212 213 215 217 214
+opsw 4 8
+40 45 42 43 41 47 46 44
+wcah 0 1
+97
+tdln 0 1
+155
+food 3 8
+207 200 202 205 204 203 201 206
+aerp 3 4
+237 235 234 236
+qxof 0 1
+60
+fijs 0 1
+102
+qohv 1 4
+56 59 57 58
+gyub 6 8
+57 53 55 52 51 50 56 54
+vupm 2 8
+44 46 51 49 45 48 47 50
+tcdj 5 7
+214 213 215 211 216 210 212
+bjxl 2 5
+37 35 38 36 34
+keqa 4 5
+178 175 177 174 176
+cnlh 5 7
+64 63 61 65 66 62 60
+adit 2 2
+95 96
+jvji 0 1
+208
+smrs 4 6
+165 162 164 167 166 163
+zphj 6 6
+19 20 17 21 16 18
+axcj 0 1
+150
+igwz 0 1
+4
+wlbs 7 7
+145 142 146 143 144 141 147
+vgyu 2 4
+124 126 127 125
+ebpo 1 3
+202 200 201
+bbly 3 6
+155 151 153 154 150 152
+gary 1 4
+144 145 142 143
+lykn 1 3
+65 66 64
+tcie 2 3
+192 193 191
+rfjm 4 4
+4 6 7 5
+ssut 0 1
+124
+iypo 0 2
+5 4
+tmix 1 2
+34 33
+yxks 0 1
+127
+lrmm 5 6
+64 67 65 63 68 66
+hmvw 0 3
+211 212 210
+rirf 4 5
+10 7 6 9 8
+odpj 0 1
+50
+jexm 2 4
+88 85 87 86
+gocl 4 6
+128 127 130 126 131 129
+ydbt 3 8
+112 114 111 117 115 113 116 110
+afuy 6 8
+95 89 90 88 93 91 94 92
+ovkj 4 6
+195 193 196 194 197 192
+uodh 0 1
+76
+ykks 1 2
+161 162
+qtil 0 1
+139
+ybkz 0 1
+140
+vmha 3 8
+163 158 159 156 160 161 162 157
+uegy 1 3
+75 74 76
+tqwh 1 4
+202 200 201 203
+zutk 4 6
+126 129 127 125 128 130
+uhtt 0 1
+40
+qhmd 2 7
+220 219 223 222 224 225 221
+wcaw 5 7
+128 123 124 125 126 127 122
+jxwv 3 6
+168 171 172 169 170 173
+pjrq 1 4
+102 101 100 103
+masw 4 5
+185 184 186 187 183
+dmqu 2 6
+199 201 200 197 198 196
+mcyf 4 8
+220 221 225 219 222 223 224 226
+awvp 2 2
+87 86
+qith 0 1
+154
+mwfe 2 3
+112 113 114
+dwum 0 1
+56
+wvum 2 3
+180 178 179
+wxwy 0 2
+187 186
+zxco 3 8
+31 35 30 32 37 34 36 33
+fhbk 2 4
+210 211 213 212
+rziq 0 1
+64
+poxa 6 7
+39 33 34 38 35 37 36
+hrhv 5 7
+236 235 234 230 232 233 231
+kgje 7 7
+95 92 90 96 91 94 93
+nafp 2 4
+109 108 107 106
+khds 0 2
+176 175
+tbso 3 5
+233 230 234 232 231
+sukd 2 4
+180 181 179 182
+jdfy 1 5
+210 213 211 214 212
+mxoi 0 1
+170
+zquv 3 4
+164 162 165 163
+cuhc 2 2
+164 165
+spdw 2 8
+54 55 52 51 57 56 50 53
+wsvp 4 5
+200 202 203 204 201
+opex 1 3
+70 69 68
+ijjf 2 6
+41 42 40 44 43 45
+jxxm 6 8
+67 68 69 71 70 72 73 66
+cgqn 1 4
+202 204 201 203
+gegr 3 5
+103 104 101 100 102
+dted 4 4
+136 137 139 138
+whud 3 4
+66 68 69 67
+ismg 1 1
+182
+ceae 0 1
+183
+dhjy 4 7
+159 158 157 161 160 155 156
+exga 0 1
+185
+bcjj 6 8
+100 107 102 101 105 104 103 106
+srdr 3 7
+224 229 230 225 227 228 226
+hvom 0 1
+188
+orkr 1 4
+203 200 202 201
+wmzx 2 2
+48 49
+icgt 2 3
+212 210 211
+cfvf 5 5
+142 143 141 144 140
+jayf 0 1
+193
+zywh 3 8
+135 131 134 133 137 136 130 132
+fiuo 4 5
+130 132 131 134 133
+utui 3 5
+127 128 126 125 129
+llqq 4 8
+17 18 21 23 22 19 16 20
+tomz 0 1
+111
+pcxv 2 3
+151 152 150
+fgeq 1 5
+9 7 10 11 8
+gkjk 1 1
+201
+agup 0 1
+103
+noax 4 8
+72 70 77 71 73 74 76 75
+jmiu 2 7
+189 190 188 186 191 185 187
+xfdr 4 5
+216 215 214 218 217
+hwhs 5 7
+155 159 160 158 161 157 156
+edpb 0 1
+178
+ibby 7 8
+71 72 74 73 78 75 77 76
+zzvn 3 6
+84 80 85 83 82 81
+mddu 2 3
+81 82 83
+gdye 0 1
+211
+hhux 4 5
+218 220 221 222 219
+wmpg 3 3
+31 32 30
+tbwl 4 4
+56 58 57 55
+zojn 0 1
+110
+safx 6 7
+231 232 236 233 230 235 234
+xiaw 4 5
+84 86 83 82 85
+wket 4 6
+68 66 64 65 67 69
+julm 3 3
+121 120 122
+cdpk 1 2
+91 92
+omoc 1 3
+180 179 178
+nspz 2 6
+239 235 238 234 236 237
+xihp 1 5
+16 17 15 14 18
+xvvd 5 5
+153 150 151 154 152
+viur 1 4
+25 26 27 24
+fbvz 0 1
+50
+sovg 3 6
+127 125 126 129 128 124
+olml 4 6
+224 227 226 223 222 225
+onwx 2 6
+175 174 171 173 172 170
+vrfz 5 7
+6 10 11 7 8 9 5
+vezd 2 2
+139 138
+cfhs 1 5
+68 66 67 69 70
+239 250
+yoyt ekve rhfa msfm umjk upvn cmva plgp alvg tgjx yqfp jsoe jaff jzey pnwl rcsy nxpv lpnl rhug rkip tzau qket iejx rbfa bqvl gyfp nazo wxit mdyy wjhr kfpi mxnc mpra oini itmi hjlb dpvi ofdc sdhw rlon byyj puug frnh xeyv mgoe orvf mmaz fjxf axjl trml qqee txnw nmfg impc qsto cerv comn blgi imje qklc dvgu uwvf lxdj dggf qqop voxd lhpo baov ibur rgpd vycw xvab bnkc rgey cmug rvbz ohtv dcqe pzsk snqf msdp mrkx qucl qcuz btly gggj lenm schk jdbj sxre asgv qwvq yild kjyv dkxe giha jlyo tavu bbqx bubl dowq ynwf ahok xloq vzxe vybx iiuz nmtu kwyc ldiz pcax xklc ugnj tyrm mxoz erlq zgyq jmjc zsjy hglp slhd isdg eqwd chbk xvxi fzeo prdq oeml qrtz enhi ymdo wgji smdu etcs trhm nknx otzt dqis xiqg wrhi fqnq iuln ecej cdyg oona adeq yrre anbh ttmb rvbe csnv alkm xoqp jaar pfct nenk lcts xywg nldq eolj sqap psya lcyn bwtd nmmf rqvx urqv shbv dbbx jtzs sfmi frku ztml iuoy czzf danw fvof tbah hscw aueo cvpz tdoa vulp gygw wvga wscu tkmh uhnm qfch itaw xyib enxo hueb vvfd rpvz xtqp fzii ujux ldrv whqf rymi ouqp uaig yiuv wuws fams srsp ptcj owqs uqrv oonw koam bluz dolk gdgk ahpn zphi mqtk ruri wnjm fdon tonp iqeq wlrt zpxt ouuq audz yegl uqqn lmea akfk xlct vvfi jzuh txzx niwo injq zqej nsug wklo woux xhxd kfrm hbwb gwpw blbt agfj psci bbrf zhsc
+yoyt 1 3
+1 2 3
+ekve 0 2
+180 181
+rhfa 4 4
+87 86 85 84
+msfm 3 7
+74 71 69 72 68 70 73
+umjk 0 1
+38
+upvn 2 4
+227 228 226 225
+cmva 3 6
+110 112 115 113 111 114
+plgp 6 7
+165 170 167 166 169 164 168
+alvg 3 4
+37 36 35 34
+tgjx 3 4
+156 157 159 158
+yqfp 4 6
+192 190 193 191 194 195
+jsoe 1 1
+212
+jaff 0 1
+11
+jzey 3 6
+159 161 162 160 163 164
+pnwl 6 7
+81 85 84 82 80 86 83
+rcsy 1 3
+196 195 197
+nxpv 8 8
+68 64 62 69 63 67 65 66
+lpnl 3 5
+97 98 101 100 99
+rhug 0 1
+17
+rkip 0 1
+18
+tzau 6 6
+144 141 145 140 142 143
+qket 2 3
+246 247 245
+iejx 0 1
+21
+rbfa 0 3
+161 160 159
+bqvl 2 2
+70 71
+gyfp 1 4
+128 125 126 127
+nazo 2 6
+83 85 84 81 80 82
+wxit 6 6
+42 37 40 38 41 39
+mdyy 1 2
+38 39
+wjhr 5 8
+227 231 225 229 226 224 230 228
+kfpi 5 5
+0 1 4 2 3
+mxnc 2 6
+197 194 196 199 198 195
+mpra 1 3
+48 47 46
+oini 0 1
+32
+itmi 1 2
+168 169
+hjlb 1 3
+185 187 186
+dpvi 3 5
+122 119 121 118 120
+ofdc 0 1
+248
+sdhw 4 5
+40 41 43 44 42
+rlon 4 5
+13 12 11 14 10
+byyj 0 1
+70
+puug 4 7
+177 179 176 173 175 174 178
+frnh 1 2
+137 136
+xeyv 3 3
+243 245 244
+mgoe 1 4
+67 66 65 64
+orvf 3 4
+8 6 7 5
+mmaz 8 8
+76 75 72 73 71 74 77 70
+fjxf 0 1
+225
+axjl 0 1
+47
+trml 0 2
+197 198
+qqee 1 3
+102 101 100
+txnw 0 1
+175
+nmfg 0 1
+51
+impc 1 6
+56 57 51 55 54 52
+qsto 3 3
+184 186 185
+cerv 4 4
+7 6 5 8
+comn 0 1
+14
+blgi 2 4
+174 173 171 172
+imje 1 2
+171 170
+qklc 4 7
+65 66 62 60 61 63 64
+dvgu 2 5
+183 181 180 184 182
+uwvf 2 6
+26 22 27 23 24 25
+lxdj 3 5
+70 74 71 72 73
+dggf 1 1
+62
+qqop 0 1
+6
+voxd 6 8
+193 194 190 192 197 195 196 191
+lhpo 0 1
+65
+baov 1 2
+172 173
+ibur 1 2
+218 219
+rgpd 1 2
+249 248
+vycw 0 2
+30 31
+xvab 2 5
+69 66 70 67 68
+bnkc 2 2
+128 129
+rgey 1 2
+66 65
+cmug 3 5
+70 72 73 71 75
+rvbz 0 1
+74
+ohtv 1 2
+249 248
+dcqe 4 7
+178 182 183 180 177 179 181
+pzsk 3 4
+138 139 137 136
+snqf 2 3
+238 237 239
+msdp 0 1
+79
+mrkx 3 5
+128 129 127 130 131
+qucl 4 5
+200 196 199 198 197
+qcuz 0 1
+49
+btly 2 4
+219 218 221 220
+gggj 1 3
+36 35 37
+lenm 2 3
+198 197 196
+schk 3 5
+237 235 236 234 238
+jdbj 1 3
+140 142 141
+sxre 2 6
+193 195 196 198 197 194
+asgv 3 5
+241 244 243 242 240
+qwvq 1 3
+200 198 199
+yild 1 2
+36 37
+kjyv 5 6
+213 212 216 215 217 214
+dkxe 8 8
+129 127 124 128 126 125 130 131
+giha 1 3
+97 98 96
+jlyo 3 5
+81 80 82 84 83
+tavu 3 6
+231 229 228 227 230 226
+bbqx 2 4
+248 246 249 247
+bubl 2 7
+183 181 182 185 186 187 184
+dowq 4 4
+150 151 153 152
+ynwf 0 1
+168
+ahok 0 1
+156
+xloq 4 6
+128 124 126 125 127 123
+vzxe 2 2
+243 242
+vybx 0 1
+170
+iiuz 1 5
+229 227 230 228 226
+nmtu 0 1
+106
+kwyc 0 1
+96
+ldiz 2 4
+44 46 43 45
+pcax 0 1
+200
+xklc 5 6
+16 11 12 13 15 14
+ugnj 5 5
+13 10 12 11 14
+tyrm 1 2
+88 89
+mxoz 2 6
+95 97 99 94 98 96
+erlq 5 7
+172 173 174 170 176 171 175
+zgyq 1 4
+14 16 15 17
+jmjc 0 1
+167
+zsjy 3 6
+189 188 185 187 186 184
+hglp 2 6
+173 172 171 169 174 170
+slhd 5 6
+72 70 75 71 74 73
+isdg 2 2
+98 99
+eqwd 2 2
+209 208
+chbk 4 6
+21 25 26 23 22 24
+xvxi 3 4
+131 130 133 132
+fzeo 2 5
+128 126 130 127 129
+prdq 1 1
+125
+oeml 1 5
+125 129 126 128 130
+qrtz 2 6
+50 48 46 47 51 49
+enhi 6 8
+32 34 36 33 30 31 37 35
+ymdo 5 5
+221 224 220 223 222
+wgji 1 2
+137 136
+smdu 4 6
+42 46 47 43 45 44
+etcs 1 3
+9 11 10
+trhm 5 5
+150 152 154 151 153
+nknx 3 8
+101 100 106 102 103 104 107 105
+otzt 2 3
+244 242 243
+dqis 0 2
+103 104
+xiqg 0 1
+16
+wrhi 1 4
+18 16 15 17
+fqnq 3 5
+231 230 232 233 234
+iuln 0 1
+75
+ecej 0 1
+141
+cdyg 4 8
+82 83 79 84 85 78 80 81
+oona 4 5
+185 184 183 186 182
+adeq 2 6
+176 180 178 179 177 175
+yrre 1 5
+16 19 18 20 17
+anbh 0 1
+146
+ttmb 0 2
+245 244
+rvbe 3 6
+138 139 142 140 143 141
+csnv 3 8
+104 105 103 101 106 100 107 102
+alkm 2 3
+138 137 136
+xoqp 1 4
+129 128 130 131
+jaar 2 2
+128 127
+pfct 4 4
+66 64 65 67
+nenk 3 5
+179 178 177 176 175
+lcts 4 4
+155 152 153 154
+xywg 1 2
+196 197
+nldq 1 3
+37 36 38
+eolj 2 7
+96 97 95 92 94 93 98
+sqap 1 4
+63 60 62 61
+psya 0 1
+100
+lcyn 2 4
+242 241 240 243
+bwtd 6 7
+63 59 58 62 61 60 57
+nmmf 2 3
+78 77 76
+rqvx 8 8
+40 41 35 37 38 42 36 39
+urqv 3 5
+192 190 189 188 191
+shbv 6 6
+47 49 48 50 46 51
+dbbx 2 5
+129 126 130 128 127
+jtzs 0 1
+168
+sfmi 4 4
+61 63 62 60
+frku 4 8
+124 122 120 121 118 123 119 125
+ztml 0 1
+72
+iuoy 0 2
+201 202
+czzf 2 4
+143 141 142 140
+danw 3 5
+51 50 53 54 52
+fvof 2 5
+142 141 138 140 139
+tbah 3 3
+125 124 126
+hscw 2 8
+81 78 79 76 75 74 80 77
+aueo 0 1
+178
+cvpz 2 7
+161 163 162 160 165 164 166
+tdoa 4 4
+9 8 10 7
+vulp 0 1
+181
+gygw 1 2
+216 215
+wvga 0 1
+42
+wscu 6 7
+194 190 192 196 193 195 191
+tkmh 0 1
+185
+uhnm 5 7
+162 156 161 160 159 158 157
+qfch 2 4
+160 163 162 161
+itaw 1 2
+38 39
+xyib 3 5
+130 132 131 134 133
+enxo 2 2
+115 116
+hueb 7 7
+52 54 55 50 56 51 53
+vvfd 0 2
+4 3
+rpvz 0 1
+193
+xtqp 2 3
+222 220 221
+fzii 0 1
+232
+ujux 3 8
+162 159 161 160 158 157 155 156
+ldrv 0 1
+197
+whqf 8 8
+226 230 229 232 231 227 225 228
+rymi 3 4
+3 1 2 0
+ouqp 5 6
+210 209 212 214 213 211
+uaig 2 5
+106 108 107 104 105
+yiuv 6 6
+130 132 131 128 129 133
+wuws 1 3
+140 138 139
+fams 0 1
+105
+srsp 0 1
+205
+ptcj 2 7
+103 98 99 100 101 104 102
+owqs 0 1
+207
+uqrv 3 4
+40 41 39 42
+oonw 2 3
+161 160 162
+koam 0 1
+105
+bluz 0 1
+211
+dolk 3 6
+120 119 121 118 117 122
+gdgk 0 1
+213
+ahpn 0 1
+214
+zphi 4 6
+193 190 192 194 191 195
+mqtk 0 1
+47
+ruri 6 6
+62 59 63 58 61 60
+wnjm 6 7
+210 213 211 215 212 214 209
+fdon 4 6
+213 214 210 212 211 215
+tonp 0 1
+220
+iqeq 4 8
+136 137 139 142 143 138 140 141
+wlrt 4 5
+219 221 220 218 222
+zpxt 4 6
+12 13 11 10 15 14
+ouuq 1 6
+52 50 55 51 53 54
+audz 0 1
+225
+yegl 4 7
+13 11 12 8 9 14 10
+uqqn 1 2
+113 112
+lmea 5 8
+139 141 135 136 140 137 142 138
+akfk 2 4
+170 172 173 171
+xlct 0 1
+8
+vvfi 0 1
+231
+jzuh 5 7
+249 246 244 243 248 247 245
+txzx 3 7
+225 223 228 226 224 222 227
+niwo 0 1
+234
+injq 3 3
+160 159 158
+zqej 5 7
+90 86 87 88 89 84 85
+nsug 3 3
+245 246 244

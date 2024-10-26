@@ -74,7 +74,7 @@ fn run_case() -> i32 {
     // Initialize fringe with names that don't need approval
     let mut fringe: VecDeque<String> = all_names
         .into_iter()
-        .filter(|name| !person_to_remaining_approvals.contains_key(name))
+        .filter(|name| !person_to_remaining_approvals.contains_key(name) || person_to_remaining_approvals[name] == 0)
         .collect();
 
     let mut seen: HashSet<String> = HashSet::new();

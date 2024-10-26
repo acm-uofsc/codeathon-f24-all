@@ -1,0 +1,6 @@
+![image](https://s3.amazonaws.com/hr-assets/0/1729889288-ec7824ed0a-graph.png)
+![image](https://s3.amazonaws.com/hr-assets/0/1729889302-522bb124ba-graph_key.png)
+
+We have 2 independent test cases. In the first one, we have 8 people at the company, and 3 of them require other people's approval. The president requires all 3 of his contacts to give permission before he will. The first of these, the secretary, only needs 1 of her 3 contacts to give permission. None of her contacts require anyone else to give permission, so the secretary can give her approval. HR does not require anyone else's permission, so they also give permission. However, the vice president requires the president's permission and the president requires the vice president permission, so neither will give permission. Who knows how either of them ever make decisions at this company `¯\_(ツ)_/¯`. Of the 3 people that required permission of others, only one is able to give permission. There were 8 people at this company, so (8 - 3) + 1 = 6 people that were able to give permission
+
+In the second case, dead requires lock, lock requires key, key requires shovel, shovel requires dead. Therefore, all four of them are unable to give permission. Axe was the only one able to give permissions because they didn't require anyone's permission. Hence 1 is printed

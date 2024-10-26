@@ -1,54 +1,82 @@
 import java.util.*;
 
 public class Solution {
-    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int t = scanner.nextInt();  // Number of test cases
+        int t = scanner.nextInt(); // number of test cases
         
         for (int i = 0; i < t; i++) {
-            int a = scanner.nextInt();  // Forward steps
-            int b = scanner.nextInt();  // Backward steps
-            int x = scanner.nextInt();  // Target distance
-
-            System.out.println(minPhoneChecks(a, b, x));
+            int a = scanner.nextInt(); // steps forward
+            int b = scanner.nextInt(); // steps backward
+            int x = scanner.nextInt(); // target position
+            
+            System.out.println(findMinimumChecks(a, b, x));
         }
+        scanner.close();
     }
-
-    public static int minPhoneChecks(int a, int b, int x) {
-        // BFS uses a queue to track positions and the number of moves to reach them
-        Queue<int[]> queue = new LinkedList<>();
-        Set<Integer> visited = new HashSet<>();  // To avoid revisiting the same position
+    
+    private static int findMinimumChecks(int a, int b, int x) {
+        // If target is 0, we're already there
+        if (x == 0) return 1;
         
-        queue.offer(new int[]{0, 1});  // Start at position 0 with 0 moves
-        visited.add(0);
-
-        while (!queue.isEmpty()) {
-            int[] current = queue.poll();
-            int position = current[0];
-            int moves = current[1];
-
-            // If we reached the target, return the number of moves (phone checks)
-            if (position == x) {
-                return moves;
-            }
-
-            // Move forward by 'a' steps
-            int forward = position + a;
-            if (!visited.contains(forward) && forward <= x + b) { // Limit how far we can move forward
-                visited.add(forward);
-                queue.offer(new int[]{forward, moves + 1});
-            }
-
-            // Move backward by 'b' steps
-            int backward = position - b;
-            if (backward >= 0 && !visited.contains(backward)) {  // Only consider valid positions (>= 0)
-                visited.add(backward);
-                queue.offer(new int[]{backward, moves + 1});
-            }
+        // If target is negative, convert problem to equivalent positive case
+        if (x < 0) {
+            x = -x;
+            int temp = a;
+            a = b;
+            b = temp;
         }
 
-        // If we exhausted all possibilities and never reached `x`, return -1 (impossible)
+        
+        // Use BFS with bounded search space
+        Queue<Long> queue = new LinkedList<>();
+        Set<Long> visited = new HashSet<>();
+        Map<Long, Integer> moves = new HashMap<>();
+        
+        queue.offer(0L);
+        visited.add(0L);
+        moves.put(0L, 0);
+        
+        while (!queue.isEmpty()) {
+            long currentPos = queue.poll();
+            int currentMoves = moves.get(currentPos);
+            
+            // Try moving forward
+            long forwardPos = currentPos + a;
+            if (forwardPos == x) {
+                return currentMoves + 2;  // +1 for this move, +1 for initial check
+            }
+            
+            if (!visited.contains(forwardPos) && forwardPos <= x + b && 
+                Math.abs(forwardPos) <= 100000) {
+                queue.offer(forwardPos);
+                visited.add(forwardPos);
+                moves.put(forwardPos, currentMoves + 1);
+            }
+            
+            // Try moving backward
+            long backwardPos = currentPos - b;
+            if (backwardPos == x) {
+                return currentMoves + 2;  // +1 for this move, +1 for initial check
+            }
+            
+            if (!visited.contains(backwardPos) && backwardPos >= x - a && 
+                Math.abs(backwardPos) <= 100000) {
+                queue.offer(backwardPos);
+                visited.add(backwardPos);
+                moves.put(backwardPos, currentMoves + 1);
+            }
+        }
+        
         return -1;
+    }
+    
+    private static int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }

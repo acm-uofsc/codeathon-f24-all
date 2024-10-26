@@ -1,0 +1,63 @@
+3
+13 14
+eamn abgi tach tzke qpnt neig yjek svjw saiw zmyx vvsy zmrw oiip xykb
+neig 1 1
+2
+vvsy 1 1
+5
+svjw 1 1
+10
+abgi 1 1
+7
+zmrw 1 1
+1
+oiip 1 1
+11
+saiw 1 1
+12
+tzke 1 1
+8
+qpnt 1 1
+3
+eamn 1 1
+4
+yjek 1 1
+0
+zmyx 1 1
+6
+tach 1 1
+9
+7 8
+ruzm xmbu bwce qjjk styb frjh evql ajvi
+ruzm 0 1
+1
+xmbu 4 5
+4 7 6 5 3
+bwce 1 1
+1
+qjjk 0 1
+2
+styb 4 4
+2 0 3 1
+frjh 0 1
+4
+evql 0 1
+0
+8 9
+gfnd yllx oskr bhol ovhy slsj yocd mrnu niat
+gfnd 0 1
+1
+yllx 1 4
+8 6 7 5
+oskr 1 4
+6 5 7 8
+bhol 5 5
+5 0 4 2 1
+ovhy 1 2
+2 3
+slsj 2 3
+8 7 6
+yocd 0 1
+5
+mrnu 2 3
+5 6 4

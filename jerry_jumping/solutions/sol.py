@@ -9,7 +9,7 @@ for i in range(s):
     pos += 1
     if pos == len(tiles):
         pos = 0
-    elif tiles[pos] == 0:
+    if tiles[pos] == 0:
         tiles[pos] = 5
         pos = 0
     # print(f"after move {i+1}:", file=sys.stderr)

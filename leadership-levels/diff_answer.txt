@@ -1,0 +1,21 @@
+1
+9 10
+cjil udkr skhk dubs hmio ozva spkv qfio ejzy kqni
+cjil 2 4
+1 2 3 4
+udkr 0 1
+2
+skhk 3 4
+3 4 5 6
+dubs 1 2
+4 5
+hmio 6 6
+1 2 3 5 6 7
+ozva 2 2
+1 2
+spkv 0 2
+8 9
+qfio 0 1
+9
+ejzy 4 5
+2 3 4 5 6

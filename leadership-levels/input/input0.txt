@@ -1,6 +1,6 @@
 2
 3 8
-president secretary HR vicePresident janitor manager nia grace
+president secretary HR vicePresident janitor manager grace nia
 president 3 3
 1 2 3
 secretary 1 3

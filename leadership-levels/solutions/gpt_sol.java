@@ -61,7 +61,7 @@ public class ApprovalHierarchy {
         // Initialize fringe with names that don't need approval
         Deque<String> fringe = new ArrayDeque<>();
         for (String name : allNames) {
-            if (!personToRemainingApprovals.containsKey(name)) {
+            if (personToRemainingApprovals.getOrDefault(name, 0) == 0) {
                 fringe.add(name);
             }
         }
