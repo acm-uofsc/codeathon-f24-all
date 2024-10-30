@@ -31,7 +31,6 @@ fn main() {
     
     // Pre-calculate dp table for all ingredients up to max worry level
     const MAX_WORRY: usize = 2000;
-    let dp = calculate_all_states(&ingredients, MAX_WORRY);
     
     // Read and process queries efficiently
     let q: i32 = lines.next().unwrap().unwrap()
@@ -46,8 +45,9 @@ fn main() {
         let nums: Vec<i32> = line.split_whitespace()
             .map(|x| x.parse().unwrap())
             .collect();
-            
+        
         let query_worry = nums[0] as usize;
+        let dp = calculate_all_states(&ingredients, query_worry);
         let k = nums[1] as usize;
         
         // Simply look up the pre-calculated value

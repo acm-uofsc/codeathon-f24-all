@@ -1,5 +1,5 @@
-from collections import deque
-from collections import defaultdict
+from collections import deque, defaultdict
+
 def solve():
     a, b, x = map(int, input().split())
     bounds = 30000
@@ -15,7 +15,6 @@ def solve():
             break
         fringe.append((cur + a, steps + 1))
         fringe.append((cur - b, steps + 1))
-    # print(seen)
     print(seen[x])
 
 cases = int(input())
